@@ -1,0 +1,163 @@
+<html><!-- InstanceBegin template="/Templates/Miniclip-Help.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Club Penguin</title>
+<!-- InstanceEndEditable -->
+
+<script type="text/javascript">
+function goAnchor( id )
+{
+	anchorPos = document.getElementById( id ).offsetTop;
+	document.body.scrollTop = anchorPos;
+	return false;
+}
+
+function getQueryVariable(variable) 
+{
+	var query = window.location.search.substring(1);
+
+	if (query.length > 0)
+	{
+		var vars = query.split("&");
+		
+		for (var i=0; i<vars.length; i++) 
+		{
+			var pair = vars[i].split("=");
+			
+			if (pair[0] == variable) 
+			{
+				return pair[1];
+			}
+		}
+	}
+	else
+	{
+		return '';
+	}
+}
+</script>
+<!-- InstanceBeginEditable name="head" -->
+<link href="http://www.clubpenguin.com/style-form.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_validateForm() { //v4.0
+  var i,p,q,nm,test,num,min,max,errors='',args=MM_validateForm.arguments;
+  for (i=0; i<(args.length-2); i+=3) { test=args[i+2]; val=MM_findObj(args[i]);
+    if (val) { nm=val.name; if ((val=val.value)!="") {
+      if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
+        if (p<1 || p==(val.length-1)) errors+='- '+nm+' must contain an e-mail address.\n';
+      } else if (test!='R') { num = parseFloat(val);
+        if (isNaN(val)) errors+='- '+nm+' must contain a number.\n';
+        if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
+          min=test.substring(8,p); max=test.substring(p+1);
+          if (num<min || max<num) errors+='- '+nm+' must contain a number between '+min+' and '+max+'.\n';
+    } } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
+  } if (errors) alert('The following error(s) occurred:\n'+errors);
+  document.MM_returnValue = (errors == '');
+}
+//-->
+</script>
+<!-- InstanceEndEditable -->
+<link href="../../../style-miniclip.css" rel="stylesheet" type="text/css">
+</head>
+
+
+<body id="top">
+<div id="wrap"><!-- InstanceBeginEditable name="Content" -->
+
+              <table width="680" border="0" cellpadding="20" cellspacing="0">
+                <tr>
+                  <td align="left"><span class="plaintext"><a href="../index.html">Club Penguin Help</a> &gt; Report a Bug </span>                    <h1>Report a Bug</h1>
+                      <p class="plaintext"><font color="#FF0000"><strong>Note</strong>: We will only reply to a Bug report if we require more information.</font></p>
+                      <p class="plaintext">                      Please <a href="general.php">contact support</a> if you have a question.</p>
+  
+                    <p class="plaintext">Please complete the following form:</p>
+                      <table width="100%"  border="0" cellpadding="0" cellspacing="0" class="form">
+                          <form name="form" method="post" action="http://support.clubpenguin.com/mc/php/SubmitTicket.php">
+                            <span class="plaintext">
+                          <input type='hidden' name='SupportCategory' value='2' />
+                          <input type='hidden' name='rnd' value='3232146' />
+                          <input name="Subject" type="hidden" id="Subject" value="Bug">
+                          <input name="Action" type="hidden" id="Action" value="Process">
+                            </span>
+                            <tr bgcolor="#EEEEEE">
+                              <td width="25%" class="plaintext">First Name:</td>
+                              <td width="50%" bgcolor="#EEEEEE" class="plaintext"><b>
+                                <input name="FirstName" type="text" id="FirstName" size="32">
+  
+                              </b></td>
+                              <td width="25%" class="note">&nbsp;</td>
+                            </tr>
+                            <tr bgcolor="#EEEEEE">
+                              <td class="plaintext">Last Name: </td>
+                              <td bgcolor="#EEEEEE" class="plaintext"><b>
+                                <input name="LastName" type="text" id="LastName" size="32">
+                              </b></td>
+  
+                            <td class="note">&nbsp;</td>
+                            </tr>
+                            <tr bgcolor="#EEEEEE">
+                              <td class="plaintext">Penguin Name: </td>
+                              <td bgcolor="#EEEEEE" class="plaintext"><b>
+                                <input name="PenguinName" type="text" id="PenguinName" size="32">
+                              </b></td>
+                              <td class="note">&nbsp;</td>
+  
+                          </tr>
+                            <tr bgcolor="#EEEEEE">
+                              <td class="plaintext">Email Address: </td>
+                              <td bgcolor="#EEEEEE" class="plaintext"><b>
+                                <input name="Email" type="text" id="Email" size="32">
+                              </b></td>
+                              <td class="note">&nbsp;</td>
+                            </tr>
+  
+                          <tr>
+                              <td colspan="3" class="plaintext">Please provide a detailed report of the bug or error, including the server name, room, and time </td>
+                            </tr>
+                            <tr bgcolor="#EEEEEE">
+                              <td valign="top" class="plaintext">Message:</td>
+                              <td colspan="2" bgcolor="#EEEEEE" class="plaintext"><b>
+                                <textarea name="Content" cols="38" rows="8" wrap="VIRTUAL" id="Comments"></textarea>
+                              </b></td>
+  
+                          </tr>
+                            <tr>
+                              <td width="25%">&nbsp;</td>
+                              <td width="50%" class="plaintext">
+                              <input name="p" type="submit" class="button" id="Submit" onClick="MM_validateForm('FirstName','','R','LastName','','R','Email','','RisEmail','Comments','','R');return document.MM_returnValue" value="Submit">
+                              </td>
+                              <td width="25%">&nbsp;</td>
+                            </tr>
+                          </form>
+                  </table></td>
+                </tr>
+
+              </table>
+              <!-- InstanceEndEditable --></div>
+<script>
+	var anchorTag = getQueryVariable('anchor');
+	
+	if (anchorTag.length > 0)
+	{
+		goAnchor(anchorTag);
+	}
+</script>
+<table width="700" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td><div align="right"><a href="../index.html" class="note">Help</a> | <a href="../../privacy.htm" class="note"></a><a href="../../parents.htm" class="note">Parents Guide</a> | <a href="../../privacy.htm" class="note"></a><a href="../../terms.htm" class="note">Terms</a> | <a href="../../privacy.htm" class="note">Privacy</a></div></td>
+  </tr>
+</table> 
+
+</body>
+<!-- InstanceEnd --></html>
+
+

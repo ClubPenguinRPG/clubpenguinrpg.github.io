@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AWARDSRECOG>
+	<LANGUAGE>french</LANGUAGE>
+	
+	<TITLES>
+		<AWARDS>PRIX</AWARDS>
+		<STANDARDS>LABELS</STANDARDS>
+	</TITLES>
+	
+	<ACCOLADE>
+		<HEADING>2009 Webby Awards</HEADING>
+		<SUBHEADING>Catégorie Jeux</SUBHEADING>
+		<CONTENT>Les Webby Awards, prix d’excellence décernés aux sites internet, font figure de référence à l’échelle international. Présentés par la International Academy of Digital Arts and Sciences (académie internationale des arts et sciences digitaux), les Webby Awards reçoivent plus de 10 000 candidatures chaque année, venant de plus de 60 pays différents.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>Parents’ Choice Recommended</HEADING>
+		<SUBHEADING>Gold Award 2008</SUBHEADING>
+		<CONTENT>Fidèle à son statut de première organisation américaine à but non lucratif ayant pour but d’identifier les médias pour enfants de qualité, les Parents’ Choice Awards cherchent à aider les parents et les éducateurs à faire le bon choix pour l’achat de produits destinés aux enfants. Leurs prix récompensent les produits se distinguant de par leurs qualités éducatives et ludiques, stimulant l’imagination et la créativité.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>Children’s Technology Review (revue spécialisée)</HEADING>
+		<SUBHEADING>“Editor’s Choice”</SUBHEADING>
+		<CONTENT>Cette revue est conçue pour aider les parents, éducateurs et bibliothécaires à se tenir informés sur les médias et technologies de qualité destinés aux enfants. Son fondateur et rédacteur en chef, Warren Buckleitner, est également éducateur et spécialiste du développement chez l’enfant.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>National Parenting Publications Awards (NAPPA)</HEADING>
+		<SUBHEADING>Nappa Gold 2008</SUBHEADING>
+		<CONTENT>NAPPA (prix national pour les publications destinées aux parents) est le guide de référence pour les parents et les professionnels recherchant les meilleurs produits pour enfants. En tant que lauréat du NAPPA Gold Award, Club Penguin s’est distingué grâce au caractère amusant, attrayant, sécurisé et éducatif de son site.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>Kidspot</HEADING>
+		<SUBHEADING>Best of 2008</SUBHEADING>
+		<CONTENT>Kidspot est le site de référence en Australie en matière d’éducation des enfants. Après avoir recueilli en 2008 les votes et commentaires de plus de 1500 parents australiens,  les tout premiers Kidspot Best of Awards ont élu Club Penguin meilleur site internet pour les 8-11 ans. </CONTENT>
+	</ACCOLADE>	
+	
+	<ACCOLADE>
+		<HEADING>Entertainment Standard of Excellence</HEADING>
+		<SUBHEADING>WebAwards 2008</SUBHEADING>
+		<CONTENT>La WebAward Competition récompense une sélection des meilleurs sites présents de nos jours sur internet. En faisant partie des lauréats, Club Penguin s’est distingué de par son design original, sa simplicité, la qualité de son contenu, son niveau d’interactivité, et de par son utilisation innovante de nouvelles technologies.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>WiredKids</HEADING>
+		<SUBHEADING>Best of the Web Award 2009</SUBHEADING>
+		<CONTENT>Choisi parmi des milliers de sites, Club Penguin s’est vu remettre, aux côtés de seulement 13 autres, le WiredKids Best of the Web Award 2009. Après avoir été nominés par les enfants, et passés en revue par les parents, les gagnants ont été sélectionnés par Parry Aftab, avocat et spécialiste internet, qui a également fondé l’organisation WiredKids et WiredSafety.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>TRUSTe</HEADING>
+		<SUBHEADING></SUBHEADING>
+		<CONTENT>TRUSTe aide les internautes à naviguer en toute sécurité sur la toile en les orientant vers des sites de confiance. Les entreprises qui affichent le label de TRUSTe sur leur site se conforment aux normes les plus strictes en matière de protection des informations à caractère confidentiel.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>Better Business Bureau</HEADING>
+		<SUBHEADING>2008 Torch Award</SUBHEADING>
+		<CONTENT>Les BBB Torch Awards distinguent les entreprises faisant preuve de la plus haute intégrité envers leurs clients, leur personnel et leurs investisseurs. Ce label met également en avant ceux qui ont investi des sommes considérables, et accompli d’importants efforts, afin de promouvoir le changement social au sein de leur industrie. Club Penguin a remporté le Advancing Marketplace Trust Award.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>Entertainment Software Rating Board (ESRB)</HEADING>
+		<SUBHEADING>Tous publics</SUBHEADING>
+		<CONTENT>L’ESRB (commission de classification des jeux vidéos et en ligne) décide de la classification des jeux vidéos et en ligne en fonction de leur contenu, fait respecter les règles en matière de publicité observées par l’industrie, et s’assure que le traitement des informations personnelles en ligne se fait de manière responsable. L’ESRB aide ainsi les consommateurs à faire un choix informé et convenant à un jeune public.</CONTENT>
+	</ACCOLADE>
+</AWARDSRECOG>

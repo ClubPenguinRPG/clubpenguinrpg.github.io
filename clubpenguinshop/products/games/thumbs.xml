@@ -1,0 +1,8 @@
+﻿<thumbs productDescription="A new perspective of The Club Penguin world, this 6” spherical puzzle of the island will spark your imagination.
+This 3-D plastic spherical puzzle has 60 pieces and includes a puzzle stand and assembly guide.">
+
+  <thumb src = "products/games/images/tn_front.jpg" caption = "3-D Puzzle Ball - Front View" href = "front" />
+  <thumb src = "products/games/images/tn_back.jpg" caption = "3-D Puzzle Ball - Back View" href = "back" />
+  <thumb src = "products/games/images/tn_side.jpg" caption = "3-D Puzzle Ball - Side View" href = "side" />
+  <thumb src = "products/games/images/tn_top.jpg" caption = "3-D Puzzle Ball - Top View" href = "top" />
+</thumbs>

@@ -1,0 +1,238 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/Blank.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Club Penguin - Site Map</title>
+<!-- InstanceEndEditable --><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="style.css" rel="stylesheet" type="text/css">
+<SCRIPT src="flash/flash.js" type=text/javascript></SCRIPT>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<link href="style-penguin.css" rel="stylesheet" type="text/css">
+<link href="css/nav_inside.css" rel="stylesheet" type="text/css">
+</head>
+<body bgcolor="#FFFFFF" class="bg_white"> 
+<a name="top"></a>
+
+
+<div id="wrap">
+  <div id="header"> <a href="index.html"><img src="images/clubpenguin.gif" alt="Club Penguin" width="307" height="152" border="0" align="left"></a> 
+    <SCRIPT type=text/javascript>RunFlash('http://www.clubpenguin.com/flash/HeaderInsideRevised.swf','453','152','#0099CC');</SCRIPT>
+        <NOSCRIPT>
+          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="453" height="152">
+            <param name="movie" value="flash/HeaderInsideRevised.swf">
+            <param name=quality value=high>
+            <param name="wmode" value="transparent"><param name="BGCOLOR" value="#0099CC">
+            <embed src="flash/HeaderInsideRevised.swf" width="453" height="152" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" wmode="transparent" bgcolor="#0099CC"></embed>
+        </object>
+    </NOSCRIPT>
+  </div>
+   
+  <div class="yellow"><!-- empty --></div>
+	
+  <div id="memnav">
+    <div class="play"><a href="http://play.clubpenguin.com/">Play</a></div>
+	
+    <div class="parents"><a href="parents.htm">Parents </a></div>
+    <div class="help"><a href="help/index.html">Help</a></div>
+    <div class="member"><a href="https://secure.clubpenguin.com/membership/">Membership</a></div>
+    <div class="shop"><a href="clubpenguinshop/index.html">Shop</a></div>
+	
+     <div class="what-new"><a href="http://blog.clubpenguin.com/">What's New </a></div>
+	 <div class="cont-us"><a href="contact.htm">Contact Us </a></div>
+	 <div class="home"><a href="index.html">Home</a></div>
+  </div>
+  
+  <table width="760" height="360" border="0" align="center" cellpadding="20" cellspacing="0">
+    <tr>
+      <td height="28" align="center" valign="top" class="content">
+        <table width="718" height="500" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td align="left" valign="top"><!-- InstanceBeginEditable name="Content" -->
+              <p><span class="lg_title">Site Map </span></p>
+              <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+                <tr>
+                  <td>
+                    <div align="left"> <span class="lg_title"><img src="images/map.gif" width="250" height="231" align="right"></span>
+                      <p><a href="index.html" class="iconlinks">Club Penguin Home</a> </p>
+                      <ul>
+                        <li><a href="http://play.clubpenguin.com/" class="iconlinks">Play</a></li>
+                    <li><a href="parents.htm" class="iconlinks">Parents</a>
+                      <ul>
+                              <li><a href="parents/club-penguin-guide.htm" class="iconlinks">Club Penguin Guide</a></li>
+                            <li><a href="parents/what-people-are-saying.htm" class="iconlinks">What People Are Saying</a></li>
+                            <li><a href="parents/player-safety.htm" class="iconlinks">Player Safety</a></li>
+                            <li><a href="parents/privacy-protection.htm" class="iconlinks">Privacy Protection</a></li>
+                            <li><a href="parents/kids-health.htm" class="iconlinks">Kid's Health and Learning</a></li>
+                            <li><a href="parents/global-citizenship.htm" class="iconlinks">Global Citizenship</a></li>
+                          </ul>
+                        </li>
+                        <li><a href="help/index.html" class="iconlinks">Help</a></li>
+                      </ul>
+                      <ul>
+                        <ul>
+                          <li><strong><a href="help/help_tutorials.html" class="iconlinks">Help & Tutorials</a></strong>
+                            <ul>
+                              <li><a href="help/help/your-penguin.htm" class="iconlinks">Your Penguin</a></li>
+                              <li><a href="help/help/mini-games.htm" class="iconlinks">Mini Games</a></li>
+                              <li><a href="help/help/navigation.htm" class="iconlinks">Navigation</a></li>
+                              <li><a href="help/help/your-igloo.htm" class="iconlinks">Your Igloo</a></li>
+                              <li><a href="help/help/penguin-coins.htm" class="iconlinks">Penguin Coins</a></li>
+                              <li><a href="help/help/newspaper.htm" class="iconlinks">Newspaper</a></li>
+                              <li><a href="help/help/characters.htm" class="iconlinks">Characters</a></li>
+                              <li><a href="help/help/special-roles.html" class="iconlinks">Special Roles</a></li>
+                              <li><a href="help/help/secrets.htm" class="iconlinks">Secrets</a></li>
+                              <li><a href="help/help/your-account.htm" class="iconlinks">Your Account</a></li>
+                              <li><a href="help/help/other-penguins.htm" class="iconlinks"> Other Penguins</a></li>
+                              <li><a href="help/help/puffles.htm" class="iconlinks">Puffles</a></li>
+                              <li><a href="help/help/communicating.htm" class="iconlinks">Communicating</a></li>
+                              <li><a href="help/help/safety.htm" class="iconlinks">Safety</a></li>
+                            </ul>
+                          </li>
+                          <li><strong><a href="help/frequently_asked_questions.html" class="iconlinks">Frequently Asked Questions </a></strong>
+                            <ul>
+                              
+                              <li><a href="help/faq/become-member.htm" class="iconlinks">Become a member?</a></li>
+                              <li><a href="help/faq/cancel-my-membership.htm" class="iconlinks">Cancel my membership?</a></li>
+                              <li><a href="help/faq/find-activation-code.htm" class="iconlinks">Find my activation code?</a></li>
+                              <li><a href="http://support.clubpenguin.com/lost-password.php" class="iconlinks">Forgot Password?</a> </li>
+                              <li><a href="help/faq/become-moderator.htm" class="iconlinks">Become a moderator?</a></li>
+                              <li><a href="help/faq/club_penguin_rules.htm" class="iconlinks">Club Penguin Rules</a></li>
+                              <li><a href="help/faq/index.htm" class="iconlinks">Membership FAQ</a></li>
+                              <li><a href="http://support.clubpenguin.com/help/contact/" class="iconlinks">Comments And Questions</a></li>
+                            </ul>
+                          </li>
+                          <li><strong class="iconlinks"><a href="help/technical_help.html">Technical Questions</a></strong>
+                            <ul>
+                              <li><a href="help/technical/clear-my-cache.htm" class="iconlinks">I'm asked to clear my cache?</a></li>
+                              <li><a href="help/technical/clear-cache-get-error-message.htm" class="iconlinks">I&rsquo;ve cleared my cache, but I&rsquo;m getting the same error message!</a></li>
+                              <li><a href="help/technical/remember-me-doesnt-work.htm" class="iconlinks">Remember me does not work?</a></li>
+                              <li><a href="help/technical/loading-takes-forever.htm" class="iconlinks">Loading takes forever?</a></li>
+                              <li><a href="help/technical/game-running-slowly.htm" class="iconlinks">The game is running slowly?</a></li>
+                              <li><a href="help/technical/not_appearing.htm" class="iconlinks">Some parts of the game aren't appearing on my screen?</a></li>
+                              <li><a href="help/technical/connection_slow.htm" class="iconlinks">My connection is slow?</a></li>
+                              <li><a href="help/technical/connection_how_fast.htm" class="iconlinks">I need to know how fast my connection should be?</a></li>
+                              <li><a href="help/technical/cant_connect_server.htm" class="iconlinks">I can't connect to the server?</a></li>
+                              <li><a href="help/technical/username-password-errors.htm" class="iconlinks">I have username or password errors?</a></li>
+                              <li><a href="help/technical/lost_connection.htm" class="iconlinks">I lost my connection?</a></li>
+                              <li><a href="help/technical/computer.htm" class="iconlinks">I'm not sure what kind of computer I should be using?</a></li>
+                            </ul>
+                          </li>
+                        </ul>
+                        <li><a href="clubpenguinshop/index.html" class="iconlinks">Club Penguin Shop</a></li>
+                        <ul>
+                          <li><strong>Puffle Keychain</strong>
+                            <ul>
+                              <li><a href="clubpenguinshop/keychain/blue-keychain.htm" class="iconlinks">Blue Puffle Keychain</a></li>
+                              <li><a href="clubpenguinshop/keychain/green-keychain.htm" class="iconlinks">Green Puffle Keychain</a></li>
+                              <li><a href="clubpenguinshop/keychain/pink-keychain.htm" class="iconlinks">Pink Puffle Keychain</a></li>
+                              <li><a href="clubpenguinshop/keychain/black-keychain.htm" class="iconlinks">Black Puffle Keychain</a></li>
+                              <li><a href="clubpenguinshop/keychain/purple-keychain.htm" class="iconlinks">Purple Puffle Keychain</a></li>
+                              <li><a href="clubpenguinshop/keychain/red-keychain.htm" class="iconlinks">Red Puffle Keychain</a></li>
+                            </ul>
+                          </li>
+                          <li><strong>Puffles</strong></li>
+                          <ul><li class="iconlinks"><a href="clubpenguinshop/puffles/blue-puffle.htm">Blue Puffle</a></li>
+                            <li><a href="clubpenguinshop/puffles/purple-puffle.htm" class="iconlinks">Purple Puffle</a></li>
+                          <li>  <a href="clubpenguinshop/puffles/black-puffle.htm" class="iconlinks">Black Puffle</a></li>
+                          <li><a href="clubpenguinshop/puffles/pink-puffle.htm" class="iconlinks">Pink Puffle</a></li>
+                          <li><a href="clubpenguinshop/puffles/green-puffle.htm" class="iconlinks">Green Puffle</a></li>
+                          <li><a href="clubpenguinshop/puffles/red-puffle.htm" class="iconlinks">Red Puffle</a> </li>
+                          </ul>
+                          <li><strong>Clothing</strong>
+                            <ul>
+                            <li><a href="clubpenguinshop/clothing/tshirt-rockhopper.html" class="iconlinks">Rockhopper T-Shirt</a></li>
+                              <li><a href="clubpenguinshop/clothing/tshirt-pink-puffle.htm" class="iconlinks">Pink Puffle T-Shirt</a></li>
+                              <li><a href="clubpenguinshop/clothing/tshirt-purple-puffle.htm" class="iconlinks">Purple Puffle T-Shirt</a></li>
+                              <li><a href="clubpenguinshop/clothing/tshirt-black-puffle.htm" class="iconlinks">Black Puffle T-Shirt</a> </li>
+                            </ul>
+                          </li>
+                          <ul> <li><a href="clubpenguinshop/clothing/tshirt-club-penguin.htm" class="iconlinks">Club Penguin T-Shirt</a></li>
+                          <li><a href="clubpenguinshop/clothing/tshirt-club-penguin-girls.htm" class="iconlinks">Club Penguin Girl's T-Shirt</a> </li>
+                          <li><a href="clubpenguinshop/clothing/beanie-club-penguin.htm" class="iconlinks">Beanie</a></li>
+                          <li><a href="clubpenguinshop/clothing/cap-black-puffle.htm" class="iconlinks">Black Puffle 
+                            Cap </a></li>
+                          <li><a href="clubpenguinshop/clothing/hoodie-black.htm" class="iconlinks">Black Puffle Hoodie</a></li>
+                          <li><a href="clubpenguinshop/clothing/hoodie-purple.htm" class="iconlinks">Purple Puffle Hoodie </a></li>
+                          </ul>
+                         <li><a href="clubpenguinshop/customer-service/index.html" class="iconlinks">Customer Service</a></li>
+                         <li><a href="clubpenguinshop/customer-service/shipping.html" class="iconlinks">Shipping Information</a></li>
+                         <li><a href="clubpenguinshop/customer-service/privacy.htm" class="iconlinks">Privacy Policy</a></li>
+                         <li><a href="clubpenguinshop/customer-service/faq.html" class="iconlinks">FAQ</a></li>
+                        </ul>
+                        <li><a href="http://play.clubpenguin.com/edit.htm" class="iconlinks">My Account</a></li>
+                        <li><a href="https://secure.clubpenguin.com/membership/" class="iconlinks">Become a Member </a></li>
+                        <li><a href="contact.htm" class="iconlinks">Contact Us</a></li>
+                        <ul>
+                          <li><a href="http://support.clubpenguin.com/help/contact/" class="iconlinks">Contact Support</a></li>
+                          <ul>
+                            <li><a href="http://support.clubpenguin.com/help/contact/billing.htm" class="iconlinks">Billing Issues</a></li>
+                            <li><a href="http://support.clubpenguin.com/help/contact/general.php" class="iconlinks">General Question</a></li>
+                            <li><a href="http://support.clubpenguin.com/help/contact/technical.php" class="iconlinks">Technical Question</a></li>
+                            <li><a href="http://support.clubpenguin.com/help/contact/bug.php" class="iconlinks">Report a Bug</a> </li>
+                          </ul>
+                        </ul>
+                        <li><a href="company/index.html" class="iconlinks">Company</a>
+                          <ul>
+                            <li><a href="company/about.html" class="iconlinks">About Club Penguin</a></li>
+                            <li><a href="company/jobs/index.html" class="iconlinks">Jobs</a>
+                              <ul>
+                <li><a href="company/jobs/manager-kids-helping-kids.htm" class="iconlinks">Manager, Kids Helping Kids</a></li>
+                <li><a href="company/jobs/graphic-designer.htm" class="iconlinks">Graphic Designer</a></li>
+                <li><a href="company/jobs/director-finance-accounting.htm" class="iconlinks">Director of Finance and Accounting</a></li>
+			    <li><a href="company/jobs/technical-support-rep.html" class="iconlinks">Technical Support Representative</a></li>
+			    <li><a href="company/jobs/programmer.htm" class="iconlinks">Programmer</a></li>
+			    <li><a href="company/jobs/quality-assurance.html" class="iconlinks">Quality Assurance Research and Data Collector</a></li>
+			    <li><a href="company/jobs/creative-writer-copyeditor.htm" class="iconlinks">Creative Writer/Copyeditor</a></li>
+			    <li><a href="company/jobs/multi-player-game-developer.htm" class="iconlinks">Multi Player Game Developer</a></li>
+              </ul>
+                            <li><a href="contact/media_department.htm" class="iconlinks">Media Inquiries</a>
+                              <ul>
+                                <li><a href="press/index.html" class="iconlinks">Media Page</a></li>
+                              </ul>
+                            </li>
+                            <li><a href="contact/business_department.htm" class="iconlinks">Business Inquiries</a></li>
+                          </ul>
+                        </li>
+                        <li><a href="terms.htm" class="iconlinks">Terms</a></li>
+                        <li><a href="privacy.htm" class="iconlinks">Club Penguin Privacy Policy </a></li>
+                      </ul>
+                    </div>                    </td>
+                </tr>
+              </table>
+              <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+                <tr>
+                  <td align="right" valign="top">
+                    <a href="#top">back to top</a> </td>
+                </tr>
+              </table>
+              <!-- InstanceEndEditable --></td>
+          </tr>
+        </table>
+	  </td>
+    </tr>
+</table>
+<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center"><img src="images/waddle-around.gif" width="310" height="35"></td>
+    </tr>
+</table>
+  <!-- #BeginLibraryItem "/Library/disney-footer.lbi" -->
+  <table width="760" height="114" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="top" class="copyright"><table width="330" height="4" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+          <img src="images/disney-logo.gif">
+          <p><span class="footernav"><a href="company/index.html" class="footernav">Company Info</a> | <a href="terms.htm" class="footernav">Terms</a> | <a href="privacy.htm" class="footernav">Privacy</a> | <a href="contact.htm" class="footernav">Contact Us</a> | <a href="sitemap.htm" class="footernav">Site Map</a> </span> <br>
+            Club Penguin &#8482; Club Penguin Entertainment Inc. &copy; 2007. All rights reserved.</p></td>
+    </tr>
+  </table>
+  <!-- #EndLibraryItem --></div>
+
+
+  
+</body>
+<!-- InstanceEnd --></html>

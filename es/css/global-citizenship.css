@@ -1,0 +1,449 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#global-citizenship #global-citizenship-slider-container {
+	position:relative;
+	width:835px;
+	height:430px;
+	margin:0 auto 0 auto;
+	padding:0 0 0 0px;	
+	border:none;
+	outline:none;
+}
+
+#global-citizenship #global-citizenship-slider {
+	outline:none;
+	border:none;
+}
+
+
+#global-citizenship #box_bottom{
+	height:316px;
+	width:838px;
+	background-image:url(http://media2.clubpenguin.com/www/global-citizenship/images/box_btm_bg.gif);
+	margin-top:20px;
+}
+
+#global-citizenship #box_bottom #get_involved{
+	float:left;
+	width:191px;
+	height:288px;
+	background-image:url(http://media2.clubpenguin.com/www/global-citizenship/images/bg_getinvolved.gif);
+	margin:5px 0 0 18px;
+}
+
+#global-citizenship #box_bottom .title{
+	margin:0 0 10px 15px;
+}
+
+#global-citizenship #box_bottom #get_involved img{
+	margin-left:5px;	
+}
+
+#global-citizenship #box_bottom #getinvolved_txt{
+	font-size:12px;
+	margin:10px 0 0 10px;
+	height:75px;
+}
+
+#global-citizenship #box_bottom #good_news{
+	float:left;
+	width:597px;
+	height:288px;
+	background-image:url(http://media2.clubpenguin.com/www/global-citizenship/images/bg_goodnews-cfc2010.png);
+	margin:5px 0 0 15px;
+}
+
+#global-citizenship #box_bottom #goodnews_txt{
+	width:260px;
+	height: 185px;
+	margin:0 0 0 15px;
+	font-size:12px;
+}
+
+#global-citizenship #box_bottom #goodnews_txt p{
+	margin-bottom: 15px;
+}
+
+#global-citizenship p{
+	margin:5px 0 5px 0;	
+}
+
+#global-citizenship #box_bottom #good_news img{
+	float:right;
+	margin: 20px 15px 0 0;
+}
+
+#get_involved p{
+	margin:7px 0 7px 0;	
+}
+
+#get_involved #box_top_blue{
+	width:841px;
+	height:222px;
+	background-image:url(http://media2.clubpenguin.com/www/global-citizenship/images/box_top_blue.gif);
+}
+
+#get_involved #box_top_blue #left_desc{
+	float:left;
+	font-size:12px;
+	width:430px;
+	height:185px;
+	margin: 10px 0 0 20px;
+}
+
+#get_involved #read_more{
+	float:left;
+	margin: 195px 0 0 30px;
+	width:350px;
+	height:20px;
+}
+
+#get_involved #read_more #goNow_coins{
+	display: block;
+	width: auto;
+	height: 21px;
+	padding: 0;
+	border: 0;
+	font-size:12px;
+	font-weight: bold;
+	background-color: transparent;
+	background-image: url(http://media2.clubpenguin.com/www/global-citizenship/images/arrow_rollover.gif);
+	background-repeat: no-repeat;
+	background-position: 0 0;
+	margin:0;
+	}
+	
+#get_involved #read_more #goNow_coins a:hover {
+	width: auto;
+	height: 21px;
+	color:#021d3c;
+	background-color: transparent;
+	background-image: url(http://media2.clubpenguin.com/www/global-citizenship/images/images/arrow_rollover.gif);
+	background-repeat: no-repeat;
+	background-position: 0 -21px;
+	}
+	
+#get_involved #read_more #goNow_coins .btnTxt{
+	display: block;
+	margin: 0px 0 0 40px;
+	padding: 3px 0 0 0;
+	width: auto;
+}
+
+#get_involved #box_btm_yell{
+	margin-top:20px;
+	width:837px;
+	height:600px;
+	background-image:url(http://media2.clubpenguin.com/www/global-citizenship/images/box_getinvolved_yell.gif);
+}
+
+#get_involved #box_btm_yell h5{
+	margin-left:20px;
+}
+
+#get_involved .box_inner_yell{
+	float:left;
+	width:248px;
+	height:341px;
+	background-image:url(http://media2.clubpenguin.com/www/global-citizenship/images/box_colm_yell.gif);
+	margin:20px 0 0 22px;
+	
+}
+
+#get_involved .box_inner_yell .text{
+	margin:15px 15px 5px 15px;
+	height:200px;
+	font-size:12px;
+}
+
+#get_involved .box_inner_yell .btm_link{
+	margin: 0 15px 0 15px;
+	font-size: 12px;
+}
+
+#get_involved .box_inner_yell .btm_link img{
+	float:left;	
+	margin-left:15px
+}
+
+#get_involved .box_inner_yell .btm_link p{
+	float:left;
+	width:120px;
+	margin:0px 0 0 15px;
+}
+
+#get_involved .box_inner_yell .btm_link #email{
+	width:200px;
+	text-align:center;
+}
+
+#our_partners #box_partners{
+	height:275px;
+	width:836px;
+	margin-top:15px;
+	background-image:url(http://media2.clubpenguin.com/www/global-citizenship/images/box_partners.gif);
+}
+
+#our_partners #box_partners #top{
+	float: right;
+	margin: 20px 25px 0 0;
+	width: 550px;
+	font-size: 14px;
+	height: 165px;
+}
+
+#our_partners #box_partners #bottom{
+	width: 853px;
+	margin-top: 15px;
+}
+
+#our_partners #box_partners #bottom .logo{
+	float: left;
+	margin-left: 24px;
+}
+
+#our_partners .row{
+	width: 100%;
+	height: 200px;
+}
+
+#our_partners .row_alt{
+	width: 100%;
+	height: 200px;
+	background: #eef7ff;
+}
+
+#our_partners .row img,
+#our_partners .row_alt img{
+	float: left;
+	margin: 30px 0 0 25px;
+}
+#our_partners .description{
+	float: left;
+	margin: 25px 0 0 25px;
+	width: 600px;
+	height: auto;
+}
+
+#projects .pageName{
+	width: 830px;	
+}
+
+#projects .pageName img{
+	float: left;
+	margin: 5px 10px 0 0;
+}
+
+#projects p{
+	margin-bottom: 15px;	
+}
+
+#projects p.small{
+	font-size:12px;
+	margin-bottom: 30px;
+}
+
+#projects ul{
+	list-style-image: url(http://media2.clubpenguin.com/www/global-citizenship/images/bullet-orange.gif);
+	list-style-position: outside;
+	list-style-type: disc;
+	margin-bottom: 15px;
+}
+
+#projects li{
+	margin: 0 0 10px 20px;
+	font-size: 100%;
+}
+
+#projects #box_projects_top{
+	position:relative;
+	height:208px;
+	width:842px;
+}
+
+#projects .africa{
+	background-image:url(http://media2.clubpenguin.com/www/global-citizenship/images/africa.gif);
+}
+
+#projects .asia{
+	background-image:url(http://media2.clubpenguin.com/www/global-citizenship/images/asia.gif);
+}
+
+#projects .europe{
+	background-image:url(http://media2.clubpenguin.com/www/global-citizenship/images/europe.gif);
+}
+
+#projects .north-america{
+	background-image:url(http://media2.clubpenguin.com/www/global-citizenship/images/north-america.gif);
+}
+
+#projects .oceania{
+	background-image:url(http://media2.clubpenguin.com/www/global-citizenship/images/oceania.gif);
+}
+
+#projects .south-america{
+	background-image:url(http://media2.clubpenguin.com/www/global-citizenship/images/south-america.gif);
+}
+
+#projects .australia{
+	background-image:url(http://media2.clubpenguin.com/www/global-citizenship/images/oceania.gif);
+}
+
+#projects #box_projects_top #country_blurb{
+	position:absolute;
+	bottom:15px;
+	left:20px;
+	background-image: url(http://media2.clubpenguin.com/www/global-citizenship/images/blurb_bg.gif);
+	width: 243px;
+	
+}
+
+#projects #box_projects_top #country_blurb p{
+	margin:0 10px 0 10px;	
+}
+ 
+#projects #box_projects_top #text{
+	margin: 25px 0 0 25px;
+	width: 450px;
+	font-size:14px;
+}
+ 
+#projects #mid_white{
+	 width:842px;
+	 margin:  20px 0 0;
+}
+
+#projects #mid_white img{
+	 float:left;
+}
+ 
+#projects #mid_white #text{
+	 float:right;
+	 margin-right:15px;
+	 width:450px;	 
+}
+ 
+#projects #past_projects{
+	  width:842px;
+	  margin-top:25px;
+}
+ 
+#projects #past_projects #header{
+	height:38px;
+	width:840px;
+	background-image:url(http://media2.clubpenguin.com/www/global-citizenship/images/proj_header.gif);
+}
+ 
+#projects #past_projects #header #tbl_title{
+	float:left;
+	width:500px;
+	margin:7px 0 0 20px;
+}
+ 
+#projects #past_projects #header #tbl_date{
+	float:right;
+	width:200px;
+	margin:7px 20px 0 0; 
+}
+
+#projects .proj_name{
+	width:840px;
+	background-image:url(http://media2.clubpenguin.com/www/global-citizenship/images/proj_name.gif);
+	height:48px;
+}
+
+#projects .proj_name .title{
+	margin-left:20px;
+}
+
+#global-citizenship #box_bottom .left{
+	margin-left:9px;
+}
+
+#projects .proj_name .title .goNow_proj a,
+#projects .proj_name .title .goNow_proj a:visited,
+#global-citizenship #box_bottom .goNow a,
+#global-citizenship #box_bottom .goNow a:visited{
+	float:left;
+	display: block;	
+	width: auto;
+	height: 26px;
+	background:transparent url(http://media2.clubpenguin.com/www/global-citizenship/images/goNow_proj.gif) 0 0 no-repeat;
+	margin: 12px 0px 0px 0px;
+	padding: 0;
+	border: 0;
+	color: #01539c;
+	font-weight: bold;
+	font-size:13px;
+}
+	
+#projects .proj_name .title .goNow_proj a:hover,
+#global-citizenship #box_bottom .goNow a:hover {
+	background:transparent url(http://media2.clubpenguin.com/www/global-citizenship/images/goNow_proj.gif) 0 -26px no-repeat;
+	width: auto;
+	margin: 12px 0 0px 0;
+	height: 26px;
+	color: #FF9900;
+}
+
+#projects .goNow_proj_down a,
+#projects .goNow_proj_down a:visited{
+	float:left;
+	display: block;	
+	width: auto;
+	height: 26px;
+	background:transparent url(http://media2.clubpenguin.com/www/global-citizenship/images/goNow_proj_down.gif) 0 0 no-repeat;
+	margin: 12px 0 0px 0px;
+	padding: 0;
+	border: 0;
+	color: #01539c;
+	font-weight: bold;
+	font-size:13px;
+}
+	
+#projects .goNow_proj_down a:hover{
+	background:transparent url(http://media2.clubpenguin.com/www/global-citizenship/images/goNow_proj_down.gif) 0 -26px no-repeat;
+	width: auto;
+	margin: 12px 0 0px 0;
+	height: 26px;
+	color: #FF9900;
+}
+	
+#projects .proj_name .title .goNow_proj .btnTxt,
+#projects .proj_name .title .goNow_proj_down .btnTxt,
+#global-citizenship #box_bottom .goNow .btnTxt {
+	display: block;
+	margin: 0px 0 0 40px;
+	padding: 6px 0 0 0;
+	width: auto;
+	font-size:12px;
+}
+
+#projects .proj_name .date{
+	float:right;
+	width:200px;
+	margin:15px 20px 0 0; 
+}
+
+#projects .proj_desc{
+	width:840px;
+	background-image:url(http://media2.clubpenguin.com/www/global-citizenship/images/proj_desc.gif);
+}
+
+#projects .proj_desc img{
+	float:left;
+	margin:10px 0 0 35px;
+}
+
+#projects .proj_desc .text{
+	float:right;
+	margin: 20px 20px 20px 0;
+	width:600px;
+}
+
+#projects #footer{
+	width:840px;
+	height:96px;
+	background-image:url(http://media2.clubpenguin.com/www/global-citizenship/images/proj_footer.gif);
+}

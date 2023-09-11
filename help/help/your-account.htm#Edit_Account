@@ -1,0 +1,122 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+	<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/Help.dwt" codeOutsideHTMLIsLocked="false" -->
+
+<head>
+        
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Club Penguin - Help &amp; Tutorials: Your Account</title>
+<!-- InstanceEndEditable -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="head" -->
+<style type="text/css">
+<!--
+.style2 {font-family: Arial, Helvetica, sans-serif}
+-->
+</style>
+<!-- InstanceEndEditable -->
+
+	<link href="../../css/global.css" rel="stylesheet" type="text/css" />
+    <link href="../../css/nav_inside.css" rel="stylesheet" type="text/css" />
+    <SCRIPT src="../../flash/flash.js" type=text/javascript></SCRIPT>
+    <script type="text/javascript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+//-->
+    </script>
+    <link href="../css/help.css" rel="stylesheet" type="text/css" />
+</head>
+		
+<body>
+<a name="top"></a>
+<table cellpadding="0" cellspacing="0" id="flexBox">
+		<tr>
+<td valign="top"><div id="wrap-top">
+                <div id="header"> <a href="../../index.html"><img src="../images/clubpenguin.gif" alt="Club Penguin" width="307" height="152" border="0" align="left"></a><img src="../../images/help-header.jpg"></div>                             
+<div class="yellow">
+               						  <!-- empty -->
+	    </div>
+                
+                <div id="memnav"> <!-- InstanceBeginEditable name="main-nav" --> 
+                <div class="play"><a href="http://play.clubpenguin.com/">Play</a></div>
+	
+    <div class="parents"><a href="../../parents.htm">Parents </a></div>
+    <div class="help-section"><a href="../index.html">Help</a></div>
+    <div class="member"><a href="https://secure.clubpenguin.com/membership/">Membership</a></div>
+    <div class="shop"><a href="../../clubpenguinshop/index.html">Shop</a></div>
+	
+     <div class="what-new"><a href="http://blog.clubpenguin.com/">What's New </a></div>
+	 <div class="cont-us"><a href="../../contact.htm">Contact Us </a></div>
+	 <div class="home"><a href="../../index.html">Home</a></div>
+        <!-- InstanceEndEditable --> </div>
+                
+     <div id="subnav"></div>                   					
+                
+            <div id="body-area"><!-- InstanceBeginEditable name="Content" -->
+ <div id="content">                                           
+                                            <p><a href="../index.html">Club Penguin Help</a> &gt; <a href="../help_tutorials.html">Help &amp; Tutorials</a> &gt; Your Account</p>
+                <p class="lg_title">Your Account </p>
+                <table width="600" border="0" cellspacing="0" cellpadding="3">
+                  <tr>
+                    <td><a href="#Become_a_Member" ><img src="images/icons/become-member.gif"  width="42" height="24" border="0" align="absmiddle" />Become a Member</a></td>
+                  </tr>
+                  <tr>
+                    <td><a href="#Edit_Account" ><img src="images/icons/edit-account.gif"  width="42" height="24" border="0" align="absmiddle" />Edit Your Account</a></td>
+                  </tr>
+                </table>
+                <p>&nbsp;</p>
+              
+              <h2><a name="Become_a_Member" id="Become_a_Member"></a>Become a Member</h2>
+              		<div class="content-left">
+                    	While anyone can play Club Penguin for free, members have access to special features in Club Penguin. To find out more about a Club Penguin membership visit our <a href="https://secure.clubpenguin.com/membership/" >Membership page</a>. 
+                    </div>
+                    <div class="content-right">
+                    	<img src="images/become-member.gif" width="350" height="220" />
+                    </div>
+		<div align="right"><a href="#top" >back to top</a><a href="#top"></a>        </div>
+        
+        
+        
+		<h2><a name="Edit_Account" id="Edit_Account"></a>Edit Your Account</h2>
+        		<div class="content-left">
+                	<p>To change your password, chat mode or cancel your membership while you are logged in to Club Penguin, click the <img src="images/edit-player-icon.gif" width="20" height="20" /> icon on your player card menu. To cancel your monthly membership, the account username and password are required. </p>
+                    <p>To change the chat mode, check the box at the bottom of the Edit Your Account screen.To learn more about each chat mode, go to <a  href="communicating.htm">Communicating.</a></p>
+                </div>
+                <div class="content-right">
+                	<img src="images/cancel-membership.gif" width="350" height="220" />
+                </div>  
+        <div align="right"><a href="#top" >back to top</a></div>
+       
+       
+       
+</div>        
+        
+            <!-- InstanceEndEditable --></div>
+                </div>
+                
+    </td>
+  </tr>
+              <tr>
+                <td valign="bottom">
+                
+	<div id="wrap-bottom">
+    	<div id="waddle-area">        	</div>
+            
+        <div id="footer">
+			<img src="../../images/disney-logo.gif" alt="Disney.com Games" />
+            <p><span class="footernav">
+            	<a href="../../company/index.html" class="footernav">Company Info</a> | 
+                <a href="../../terms.htm" class="footernav">Terms</a> | 
+                <a href="../../privacy.htm" class="footernav">Privacy</a> | 
+                <a href="../../contact.htm" class="footernav">Contact Us</a> | 
+                <a href="../../sitemap.htm" class="footernav">Site Map</a> 
+                </span><br />
+            	<span class="copyright">Club Penguin &#8482; Club Penguin Entertainment Inc. &copy; 2007. All rights reserved.                </span></p>
+                </div>
+                </div></td>
+              </tr>
+            </table>
+</body>
+<!-- InstanceEnd --></html>

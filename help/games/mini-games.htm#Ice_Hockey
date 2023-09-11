@@ -1,0 +1,380 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/Blank.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Mini Games</title>
+<!-- InstanceEndEditable --><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="../../style.css" rel="stylesheet" type="text/css">
+<link href="../../nav_inside.css" rel="stylesheet" type="text/css">
+<SCRIPT src="../../flash/flash.js" type=text/javascript></SCRIPT>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<link href="../../style-penguin.css" rel="stylesheet" type="text/css">
+</head>
+<body bgcolor="#FFFFFF" class="bg_white"> 
+<a name="top"></a>
+  <table width="760" border="0" align="center" cellpadding="0" cellspacing="0"> 
+    <tr> 
+      <td width="307" height="152" align="left" background="../../images/header_bkg.gif" bgcolor="#005273"><span class="header"><a href="../../index.html"><img src="../../images/clubpenguin.gif" alt="Club Penguin" width="307" height="152" border="0"></a></span></td> 
+      <td align="left" background="../../images/header_bkg.gif" bgcolor="#0096C8"><SCRIPT 
+      type=text/javascript>RunFlash('http://www.clubpenguin.com/flash/HeaderInside.swf','453','152','#EEEEEE');</SCRIPT>
+      <NOSCRIPT>
+	  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="453" height="152">
+        <param name="movie" value="../../flash/HeaderInside.swf">
+        <param name=quality value=high>
+        <param name="wmode" value="transparent">
+        <embed src="../../flash/HeaderInside.swf" width="453" height="152" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" wmode="transparent"></embed>
+      </object></NOSCRIPT>
+	 </td>
+    </tr> 
+</table>
+  <table width="760" height="2" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFCE07">
+    <tr>
+      <td></td>
+    </tr>
+  </table>
+  <table width="760" border="0" cellpadding="0" cellspacing="0" bgcolor="#0A5E85" class="nav-main">
+    <tr>
+      <td height="39" align="center" valign="middle">
+    	<ul>
+          <li><a href="http://play.clubpenguin.com/" >&nbsp;&nbsp;Login&nbsp;</a><a href="../../parents.htm" >&nbsp;Parents&nbsp;</a></li>
+          <li><a href="../index.html" >&nbsp;Help&nbsp;</a></li>
+		  <li><a href="https://secure.clubpenguin.com/membership/" >&nbsp;Membership&nbsp;</a></li>
+		  <li><a href="../../clubpenguinshop/index.html" >&nbsp;Shop&nbsp;</a></li>
+          <li><a href="http://blog.clubpenguin.com/" >&nbsp;What's New</a></li>
+          <li><a href="../../contact.htm" >&nbsp;Contact Us</a></li>
+          <li><a href="../../index.html" >&nbsp;Home&nbsp;</a></li>
+        </ul></td>
+    </tr>
+</table>
+  <table width="760" height="360" border="0" align="center" cellpadding="20" cellspacing="0">
+    <tr>
+      <td height="28" align="center" valign="top" class="content">
+        <table width="718" height="500" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td align="left" valign="top"><!-- InstanceBeginEditable name="Content" -->
+        <table width="718" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><span class="lg_title">Mini Games </span></td>
+          </tr>
+          <tr>
+            <td height="10"></td>
+          </tr>
+      </table>
+        <blockquote>
+          <p><a href="#About_Mini_Games">About Mini Games</a></p>
+          </blockquote>
+        <ul>
+          <li><strong>Single-Player</strong>
+            <ul>
+              <li><a href="#Astro_Barrier">Astro Barrier</a></li>
+              <li><a href="#Ballistic_Biscuit">Ballistic Biscuit</a></li>
+              <li><a href="#Bean_Counters">Bean Counters</a></li>
+              <li><a href="#Cart_Surfer">Cart Surfer</a></li>
+              <li><a href="#Ice_Fishing">Ice Fishing</a></li>
+              <li><a href="#Puffle_Roundup">Puffle Roundup</a></li>
+              <li><a href="#jetpack">Jet Pack Adventure</a></li>
+			  <li><a href="#thin-ice">Thin Ice</a></li>
+              </ul>
+          </li>
+          <blockquote> </blockquote>
+           
+         
+          <li><strong>Multi-Player</strong>
+            <ul>
+              <li><a href="#Find_Four">Find Four</a></li>
+              <li><a href="#Ice_Hockey">Hockey </a></li>
+              <li><a href="#Mancala">Mancala</a></li>
+              <li><a href="#Sledding">Sled Racing </a>          </li>
+            </ul>
+          </li>         
+          </ul>
+        <blockquote>
+          <p><a href="../index.html">Back to Club Penguin Help</a>                  
+              </li>
+          </p>
+        </blockquote>
+        <h2><br>
+          <br>
+              <a name="About_Mini_Games"></a>About Mini Games </h2>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td valign="top"><ul>
+                    <li> Club Penguin has within it several &lsquo;mini&rsquo; games that allow you to earn coins. Learn more about <a href="../guide/penguin-coins.htm">Penguin Coins. </a><br>
+                    </li>
+                            <li> Some games, like <a href="#Ice_Fishing">Ice Fishing</a>, are one-player games. This means that you can play these games by yourself. Other games, like <a href="#Find_Four">Find Four</a>, are multi-player games, meaning you play them with other penguins. <br>
+                    </li>
+                    </ul></td>
+              </tr>
+            </table>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td align="right"><a href="#top">back to top</a></td>
+              </tr>
+            </table>
+       
+        <h2 align="left"><a name="Ice_Hockey"></a>Hockey </h2>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td align="left" valign="top"><p><strong>Where to find it: </strong><br>
+                At the Ice rink. <br>
+                <br>
+                <strong>Object of game: </strong><br>
+                Get the puck in the net. The first person or team to get 10 goals, wins.<br>
+                <br>
+                <strong>How to play: </strong><br>
+                Move to the puck to shoot it. Move in the direction you want to go to aim it. The closer you are to the puck when you move to it, the shorter the distance it will go. If you move a longer distance to get to the puck, it will move further and therefore rebound more. <span class="plaintext"><SPAN style="FONT-FAMILY: Arial">P</SPAN><FONT face=Arial><SPAN style="FONT-FAMILY: Arial">laying Ice Hockey yo</SPAN></FONT><SPAN style="FONT-FAMILY: Arial">u do not earn coins. </SPAN></span></p></td>
+                    <td valign="top"><p><img src="../../images/screenshots/hockey.gif" width="350" height="220"></p></td>
+              </tr>
+            </table>
+        <div align="right">
+          <p><a href="#top">back to top</a></p>
+          <h2 align="left"><a name="Cart_Surfer" id="Cart_Surfer"></a>Cart Surfer</h2>
+          <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+            <tr>
+              <td align="left" valign="top"><p><strong>Where to find it: </strong><br>
+        In the mine (in the underground). <br>
+        <br>
+        <strong>Object of game: </strong><br>
+        To do as many tricks as you can without falling before you get to the end of the tunnel. <br>
+        <br>
+        <strong>How to play: </strong><br>
+        To lean left, hold down the left arrow key; to lean right, hold down the right arrow key. When you see a curve coming, lean into the turn or you will lose your balance and fall. The up and down arrows will change how you&rsquo;re riding the cart. Press the space bar to jump. Combine keys to get new moves and earn more points. Be careful though &ndash; if you do a trick during a turn, you&rsquo;ll crash! </p></td>
+              <td valign="top"><p><img src="../../images/screenshots/cart-surfer.gif" width="350" height="220"></p></td>
+            </tr>
+          </table>
+          <div align="right">
+            <p><a href="#top">back to top</a></p>
+            </div>
+          <p>&nbsp;</p>
+        </div>
+        <h2 align="left"><a name="Find_Four" id="Find_Four"></a>Find Four</h2>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td align="left" valign="top"><p><strong>Where to find it: </strong><br>
+                In the main floor and attic of the ski lodge.<br>
+                <br>
+                <strong>Object of game: </strong><br>
+                To stack four coins of the same color in a row, either vertically, horizontally, or diagonally. <br>
+                <br>
+                <strong>How to play: </strong><br>
+                Click on the slot that you would like to drop your coin in. The player to get four of their color in a row first, wins.</p></td>
+                    <td valign="top"><p><img src="../../images/screenshots/find-four.gif" width="350" height="220"></p></td>
+              </tr>
+            </table>
+        <div align="right"><a href="#top">back to top</a></div>
+        <h2><a name="Ice_Fishing"></a>Ice Fishing </h2>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td valign="top"><p><strong>Where to find it:<br>
+                    </strong>In the ski lodge at the green door. </p>
+                        <p><strong>Object of game:<br>
+                        </strong> To catch as many fish as you can. </p>
+                        <p><strong>How to play:<br>
+                        </strong>Move your mouse up and down to raise and lower your hook. When you see a fish, lower your hook to the fish to catch it. Raise you hook to above the ice, and left-click to release the fish.</p>
+                        <p>You must have a worm on your hook to catch a fish. To get a worm, raise your hook above the water level and click.</p>
+                        <p>Barrels and boots can kick fish off of your fishing line. Jellyfish, sharks and crabs will cost you a worm if you let them</p>
+                        <p>A can of worms will give you an extra life.</p>
+                        <p>For every fish you catch, you receive one coin at the end of the game. If you catch the big fish, you get an extra 50 coins!</p></td>
+                    <td valign="top"><p><img src="../../images/screenshots/fishing.gif" width="350" height="220"><br>
+                      <img src="../../images/screenshots/fishing-ingame.gif" width="350" height="220"></p></td>
+              </tr>
+            </table>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td align="right"><a href="#top">back to top</a></td>
+              </tr>
+            </table>
+        <h2><a name="Astro_Barrier"></a>Astro Barrier</h2>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td valign="top"><p><strong>Where to find it:<br>
+                    </strong> In the Lounge on top of the Night Club (arcade machine) </p>
+                        <p><strong>Object of game:<br>
+                        </strong>You must shoot all the moving targets.</p>
+                        <p><strong>How to play:<br>
+                      </strong>Press the left and right arrow keys to move your ship. Press the spacebar to shoot. If a target is hit, it becomes a wall, making it harder to shoot the other targets. (Be careful! You have limited bullets!) </p></td>
+                    <td valign="top"><p><img src="../../images/screenshots/astro-barrier.gif" width="350" height="220"></p></td>
+              </tr>
+            </table>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td align="right"><a href="#top">back to top</a></td>
+              </tr>
+            </table>
+        <h2><a name="Bean_Counters"></a>Bean Counters</h2>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td valign="top"><p><strong>Where to find it:<br>
+                    </strong>In the Coffee Shop (java bags)<strong> </strong></p>
+                        <p><strong>Object of game:<br>
+                        </strong> Bags of coffee beans will be tossed out of the back of the van. You must catch them and stack them on the red platform. </p>
+                        <p><strong>How to play:<br>
+                        </strong>Move your mouse left and right to move your penguin and catch the bags. </p>
+                        <p>Click the left mouse button when at the red platform to drop off the bags, if you have any. </p>
+                        <p>You can hold more than one bag at a time, but watch out! If you hold too many bags at once, they&rsquo;ll be too heavy for you to carry! </p>
+                        <p>Every bag you deposit adds points. Every bag you miss subtracts points. The more points you have in the end, the more coins you&rsquo;ll get!</p>
+                        <p> If you see the face of a penguin in a yellow star thrown out of the back of the van, catch it! It will give you an extra life! <br>
+                          <br>
+                          If you get hit by an anvil, fish, or flowerpot, or if you try to carry too many bags, you&rsquo;ll lose a life. </p>
+                        <p> There are five trucks. If you unload all of the trucks, you will get bonus coins.</p></td>
+                    <td valign="top"><p><img src="../../images/screenshots/bean-counters.gif" width="350" height="220"></p></td>
+              </tr>
+            </table>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td align="right"><a href="#top">back to top</a></td>
+              </tr>
+            </table>
+        <h2><a name="Mancala"></a>Mancala</h2>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td valign="top"><strong>Where to find it:<br>
+                  </strong> In the Book Room on top of the Coffee Shop, and in the HQ for Secret Agents.
+                      <p><strong>Object of game:<br>
+                      </strong> Each player attempts to collect as many stones as possible before one of the players clears his or her side of stones. </p>
+                      <p> Each player has a side of the board (top and bottom). The six holes nearest each player belong to him or her and their large holes, or &ldquo;Mancala&rdquo;, is to the right. </p>
+                      <p><strong>How to play:<br>
+                      </strong> Players alternate turns. In his or her turn, each player selects a group of stones from one hole on his or her side of the board. Each stone is dropped one by one in the holds around the board, including his Mancala, but not the opponent&rsquo;s Mancala. <strong><br>
+                      <br>
+              Free turns:<br>
+                        </strong>If the last stone lands in the players&rsquo; own Mancala, that player gets another turn. </p>
+                      <p><strong>Captures:<br>
+                      </strong>If the last stone is dropped in an empty hole on the players&rsquo; own side, he captures all the stones from the opponents hole directly opposite that hole, including his stone. </p>
+                      <p><strong>How to win:<br>
+                      </strong>The game is over when a player has no more stones on his or her side of the board. The winner is the player with the greatest total of stones in his or her Mancala and any remaining stones on his or her side of the board.</p></td>
+                    <td valign="top"><p><img src="../../images/screenshots/mancala.gif" width="350" height="220"><br>
+                      <br>
+                      <img src="../../images/screenshots/MancalaBoard.gif" width="350" height="220"> </p></td>
+              </tr>
+            </table>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td align="right"><a href="#top">back to top</a></td>
+              </tr>
+            </table>
+        <h2><a name="Puffle_Roundup"></a>Puffle Roundup</h2>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td valign="top"><p><strong>Where to find it:<br>
+                    </strong> In the Pet Shop (which is in the Plaza); click on the door marked &rdquo;Employees&rdquo;. </p>
+                      <p><strong>Object of game:<br>
+                      </strong> To catch the puffles before they run away! </p>
+                      <p><strong>How to play:<br>
+                      </strong>Move your mouse around, &rdquo;herding&rdquo; as many puffles as you can into the brown pen. The round ends when all of the puffles have either been captured or have run away.</p>
+                  Your score will be based on the number of puffles you can catch within the shortest amount of time.</td>
+                    <td valign="top"><p><img src="../../images/screenshots/puffle-roundup.gif" width="350" height="220"></p></td>
+              </tr>
+            </table>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td align="right"><a href="#top">back to top</a></td>
+              </tr>
+            </table>
+        <h2><a name="jetpack"></a>Jet Pack Adventure</h2>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+          <tr>
+            <td valign="top"><p><strong>Where to find it:<br>
+              </strong>On the upper level of the Lighthouse.<br>
+              <br>
+              <strong>Object of game:<br>
+                </strong>To complete the flight course and collect coins.<br>
+                <br>
+                <strong>How to play:<br>
+                </strong>Use keyboard arrows to navigate with your Jet Pack. You can fly forward, backward, up and down. To complete each level successfully, collect the extra fuel cans and extra jet packs as you see them. Explore the space above and below to find coins.</p>
+                <p>Obstacles are everywhere throughout the course. Avoid coffee bags, anvils, trees, water and any other objects. If you crash or run out of fuel, a parachute will guide you to a safe landing.</p>
+                <p>Each level increases in difficulty. At the end of each level you can choose to continue flying or stay in the area you landed. Extra fuel in your tank will earn you more coins.                </td>
+            <td valign="top"><p><img src="../../images/screenshots/jetpack.gif" width="350" height="220"><br>
+              <img src="../../images/screenshots/jetpack-ingame.gif" width="350" height="220"></p></td>
+          </tr>
+        </table>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+          <tr>
+            <td align="right"><a href="#top">back to top</a></td>
+          </tr>
+        </table>
+		  <h2><a name="thin-ice"></a>Thin Ice</h2>
+
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+          <tr>
+            <td valign="top"><p><strong>Where to find it:<br>
+                </strong>In the Lounge, located in the upper level of the Night Club, and next to Astro Barrier.<br>
+                <br>
+                <strong>Object of game:<br>
+                </strong>To solve each maze and earn coins by melting tiles of ice without getting trapped. There are 19 mazes. Extra coins are rewarded for players who melt every tile in each maze.<br>
+                <br>
+                <strong>How to play:<br>
+              </strong>Use keyboard arrows to make a path through each maze. You can move up, down and straightforward, but not backwards. Certain tiles will help you complete each stage. Look for moveable tiles, they are a darker color; warp tiles, they are green; and twice-over tiles, they are white. Some levels require a key to unlock the maze.<br>
+              <br>
+              Earn extra coins by melting each ice tile on more advanced levels. </p>
+                </td>
+            <td valign="top"><p><img src="../../images/screenshots/thin-ice.gif" alt="e" width="350" height="220"><br>
+                    <img src="../../images/screenshots/thin-ice-ingame.gif" alt="e" width="350" height="220"></p></td>
+          </tr>
+        </table>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+          <tr>
+            <td align="right"><a href="#top">back to top</a></td>
+          </tr>
+        </table>
+        <h2>Sled Racing </h2>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td valign="top"><p><strong>Where to find it:<br>
+                    </strong> Top of the ski hill </p>
+                      <p><strong>Object of game:<br>
+                      </strong>To get to the bottom of the hill first!</p>
+                      <p><strong>How to play:<br>
+                      </strong>To join a sled race, walk to one of the runs. Click &lsquo;yes&rsquo; on the screen that asks if you would like to play sled. </p>
+                      <p> The race will begin when there are enough players for the game. Some runs only need two players; others need three or four. </p>
+                  Once the race has begun, use your arrow keys to move left and right in order to avoid obstacles along the way.</td>
+                    <td valign="top"><p><img src="../../images/screenshots/sledding.gif" width="350" height="220"></p></td>
+              </tr>
+            </table>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td align="right"><a href="#top">back to top</a></td>
+              </tr>
+            </table>
+        <h2><a name="Ballistic_Biscuit"></a>Ballistic Biscuit</h2>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td valign="top"><p><strong>Where to find it:<br>
+                    </strong>At the dock in the boat </p>
+                      <p><strong>Object of game:<br>
+                      </strong> You are tubing from the back of a boat; you must avoid the debris along the way, or you&rsquo;ll fall off your tube and into the water! </p>
+                      <p><strong>How to play:<br>
+                      </strong>Use your mouse to move left and right across the water. Click to jump over obstacles. You get more points for jumping over an obstacle.</p>
+                  Warning: you cannot jump over buoys.</td>
+                    <td valign="top"><p><img src="../../images/screenshots/ballistic-biscuit.gif" width="350" height="220"></p></td>
+              </tr>
+            </table>
+        <div align="right">
+              <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+                <tr>
+                  <td align="right"><a href="#top">back to top</a></td>
+                </tr>
+              </table>
+        </div>
+        <br>
+        </div>
+		<!-- InstanceEndEditable --></td>
+          </tr>
+        </table>
+	  </td>
+    </tr>
+</table>
+<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center"><img src="../../images/waddle-around.gif" width="310" height="35"></td>
+    </tr>
+</table>
+  <table width="760" border="0" align="center" cellpadding="10" cellspacing="0">
+    <tr>
+      <td align="center" class="copyright"><p>Club Penguin &reg; New Horizon Interactive. &copy;2006. All rights reserved.<br>
+<a href="../../press/index.html">Media</a> | <a href="../../terms.htm">Terms</a> | <a href="../../privacy.htm">Privacy</a> | <a href="../../jobs/index.html">Job Postings</a>  | <a href="../../sitemap.htm">Site Map</a> </p>
+      </td>
+    </tr>
+  </table>
+</body>
+<!-- InstanceEnd --></html>

@@ -1,0 +1,27 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+
+<gallery>
+
+<album id="membership" title="Membership Slider" description="" lgPath="http://media2.clubpenguin.com/www/flash/" >
+	
+	<img src="membership.swf" buttonTitle="EN ÉTANT MEMBRE" title="Prépare-toi à une avalanche de surprises !"  caption="Voici les exclusivités pour membres de ce mois-ci :&lt;br&gt;&lt;br&gt;• Joue au tout nouveau Card-Jitsu Feu !&lt;br&gt;&lt;br&gt;• Accède au nouveau Dojo de Feu dans le Volcan, et poursuis ton&lt;br&gt;   périple ninja !&lt;br&gt;&lt;br&gt;• Pars à l’aventure et découvre une salle secrète dans la toute nouvelle&lt;br&gt;  pièce de théâtre. Les membres déguisés en insectes sont demandés&lt;br&gt;  à La Scène !&lt;br&gt;&lt;br&gt;• Explore le Labyrinthe des Neiges  (et trouve le trophée caché !) " />
+	
+	<img src="create.swf" buttonTitle="CRÉE PLUS" title="Crée Plus" caption="Igloos, costumes et tenues t'offrent de nouveaux moyens &lt;br&gt;d'exprimer ta créativité.&lt;br&gt;&lt;br&gt;• Aménage le parfait igloo et invite tous tes amis !&lt;br&gt;&lt;br&gt;• Collectionne des nouveaux meubles et tenues &lt;br&gt;  chaque mois !&lt;br&gt;&lt;br&gt;• Crée des combinaisons uniques et découvre &lt;br&gt;  des actions spéciales." />
+	
+<img src="explore.swf" buttonTitle="EXPLORE PLUS" title="Explore Plus" caption="L'accès exclusif aux jeux, récompenses et secrets rend Club Penguin encore plus amusant à explorer !&lt;br&gt;&lt;br&gt;• Arme-toi d'équipement spécial et gagne encore plus &lt;br&gt;  de pièces dans les jeux.&lt;br&gt;&lt;br&gt;• Accède à plus de niveaux dans les jeux.&lt;br&gt;&lt;br&gt;• Attrape un costume et figure dans &lt;br&gt;  une pièce à La Scène !&lt;br&gt;&lt;br&gt;• Sois le premier à explorer &lt;br&gt;  les nouvelles salles !" />
+	
+	<img src="play.swf" buttonTitle="JOUE PLUS" title="Joue Plus" caption="Que tu sois avec tes amis ou à te détendre tout seul, les puffles &lt;br&gt;sont sûrs de répandre la bonne humeur ! Ils sont mignons, câlins, &lt;br&gt;et même un peu fous, et ils ont tous besoin d'un foyer &lt;br&gt;où être choyé !&lt;br&gt;&lt;br&gt;• Apprend à connaître ton puffle ! Chaque couleur a sa &lt;br&gt;  propre personnalité.&lt;br&gt;&lt;br&gt;• Adopte jusqu'à 16 puffles à la fois !&lt;br&gt;&lt;br&gt;• Emmène un puffle avec toi dans les jeux !&lt;br&gt;&lt;br&gt;• Collectionne du mobilier spécial pour tes puffles." />
+	
+	<img src="access-fr.swf" buttonTitle="ACCÈDE À PLUS" title="Accède à Plus" caption="Reste en tête de file ! Entre en priorité dans les serveurs et salles et n'attends pas pour jouer à tes jeux préférés ou te promener dans tes salles préférées : tu es là le premier.&lt;br&gt;&lt;br&gt;• Évite les files d'attente pour chaque fête ou évènement !&lt;br&gt;&lt;br&gt;• Visite tes serveurs préférés : il y a de la place en plus réservée &lt;br&gt;  pour toi.&lt;br&gt;&lt;br&gt;• Ajoute à ta collection grâce à l'accès illimité aux catalogues &lt;br&gt;  et objets !&lt;br&gt;&lt;br&gt;• Ajoute ton igloo à la carte de Club Penguin pour que tous tes &lt;br&gt;  copains puissent te rendre visite facilement." />
+	
+	<img src="celebrate.swf" buttonTitle="FÊTE PLUS" title="Fête Plus" caption="Assiste à des fêtes et évènements exclusifs créés juste pour &lt;br&gt;les membres ! C'est l'endroit parfait pour découvrir les &lt;br&gt;dernières nouveautés que Club Penguin a à offrir, qu'il s'agisse &lt;br&gt;de la dernière pièce à La Scène ou de tout nouveaux jeux !&lt;br&gt;&lt;br&gt;• Rends-toi à des fêtes et évènements exclusifs.&lt;br&gt;&lt;br&gt;• Rencontre tes personnages préférés !&lt;br&gt;&lt;br&gt;• Accède aux zones réservées aux membres pendant &lt;br&gt;  les fêtes les plus importantes !&lt;br&gt;&lt;br&gt;• Organise une fête dans ton igloo et invite tous &lt;br&gt;  tes copains !" />
+
+
+</album>
+
+
+<language>fr</language>
+
+</gallery>
+
+

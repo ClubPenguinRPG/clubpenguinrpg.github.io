@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<gallery>
+
+<album id="membership" title="Membership Slider" description="" lgPath="http://media2.clubpenguin.com/www/flash/" >
+	
+	<img src="membership.swf" buttonTitle="SOCIOS" title="¡Se viene mucha más diversión!"  caption="Este mes, los socios tendrán acceso exclusivo a:&lt;br&gt;&lt;br&gt;• ¡El flamante juego Card-jitsu Fuego! &lt;br&gt;&lt;br&gt;• ¡Un nuevo Dojo de Fuego en el Volcán para continuar su viaje ninja! &lt;br&gt;&lt;br&gt;• Nuevas aventuras y una sala secreta en el Teatro. ¡Se necesitan socios&lt;br&gt;  disfrazados de insectos! &lt;br&gt;&lt;br&gt;• El Gran Laberinto de nieve, ¡donde deberán hallar el premio&lt;br&gt;  escondido! " />
+	
+	<img src="create.swf" buttonTitle="CREA MÁS" title="Crea más" caption="Usa tu creatividad para diseñar tu iglú, usar disfraces, conjuntos&lt;br&gt; de ropa y mucho más.&lt;br&gt;&lt;br&gt;• ¡Diseña el iglú perfecto y luego invita a todos tus amigos!&lt;br&gt;&lt;br&gt;• ¡Colecciona nuevos muebles y conjuntitos de ropa&lt;br&gt;  todos los meses!&lt;br&gt;&lt;br&gt;• ¡Inventa combinaciones raras y descubre las&lt;br&gt;  acciones especiales!" />
+	
+<img src="explore.swf" buttonTitle="EXPLORA MÁS" title="Explora más" caption="¡Tener acceso exclusivo a juegos, mejoras y premios hace que explorar Club Penguin sea aún más divertido! &lt;br&gt;&lt;br&gt;• Mejora el nivel de tus juegos con equipos especiales ¡y gana más puntos!&lt;br&gt;&lt;br&gt;• ¡Descubre más niveles en los juegos!&lt;br&gt;&lt;br&gt;• ¡Ponte un disfraz y actúa en el Teatro!&lt;br&gt;&lt;br&gt;• ¡Sé el primero en descubrir las&lt;br&gt;  áreas nuevas!" />
+	
+	<img src="play.swf" buttonTitle="JUEGA MÁS" title="Juega más" caption="No importa si estás solito o con amigos, ¡los puffles siempre hacen&lt;br&gt;que tu experiencia en Club Penguin sea mucho más divertida! Son &lt;br&gt;bonitos y adorables, ¡y todos necesitan un hogar!&lt;br&gt;&lt;br&gt;• ¡Conoce a tu puffle! Cada color tiene una personalidad diferente!&lt;br&gt;&lt;br&gt;• Adopta hasta 16 puffles a la vez para jugar y cuidarlos.&lt;br&gt;&lt;br&gt;• ¡Lleva a tu puffle a jugar contigo!&lt;br&gt;&lt;br&gt;• Colecciona muebles y accesorios especiales para puffles." />
+	
+	<img src="access-es.swf" buttonTitle="DESCUBRE MÁS" title="Descubre Más" caption="¡Entérate las novedades antes que nadie! Los socios tienen prioridad para acceder a los servidores y las salas, lo que significa que no tienen que esperar para jugar a sus juegos favoritos o entrar a sus salas preferidas, ¡son los primeros en llegar!&lt;br&gt;&lt;br&gt;• ¡Sé el primero en llegar a todas las fiestas y eventos!&lt;br&gt;&lt;br&gt;• ¡Visita tus servidores favoritos, allí hay un lugarcito especial &lt;br&gt;  para ti!&lt;br&gt;&lt;br&gt;• Obtén acceso ilimitiado a diferentes catálogos y artículos ,&lt;br&gt;  ¡y aumenta tu colección!&lt;br&gt;&lt;br&gt;• Publica tu iglú en el mapa de Club Penguin para que todos tus amigos te puedan visitar." />
+	
+	<img src="celebrate.swf" buttonTitle="CELEBRA MÁS" title="Celebra más" caption="¡Participa de las fiestas y eventos exclusivos para socios! Son&lt;br&gt;las ocasiones ideales para descubrir todas las cosas nuevas que&lt;br&gt;Club Penguin tiene para ofrecer, desde obras de teatro en la Plaza hasta juegos!&lt;br&gt;&lt;br&gt;• ¡Asiste a fiestas y eventos super-exclusivos!&lt;br&gt;&lt;br&gt;• ¡Conoce a tus personajes favoritos!&lt;br&gt;&lt;br&gt;• ¡Accede a las áreas exclusivas para socios de las mejores fiestas!&lt;br&gt;&lt;br&gt;• ¡Haz una fiesta en tu iglú y celebra con tus amigos!" />
+
+
+</album>
+
+
+<language>es</language>
+
+</gallery>

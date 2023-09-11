@@ -1,0 +1,66 @@
+/*
+
+------------------------------------------------------
+Copyright Jan Brasna, http://www.alphanumeric.cz/
+some rights reserved
+http://creativecommons.org/licenses/by-sa/2.0/
+
+You are free to use this style sheet and its
+associated image files to create your own site.
+However, we ask that you respect the template's
+creator by maintaining this attribution in
+the style sheet.
+------------------------------------------------------
+
+*/
+
+
+.nav-main {
+	height: 40px;
+	width: 486px;
+	margin: 0 auto;
+	padding: 0;
+	background-repeat: repeat-x;
+	background-image:  url("images/nav-bkg.gif");
+}
+	
+	
+
+.nav-main ul {
+list-style: none;
+margin: 0;
+padding: 0;
+overflow: hidden;
+left: 25px;
+	
+}
+
+.nav-main li, #nav-meta li {
+	display: inline;
+}
+
+.nav-main a {
+	display: block;
+	float: left;
+	padding: 10px;
+	margin-left: 0px;
+	background-image:  url("images/nav-bkg1.gif");
+	color: #FFFFFF;
+	text-decoration: none;
+	font-weight: bold;
+	font-size: 120%;
+	border-left-style: groove;
+	border-left-color: #003366;
+	border-left-width: thin;
+}
+
+.nav-main a:hover {
+	background-repeat: repeat-x;
+	background-image:  url("images/nav-bkg2.gif");
+	color: #FFCC00;
+}
+
+.nav-main a.current {
+	background-image:  url("images/nav-bkg3.gif");
+	background-repeat: repeat-x;
+}

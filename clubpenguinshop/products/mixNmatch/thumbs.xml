@@ -1,0 +1,14 @@
+﻿<thumbs productDescription="2” Mix and Match Figures Sets (Ages 5+)
+Figures come in three parts - Get creative and mix them up!
+2” Mix and Match Figures sets come with 2 penguin figures and an accessory. They are available at North American Toys“R”Us Stores, The Club Penguin Online Shop, Disney Stores, and North American Disney Theme Parks.">
+
+  <thumb src = "products/mixNmatch/images/tn_aqua.jpg" caption = "Scuba Diver - Splash!" href = "aqua" />
+  <thumb src = "products/mixNmatch/images/tn_alien.jpg" caption = "Space Alien - Explore!" href = "alien" />
+  <thumb src = "products/mixNmatch/images/tn_astronaut.jpg" caption = "Astronaut - Take off!" href = "astronaut" />
+  <thumb src = "products/mixNmatch/images/tn_bee.jpg" caption = "Bumble Bee - Buzz around!" href = "bee" />
+  <thumb src = "products/mixNmatch/images/tn_frankenstein.jpg" caption = "Frankenpenguin - Show your monster side!" href = "frankenstein" />
+  <thumb src = "products/mixNmatch/images/tn_mermaid.jpg" caption = "Mermaid - Make waves!" href = "mermaid" />
+  <thumb src = "products/mixNmatch/images/tn_photographer.jpg" caption = "Reporter - Snap the shots!" href = "photographer" />
+  <thumb src = "products/mixNmatch/images/tn_rockhopper.jpg" caption = "Rockhopper - Explore!" href = "rockhopper" />
+  <thumb src = "products/mixNmatch/images/tn_sg.jpg" caption = "Shadow Guy - Save the world!" href = "sg" />
+</thumbs>

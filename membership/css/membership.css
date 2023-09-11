@@ -1,0 +1,646 @@
+@charset "UTF-8";
+
+#membership #membershipOptions, #membership #membershipOptions_real, #membership #membershipOptions_ca {
+	background-repeat: no-repeat;
+	margin: 10px 0 20px 1px;
+	height:147px;
+	width:900px;
+	position: relative;
+	z-index: 22500;	
+}
+
+#membership #membershipOptionsPrimary, #membership #membershipOptionsSecondary {
+	background-repeat: no-repeat;
+	margin: 10px 0 0 1px;
+	height:132px;
+	width:900px;
+	position: relative;
+	z-index: 22500;
+}
+
+#membership #membershipOptionsSecondary {
+	margin: 20px 0 0 5px;
+}
+
+#membership #membershipOptions {
+	background-image:url(/images/pricing_bg_us.gif);
+}
+
+#membership #membershipOptions_real {
+	background-image:url(/images/pricing_bg_br.gif);
+}
+
+#membership #membershipOptions_ca {
+	background-image:url(/images/pricing_bg_ca.gif);
+}
+
+#membership #membershipOptionsPrimary {
+	background-image:url(/images/pricing_bg_other.gif);
+}
+
+#membership #membershipOptionsSecondary {
+	background-image:url(/images/pricing_bg_secondary.gif);
+}
+
+#membership #membershipOptions_other {
+	background-image:url(/images/pricing_bg_other.gif);
+	background-repeat: no-repeat;
+	margin: 10px 0 0 1px;
+	height:147px;
+	width:900px;
+	position: relative;
+	z-index: 22500;	
+}
+
+#taxes-info {
+    padding: 15px 0 0 20px;
+	font-family: arial; 
+	font-size: 10px;  
+	clear: both;
+	position: relative;
+} 
+
+#membership #card_activation a, #membership #card_activation, #mem_cards #card_activation a, #mem_cards #card_activation  {
+	width:187px;
+	height:55px;
+	position:relative;
+	z-index:999;
+	float: right;
+	background-image:url(/images/card_activation.gif);
+	background-position:0pt 0px;
+	background-repeat:no-repeat;
+	display:block;
+}
+
+#membership #card_activation a:hover, #mem_cards #card_activation a:hover {
+background-position:0pt -55px;
+}
+
+#retail #whereToBuy a {
+	width:204px;
+	height:79px;
+	float: right;
+	background-image:url(/images/button-mem-card-wheretobuy.gif);
+	background-position:0pt 0px;
+	background-repeat:no-repeat;
+	display:block;
+	margin-right: 15px;
+}
+
+#retail #whereToBuy a:hover  {
+background-position:0pt -79px;
+}
+
+#membership #membership-cards-container{
+	width:126px;
+	height:79px;
+	float: left;
+	margin-bottom:7px;
+	display:block;
+	}
+
+#membership-cards-container img{
+margin-top: -23px;
+margin-left: -11px;
+}
+
+#membership #mem_cards_txt{
+	width:202px; 
+	height:79px;
+	float: left;
+	margin-left: 8px; 
+	display:block;
+	font-size: 13px;
+}	
+
+#membership #memCardsText{
+	width:190px; 
+	height:79px;
+	float: left;
+	margin-left: 43px; 
+	margin-top: 4px;
+	display:block;
+	font-size: 13px;
+}
+
+#membership #mem_cards_txt_uk{
+	width:250px;
+	height:79px;
+	float: left;
+	margin-left: 13px;
+	display:block;
+	font-size: 13px;
+}
+
+#membership #store_logos{
+	width:126px;
+	height:79px;
+	float: left;
+	margin-left: 10px; /* was 10 rpk */
+	display:block;
+}
+
+
+#membership #membership-slider-container{
+	position:relative;
+	margin:0 auto 0 auto;
+	padding:0 0 0 0px;
+	width:835px;
+	height:430px;
+	border:none;
+	outline:none;
+	z-index: 2100;
+}
+
+
+#membership #membership-slider {
+	border:none;
+	outline:none;
+	position:relative;
+	z-index: 1200;
+}
+
+#membership #online{
+	width:662px; /* was 676 rpk */
+	float:right;
+	margin-top: 0px;
+	margin-right: 26px; /* was 26 rpk */
+	margin-bottom: 0;
+	margin-left: 0px;
+	padding-top: 18px;
+	padding-right: 0;
+	padding-bottom: 0;
+	padding-left: 0;
+}
+
+#membership #currencyBackground{
+background-image:url(/images/currentCurrency.gif);
+float:right;
+width:172px;
+height:79px;
+margin-right:76px; /* was 52, then 62 rpk */
+margin-top: 3px;
+}
+
+
+#membership #currencyBackground .cbinner{
+margin:45px auto 0px; width: 172px; text-align: center; z-index: 1;
+font-size: 12px;
+}
+
+
+
+/*.dropdown2 {float:left; margin: 15px 0 0 641px; position:absolute;}*/
+.dropdown2 {
+	float:left;
+	position:absolute;
+	margin-top: 18px;
+	margin-right: 0;
+	margin-bottom: 0;
+	margin-left: 626px;
+}
+
+.dropdown2 dt {width:136px; height:25px; padding: 8px; padding: 6px 0 0 36px; font-weight:bold; cursor:pointer; background:url(/images/header.gif)}
+.dropdown2 dt:hover {background:url(/images/header.gif)}
+.dropdown2 dd {position:absolute; overflow:hidden; width:161px; margin-left:6px; display:none; background:#fff; z-index:9200; opacity:0}
+.dropdown2 ul {position:relative; width:157px; border:2px solid #badeff; list-style:none; border-top:none; z-index:22300; overflow:visible; background-color: #deeefe;}
+.dropdown2 li {display:inline;}
+/* note that line below also exists in ie7.css and ie.css */
+.dropdown2 a, .dropdown a:active, .dropdown a:visited {display:block; color:#00529b; text-decoration:none; font-size:11px; background:#deeefe; width:147px; padding-bottom: 8px; padding-left: 5px; padding-top: 8px; padding-right: 5px; padding-top: 0px\0/ !important; }
+/* note that line above also exists in ie7.css and ie.css */
+.dropdown2 a:hover {background:#cfe7ff; color:#00529b}
+.dropdown2 .underline {border-bottom:1px solid #badeff; vertical-align:middle; }
+.dropdown2 .underline img {float: left; vertical-align:middle; }
+#one-ddheader, #two-ddheader { color:#00529b;}
+
+
+#membership #retail{
+background-image:url(/images/mem_cards_bg.gif);
+background-position: center left; 
+background-repeat: no-repeat;
+margin:83px 0 0 215px; /* was 22 0 0 180 rpk */
+width:583px; /* was 643 rpk */
+height:88px;
+padding:15px 6px 0;
+float:left;
+}
+
+#membership #membershipOptionsSecondary #retail{
+background-image:url(/images/mem_cards_bg.gif);
+background-position: center left; 
+background-repeat: no-repeat;
+margin:8px 0 0 215px; 
+width:583px; 
+height:88px;
+padding:15px 6px 0;
+float:left;
+}
+
+#membership #cards_flash{
+	width:126px;
+	height:79px;
+	float: left;
+	margin-bottom:7px;
+	display:block;
+	}
+
+
+
+/**
+ * MEMBERSHIP PACKAGE OPTIONS
+ *
+ * Start off by defining the general info & background positioning.
+ */
+#membership-package-options,
+#membership-package-alt-options {
+	display: block;
+}
+
+#membership-package-options .pkg-1-month A,
+#membership-package-alt-options .pkg-1-month A {
+	background-position: 0pt 0px;
+	background-repeat: no-repeat;
+	display: block;
+	height: 82px;
+	float: left;
+	width: 126px;
+}
+
+#membership-package-options .pkg-1-month A:hover,
+#membership-package-alt-options .pkg-1-month A:hover {
+	background-position: 0pt -82px;
+}
+
+/* Special limited time offer - may be removed in the future 
+#membership-package-options .pkg-3-month A {
+	width: 126px;
+	height: 82px;
+	float: left;
+	background-position: 0pt 0px;
+	background-repeat: no-repeat;
+	display: block;
+} */
+
+/* Special limited time offer - may be removed in the future
+#membership-package-options .pkg-3-month A:hover {
+	background-position: 0pt -82px;
+} */
+
+#membership-package-options .pkg-6-month A,
+#membership-package-alt-options .pkg-6-month A {
+	background-position: -102pt 0px;
+	background-repeat: no-repeat;
+	display: block;
+	float: left;
+	height: 82px;
+	width: 126px;
+}
+
+#membership-package-options .pkg-6-month A:hover,
+#membership-package-alt-options .pkg-6-month A:hover {
+	background-position: -102pt -82px;
+}
+
+#membership-package-options .pkg-12-month A,
+#membership-package-alt-options .pkg-12-month A {
+	background-position: -204pt 0px;
+	background-repeat: no-repeat;
+	display: block;
+	float: left;
+	height: 82px;
+	width: 126px;
+}
+
+#membership-package-options .pkg-12-month A:hover,
+#membership-package-alt-options .pkg-12-month A:hover {
+	background-position: -204pt -82px;
+}
+
+/* Currency specific background images: */
+/* ARS */
+#membership-package-options.ars DIV A {
+	background-image: url('/images/membership/packages/package_ars.gif');
+}
+
+/* AUD */
+#membership-package-options.aud DIV A {
+	background-image: url('/images/membership/packages/package_aud.gif');
+}
+
+/* BRL */
+#membership-package-options.brl DIV A {
+	background-image: url('/images/membership/packages/package_brl.gif');
+}
+
+/* Boleto */
+#membership-package-alt-options.bol DIV A,
+#membership-package-options.bol DIV A {
+	background-image: url('/images/membership/packages/package_bol.gif');
+}
+
+/* Boleto - very special, very specific */
+#membership-package-options.bol {
+	padding-left: 136px; /* width that a package would take up */
+}
+
+/* CDN */
+#membership-package-options.cad DIV A {
+	background-image: url('/images/membership/packages/package_cad.gif');
+}
+
+/* CLP */
+#membership-package-options.clp DIV A {
+	background-image: url('/images/membership/packages/package_clp.gif');
+}
+
+/* DKK */
+#membership-package-options.dkk DIV A {
+	background-image: url('/images/membership/packages/package_dkk.gif');
+}
+
+/* EUR */
+#membership-package-options.eur DIV A {
+	background-image: url('/images/membership/packages/package_eur.gif');
+}
+
+/* GBP */
+#membership-package-options.gbp DIV A {
+	background-image: url('/images/membership/packages/package_gbp.gif');
+}
+
+/* MYR */
+#membership-package-options.myr DIV A {
+	background-image: url('/images/membership/packages/package_myr.gif');
+}
+
+/* MXN */
+#membership-package-options.mxn DIV A {
+	background-image: url('/images/membership/packages/package_mxn.gif');
+}
+
+/* NOK */
+#membership-package-options.nok DIV A {
+	background-image: url('/images/membership/packages/package_nok.gif');
+}
+
+/* NZD */
+#membership-package-options.nzd DIV A {
+	background-image: url('/images/membership/packages/package_nz.gif');
+}
+
+/* PHP */
+#membership-package-options.php DIV A {
+	background-image: url('/images/membership/packages/package_php.gif');
+}
+
+/* CRC */
+#membership-package-options.crc DIV A {
+	background-image: url('/images/membership/packages/package_crc.gif');
+}
+
+/* COP */
+#membership-package-options.cop DIV A {
+	background-image: url('/images/membership/packages/package_cop.gif');
+}
+
+/* INR */
+#membership-package-options.inr DIV A {
+	background-image: url('/images/membership/packages/package_inr.gif');
+}
+
+/* ILS */
+#membership-package-options.ils DIV A {
+	background-image: url('/images/membership/packages/package_ils.gif');
+}
+
+/* PEN */
+#membership-package-options.pen DIV A {
+	background-image: url('/images/membership/packages/package_pen.gif');
+}
+
+/* VEF */
+#membership-package-options.vef DIV A {
+	background-image: url('/images/membership/packages/package_vef.gif');
+}
+
+
+/* SEK */
+#membership-package-options.sek DIV A {
+	background-image: url('/images/membership/packages/package_sek.gif');
+}
+
+/* SGD */
+#membership-package-options.sgd DIV A {
+	background-image: url('/images/membership/packages/package_sgd.gif');
+}
+
+/* TRY */
+#membership-package-options.try DIV A {
+	background-image: url('/images/membership/packages/package_try.gif');
+}
+
+/* USD */
+#membership-package-options.usd DIV A {
+	background-image: url('/images/membership/packages/package_us.gif');
+}
+
+/* ZAR */
+#membership-package-options.zar DIV A {
+	background-image: url('/images/membership/packages/package_zar.gif');
+}
+
+/* New currencies should follow a similar format */
+
+
+/* For the 3 month special promotion, a separate image/sprite was created:
+#membership-package-options.ars .pkg-3-month A {
+	background-image: url('../../images/membership/packages/package_ars_3.gif');
+}
+
+#membership-package-options.aud .pkg-3-month A {
+	background-image: url('../../images/membership/packages/package_aud_3.gif');
+}
+
+#membership-package-options.brl .pkg-3-month A {
+	background-image: url('../../images/membership/packages/package_brl_3.gif');
+}
+
+#membership-package-options.clp .pkg-3-month A {
+	background-image: url('../../images/membership/packages/package_clp_3.gif');
+}
+
+#membership-package-options.cdn .pkg-3-month A {
+	background-image: url('../../images/membership/packages/package_cad_3.gif');
+}
+
+#membership-package-options.eur .pkg-3-month A {
+	background-image: url('../../images/membership/packages/package_eur_3.gif');
+}
+
+#membership-package-options.gbp .pkg-3-month A {
+	background-image: url('../../images/membership/packages/package_gbp_3.gif');
+}
+
+#membership-package-options.nzd .pkg-3-month A {
+	background-image: url('../../images/membership/packages/package_nz_3.gif');
+}
+
+#membership-package-options.mxn .pkg-3-month A {
+	background-image: url('../../images/membership/packages/package_mxn_3.gif');
+}
+
+#membership-package-options.usd .pkg-3-month A {
+	background-image: url('../../images/membership/packages/package_us_3.gif');
+} */
+
+
+/* Selected plan type */
+#membership-package-options.confirm .pkg-1-month A,
+#membership-package-options.confirm .pkg-6-month A,
+#membership-package-options.confirm .pkg-12-month A {
+}
+
+#membership-package-options.confirm .selected,
+#membership-package-alt-options.confirm .selected {
+	background: url('/images/membership/packages/selected_pkg_highlight.gif') no-repeat 0 0;
+	display: block;
+	float: left;
+	height: 112px;
+	margin: -25px -5px 0; /* to offset the extra dimensions required for the background image */
+	overflow: visible;
+	width: 136px !important;
+}
+
+#membership-package-options.confirm .selected A,
+#membership-package-alt-options.confirm .selected A {
+	margin: 25px 5px 5px;
+}
+
+/* Spacers */
+#membership .package_spacer {
+	width: 7px;
+	height: 82px;
+	float: left;
+	display: block;
+}
+
+#form .package_spacer {
+	width: 10px;
+	height: 82px;
+	float: left;
+	display: block;
+}
+
+/* Confirmation page: special styling */
+#confirm_package {
+	background: url('/images/membership/packages/selected_pkg_bg.gif') no-repeat 0 5px;
+	float: right;
+	height: 215px;
+	margin: 0;
+	padding: 0;
+	width: 410px;
+}
+
+#confirm_package H5 {
+}
+
+#confirm_package #membership-package-options.confirm {
+	margin: 40px 0 0 5px;
+}
+
+/* Misc */
+#form #membership_info {
+	float: left; 
+	width: 235px; 
+	background-image: url('/images/membership/membership_info_bg.gif');
+	height: 269px; 
+	margin: 37px 0 0 35px;	
+}
+
+#membership_info #plan-1-month {
+	background-position: 0pt 0px;
+}
+
+#membership_info #plan-6-month {
+	background-position: -102pt 0px;
+}
+
+#membership_info #plan-12-month {
+	background-position: -204pt 0px;
+}	
+
+#membership_info .selected-plan {
+	background-repeat: no-repeat;
+	height: 82px;
+	left: 54px;
+	position: relative;
+	top: 66px;
+	width: 126px;
+}
+
+/* Currency specific background images: */
+/* ARS */
+#membership_info .selected-plan.ars {
+	background-image: url('/images/membership/packages/package_ars.gif');
+}
+
+/* AUD */
+#membership_info .selected-plan.aud {
+	background-image: url('/images/membership/packages/package_aud.gif');
+}
+
+/* BRL */
+#membership_info .selected-plan.brl {
+	background-image: url('/images/membership/packages/package_brl.gif');
+}
+
+/* Boleto */
+#membership_info .selected-plan.bol {
+	background-image: url('/images/membership/packages/package_bol.gif');
+}
+
+/* CDN */
+#membership_info .selected-plan.cad {
+	background-image: url('/images/membership/packages/package_cad.gif');
+}
+
+/* CLP */
+#membership_info .selected-plan.clp {
+	background-image: url('/images/membership/packages/package_clp.gif');
+}
+
+/* EUR */
+#membership_info .selected-plan.eur {
+	background-image: url('/images/membership/packages/package_eur.gif');
+}
+
+/* GBP */
+#membership_info .selected-plan.gbp {
+	background-image: url('/images/membership/packages/package_gbp.gif');
+}
+
+/* MXN */
+#membership_info .selected-plan.mxn {
+	background-image: url('/images/membership/packages/package_mxn.gif');
+}
+
+/* NZD */
+#membership_info .selected-plan.nzd {
+	background-image: url('/images/membership/packages/package_nz.gif');
+}
+
+/* USD */
+#membership_info .selected-plan.usd {
+	background-image: url('/images/membership/packages/package_us.gif');
+}
+
+/* ZAR */
+#membership_info .selected-plan.zar {
+	background-image: url('/images/membership/packages/package_.gif');
+}
+
+
+/* Extra Form stuff to fix oddities */
+#form .formRow_new {
+	height: 30px;
+}

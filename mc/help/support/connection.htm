@@ -1,0 +1,74 @@
+<html><!-- InstanceBegin template="/Templates/Miniclip-Help.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Club Penguin</title>
+<!-- InstanceEndEditable -->
+
+<script type="text/javascript">
+function goAnchor( id )
+{
+	anchorPos = document.getElementById( id ).offsetTop;
+	document.body.scrollTop = anchorPos;
+	return false;
+}
+
+function getQueryVariable(variable) 
+{
+	var query = window.location.search.substring(1);
+
+	if (query.length > 0)
+	{
+		var vars = query.split("&");
+		
+		for (var i=0; i<vars.length; i++) 
+		{
+			var pair = vars[i].split("=");
+			
+			if (pair[0] == variable) 
+			{
+				return pair[1];
+			}
+		}
+	}
+	else
+	{
+		return '';
+	}
+}
+</script>
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<link href="../../../style-miniclip.css" rel="stylesheet" type="text/css">
+</head>
+
+
+<body id="top">
+<div id="wrap"><!-- InstanceBeginEditable name="Content" -->
+<p><a href="../index.html">Club Penguin Help</a> &gt; Technical Questions</p>
+<h1>Was not able to connect to the server?</h1>
+<p>Please check that you have the latest Flash Player<br>
+    <a href="http://www.macromedia.com/go/getflashplayer/" target="_blank">Flash Player Download Center </a></p>
+<h2>If this doesn't fix your problem:</h2>
+<p>A firewall on your network may be blocking your connection. Please ask your network administrator or ISP to open ports 3724, 6112 and 6113, 9339 and 9875  (for TCP traffic, both inbound and outbound) which are used by Club Penguin.</p>
+<h2>If this doesn't fix your problem:</h2>
+<p>Our servers may be temporarily offline for maintenance or an update. Try waiting an hour and then try again.
+<p></p>
+<!-- InstanceEndEditable --></div>
+<script>
+	var anchorTag = getQueryVariable('anchor');
+	
+	if (anchorTag.length > 0)
+	{
+		goAnchor(anchorTag);
+	}
+</script>
+<table width="700" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td><div align="right"><a href="../index.html" class="note">Help</a> | <a href="../../privacy.htm" class="note"></a><a href="../../parents.htm" class="note">Parents Guide</a> | <a href="../../privacy.htm" class="note"></a><a href="../../terms.htm" class="note">Terms</a> | <a href="../../privacy.htm" class="note">Privacy</a></div></td>
+  </tr>
+</table> 
+
+</body>
+<!-- InstanceEnd --></html>
+
+

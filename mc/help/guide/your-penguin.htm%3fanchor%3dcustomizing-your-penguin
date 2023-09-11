@@ -1,0 +1,153 @@
+<html><!-- InstanceBegin template="/Templates/Miniclip-Help.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Club Penguin</title>
+<!-- InstanceEndEditable -->
+
+<script type="text/javascript">
+function goAnchor( id )
+{
+	anchorPos = document.getElementById( id ).offsetTop;
+	document.body.scrollTop = anchorPos;
+	return false;
+}
+
+function getQueryVariable(variable) 
+{
+	var query = window.location.search.substring(1);
+
+	if (query.length > 0)
+	{
+		var vars = query.split("&");
+		
+		for (var i=0; i<vars.length; i++) 
+		{
+			var pair = vars[i].split("=");
+			
+			if (pair[0] == variable) 
+			{
+				return pair[1];
+			}
+		}
+	}
+	else
+	{
+		return '';
+	}
+}
+</script>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<link href="../../../style-miniclip.css" rel="stylesheet" type="text/css">
+</head>
+
+
+<body id="top">
+<div id="wrap"><!-- InstanceBeginEditable name="Content" -->
+  <a href="../index.html">Club Penguin Help</a> &gt; Guide
+  <h1>Your Penguin </h1>
+  
+  <ul>
+    <li><a href="#" onClick="return goAnchor('player-card')">Your Player Card</a></li>
+    <li><a href="#" onClick="return goAnchor('buying-clothes')">Buying Clothes (Members Only) </a></li>
+    <li><a href="#" onClick="return goAnchor('limited-editions')">Buying Clothes: Limited Editions </a></li>
+    <li><a href="#" onClick="return goAnchor('customizing-your-penguin')">Customizing Your Penguin (Members Only) </a></li>
+  </ul>
+  <div id="player-card">
+    <h2>Your Player Card</h2>
+	
+	<table width="100%"  border="0" cellspacing="0" cellpadding="10">
+      <tr>
+        <td valign="top"><ul>
+            <li class="plaintext">Click on your penguin to bring up your player card. Your card will tell you how many coins you have. 
+            </li>
+            <li class="plaintext">The top tab on the right is for clothing and accessories. The bottom tab is for <FONT face=Arial><SPAN style="FONT-FAMILY: Arial">options like colors, flags and backgrounds</SPAN></FONT>.</li>
+            <li class="plaintext"> If you don&rsquo;t own any items, you won&rsquo;t see any listed. If you are a member, you can buy items with the coins you earn. </li>
+        </ul></td>
+        <td valign="top"><p><img src="../../../images/screenshots/player-card.gif" width="350" height="220"></p></td>
+      </tr>
+    </table>
+	<div align="right">
+     
+      <p><a href="#" onClick="return goAnchor('top')">
+      Back to top</a> </p>
+    </div>
+    <div id="buying-clothes">
+      <h2>Buying Clothes (Members Only) </h2>
+      <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+        <tr>
+          <td valign="top"><ul>
+              <li class="plaintext">If you are a member, you can spend your coins to buy items or furniture for your penguin.</li>
+              <li class="plaintext"> To buy clothing and accessories, go into the Gift Shop or Sport Shop and click on the catalog. Click &lsquo;Buy Now&rsquo; in the catalog for the item you wish to purchase. When you buy an item, it gets added to your inventory shown on the player card. </li>
+              <li class="plaintext">Rare Items: these can be purchased on the Pirate Ship (The Migrator). It arrives in Club Penguin every two months and stays for up to two weeks. To purchase an item, click the catalog on the right of the screen. Rare items include clothing and furniture. </li>
+              <li class="plaintext"> Your penguin will not automatically wear the item you purchased. You must edit (or customize) your penguin to wear your new clothing. </li>
+          </ul></td>
+          <td valign="top"><p><img src="../../../images/screenshots/buying-clothes.gif" width="350" height="220"></p></td>
+        </tr>
+      </table>
+      <div align="right">
+      
+        <p><a href="#" onClick="return goAnchor('top')">
+        Back to top</a> </p>
+      </div>
+      <div id="limited-editions">
+        <h2>Buying Clothes: Limited Editions</h2>
+        <div align="right">
+          <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+            <tr>
+              <td valign="top"><ul>
+                  <li class="plaintext">The clothing catalog for your penguin changes every month. With each new catalog, some items will no longer be available, and new items will be introduced. </li>
+                  <li class="plaintext">If you see another penguin with an item that is not in the catalog, it is an older item.</li>
+                  <li class="plaintext">
+                    Some clothing items remain in the catalog even though you can&rsquo;t see them. They are hidden. To find these items use your mouse and watch for an icon to appear. Click on it to see the clothing item.  
+                  </li>
+                  <li class="plaintext">Sometimes, a limited-edition item will come back, so if you wait long enough you may have a chance to own it, too. </li>
+              </ul></td>
+              <td valign="top"><p><img src="../../../images/screenshots/limited-edition-clothing.gif" width="350" height="220"></p></td>
+            </tr>
+          </table>
+          <p><a href="#" onClick="return goAnchor('top')">
+        Back to top</a> </p>
+        </div>
+        <div id="customizing-your-penguin">
+          <h2>Customizing Your Penguin (Members Only) </h2>
+          <div align="right">
+            <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td valign="top"><ul>
+                    <li class="plaintext"> To dress your penguin or change colors, <strong>click</strong> on your penguin <strong>or</strong> on the edit button on the toolbar. This will bring up your player card.</li>
+                    <li class="plaintext">Click on one of the tabs on the right of the card. This will show you all of the items you currently own (if any).</li>
+                    <li class="plaintext">Click an item in the menu to put it on. To take an item off, click the item on your penguin, <strong>or</strong> click a new item to replace it.</li>
+                    <li class="plaintext"> The top tab is for clothing and accessory items; the bottom tab is for colors and flags. </li>
+                    <li class="plaintext">To change your penguin&rsquo;s color, select the lower tab of your player card. Click the color you want, and your penguin will change color. Flags and collectible pins are selected in the same way. Flags and pins, when selected will appear on the upper left side of your player card. You can wear one flag and one pin at a time.</li>
+                    <li class="plaintext"> If you don&rsquo;t own any items, you won&rsquo;t see any listed. Members can buy items at the Gift Shop with the coins they earn. </li>
+                </ul></td>
+                <td valign="top"><p><img src="../../../images/screenshots/customize-penguin.gif" width="350" height="220"></p></td>
+              </tr>
+            </table>
+            <p><a href="#" onClick="return goAnchor('top')">
+        Back to top</a> </p>
+          </div>
+          
+        </div>
+      </div>
+    </div>      
+  </div>
+  <!-- InstanceEndEditable --></div>
+<script>
+	var anchorTag = getQueryVariable('anchor');
+	
+	if (anchorTag.length > 0)
+	{
+		goAnchor(anchorTag);
+	}
+</script>
+<table width="700" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td><div align="right"><a href="../index.html" class="note">Help</a> | <a href="../../privacy.htm" class="note"></a><a href="../../parents.htm" class="note">Parents Guide</a> | <a href="../../privacy.htm" class="note"></a><a href="../../terms.htm" class="note">Terms</a> | <a href="../../privacy.htm" class="note">Privacy</a></div></td>
+  </tr>
+</table> 
+
+</body>
+<!-- InstanceEnd --></html>
+
+

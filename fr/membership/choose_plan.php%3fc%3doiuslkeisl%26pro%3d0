@@ -1,0 +1,309 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr-ALL" lang="fr-ALL"><!-- InstanceBegin template="/Templates/2008_chooseplan_blank.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Language" content="fr-ALL" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Club Penguin – Abonne-toi !</title>
+<!-- InstanceEndEditable -->
+<!-- Main stylesheets ***-->
+<link href="/fr/css/baseline.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="/fr/css/club_penguin_main.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="/fr/membership/css/membership.css" rel="stylesheet" type="text/css" media="screen" />
+
+<!--[if IE 6]>
+  <link rel="stylesheet" type="text/css" href="/css/ie.css" />
+<![endif]-->
+<!--[if IE 7]>
+  <link rel="stylesheet" type="text/css" href="/css/ie7.css" />
+<![endif]-->
+
+<!-- SIFR links***************  -->
+
+<link rel="stylesheet" href="/fr/css/sIFR3-screen.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/fr/css/sIFR3-print.css" type="text/css" media="print" />
+
+<script type="text/javascript">
+var currentURL = window.location.pathname;
+pathArray = currentURL.split("/");
+if (pathArray[1] == "es") { 
+document.write('<link rel="canonical" href="http://www.clubpenguin.com/fr/membership/choose_plan.php" /> ');  // i.e. an Spanish URL
+} else if (pathArray[1] == "pt") { 
+document.write('');  // i.e. an Portuguese URL
+} else if (pathArray[1] == "fr") { 
+document.write('');  // i.e. an French URL
+} else { 
+document.write('<link rel="canonical" href="http://www.clubpenguin.com/fr/membership/choose_plan.php" />');  // i.e. an English URL
+} 
+</script>
+<script src="/fr/scripts/cookies.js" type="text/javascript"></script>
+<script src="/fr/scripts/sifr3.js" type="text/javascript"></script>
+<script src="/fr/scripts/sifr3-config.js" type="text/javascript"></script>
+
+<script type="text/javascript" src="/fr/scripts/swfobject.js"></script>
+
+<script type="text/javascript">
+	var navString = "navspot=1&subspot=";
+	var flashvars = {};
+	flashvars.ticker = "false";
+	flashvars.mainXML = "http://media2.clubpenguin.com/www/fr/xml/main-navigation.xml";
+	flashvars.navspot = navString.charAt(8);
+	flashvars.subspot = navString.charAt(18);
+	var params = {};
+	params.menu = "false";
+	params.quality = "high";
+	params.scale = "noscale";
+	params.wmode = "transparent";
+	params.bgcolor = "#01549A";
+	params.allowfullscreen = "false";
+	params.allowscriptaccess = "always";
+	var attributes = {};
+	attributes.id = "flashNavigation";
+	attributes.name = "flashNavigation";
+	attributes.align = "middle";
+	swfobject.embedSWF("http://media2.clubpenguin.com/www/fr/swf/main-navigation.swf", "flashNavigation", "1022", "134", "9.0.28.0", false, flashvars, params, attributes);
+</script>
+
+<script type="text/javascript">	
+	var flashvars = {};
+	flashvars.xmlurl = "http://media2.clubpenguin.com/www/fr/membership/xml/membership-slider.xml";
+	var params = {};
+	params.menu = "false";
+	params.quality = "high";
+	params.scale = "noscale";
+	params.wmode = "transparent";
+	params.bgcolor = "#FFFFFF";
+	params.allowfullscreen = "false";
+	params.allowscriptaccess = "always";
+	var attributes = {};
+	attributes.id = "membership-slider";
+	attributes.name = "membership-slider";
+	attributes.align = "top";
+	swfobject.embedSWF("http://media2.clubpenguin.com/www/fr/membership/swf/membership-slider.swf", "membership-slider", "835", "430", "9.0.28.0", false, flashvars, params, attributes);
+</script>
+
+
+
+<!-- InstanceBeginEditable name="head" --><script type="text/javascript">if(top.location != location) {	top.location.href = document.location.href;}</script><script type="text/javascript" src="/fr/scripts/dropdown_currency.js"></script><!-- InstanceEndEditable --><!-- InstanceParam name="body id" type="text" value="membership" --><!-- InstanceParam name="class" type="text" value="subpage" --><!-- InstanceParam name="navspot" type="text" value="navspot=1&amp;subspot=" --><!-- InstanceParam name="IE path" type="text" value="/css/" --><!-- InstanceParam name="siteSection" type="text" value="membership" --><!-- InstanceParam name="pageName" type="text" value="get_membership_cad" --><!-- InstanceParam name="contentType" type="text" value="regular" -->
+</head>
+
+<body id="membership" class="subpage">
+<div id="hdrWrap">
+<a name="top" id="top"></a>
+<div id="flashNavContainer">
+		<div id="flashNavigation">
+        	<ul>
+            	<li><a href="http://www.clubpenguin.com/fr" title="Lien vers la page d'accueil de Club Penguin">Accueil</a></li>
+            	<li><a href="http://www.clubpenguin.com/fr/membership/" title="Lien vers la section Abonnement">Abonnement</a></li>
+                <li><a href="http://community.clubpenguin.com/fr/" title="Lien vers la section Communauté">Communauté</a></li>
+                <li><a href="http://www.clubpenguin.com/fr/parents/" title="Lien vers la section Parents">Parents</a></li>
+                <li><a href="http://www.clubpenguin.com/fr/toys/" title="Lien vers la section Jouets">Jouets</a></li>
+                <li><a href="http://support.clubpenguin.com/fr/help/" title="Lien vers la section Aide">Aide</a></li>
+                <li><a href="http://play.clubpenguin.com/fr/index.php/" title="Lien vers la page Jouer à Club Penguin">Jouer</a></li>
+            </ul>
+			<a href="http://www.adobe.com/go/getflashplayer">
+				<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Télécharger Adobe Flash Player" />
+			</a>
+<!-- end #flashContainer --></div>
+<!-- end #flashNav --></div>
+<!-- end #hdrWrap --></div>
+
+
+
+<div id="centerWrap">
+<div id="contentWrap">
+    <div id="content">
+    
+    	<div style="padding-bottom:0px" class="padd">
+  
+<div id="card_activation"><a href="https://secure.clubpenguin.com/fr/membership/activate_card.php"></a></div>
+
+<div class="pageName">
+  
+<img src="/fr/images/hdr_getYourMembership.gif" style="padding-top: 8px;" alt="Abonne-toi !" width="306" height="30"/>
+</div>
+
+<!-- end .padd --></div>
+
+
+    
+    <!-- InstanceBeginEditable name="content" -->
+
+
+<div style="padding-top:10px"class="padd">
+<div id="membershipOptions_other">
+		
+  <dl class="dropdown2">
+  <dt id="one-ddheader" onmouseover="ddMenu('one',1)" onmouseout="ddMenu('one',-1)">Changer la devise</dt>
+  <dd id="one-ddcontent" onmouseover="cancelHide('one')" onmouseout="ddMenu('one',-1)">
+    <ul>
+ 		      					<li><a href="choose_plan.php?c=vxkpgomnal&pro=0" class="underline"><img src="../../images/dollar.png" />Dollar US</a></li>
+				      	<li><a href="choose_plan.php?c=gnxykgfpva&pro=0" class="underline"><img src="../../images/dollar.png" />Dollar Canadien</a></li>
+				      	<li><a href="choose_plan.php?c=uvjakiquwp&pro=0" class="underline"><img src="../../images/brl.png" />Real Brésilien</a></li>
+				      	<li><a href="choose_plan.php?c=aglmrjpmdu&pro=0" class="underline"><img src="../../images/pound.png" />Livre Sterling</a></li>
+				      	<li><a href="choose_plan.php?c=dfnepfeopq&pro=0" class="underline"><img src="../../images/euro.png" />Euro</a></li>
+				      	<li><a href="choose_plan.php?c=nzvpkjahaa&pro=0" class="underline"><img src="../../images/dollar.png" />Dollar Australien </a></li>
+				      	<li><a href="choose_plan.php?c=oiuslkeisl&pro=0" class="underline"><img src="../../images/dollar.png" />Dollar Nouveau Zélandais</a></li>
+		    </ul>
+  </dd>
+</dl>
+
+<div style="clear:both" />
+
+	<div id="online">
+		<div id="membership-package-options" class="nzd">
+			<div class="pkg-1-month"><a href="https://secure.clubpenguin.com/fr/membership/login.php?pt=A&ct=5&amp;pro=0"></a></div>
+			<div class="package_spacer"></div>
+			<div class="pkg-6-month"><a href="https://secure.clubpenguin.com/fr/membership/login.php?pt=B&ct=5&amp;pro=0"></a></div>
+			<div class="package_spacer"></div>
+			<div class="pkg-12-month"><a href="https://secure.clubpenguin.com/fr/membership/login.php?pt=C&ct=5&amp;pro=0"></a></div>
+		</div>
+
+		<div id="currencyBackground">
+			<div class="cbinner"><strong>Dollar Nouveau Zélandais</strong></div>
+		</div>
+	</div>
+
+<div class="floatHack"></div>
+
+</div>
+<!-- end .padd --></div>
+
+<div id="membership-slider-container">
+	<div id="membership-slider">
+
+
+            <h2>ABONNEMENT</h2>
+            <h2>Les membres s'amusent plus</h2>
+            <h3>Tout commence avec ce badge. C’est la clef qui te donne accès à toutes sortes d’objets, de jeux, de fêtes et d’évènements exclusifs. Jette un oeil à ce que tu vas pouvoir faire ce mois-ci grâce à ton badge :</h3>
+            <ul>
+                <li>Aide à faire pousser des plantes à Club Penguin pour fêter la Journée de la Terre. </li>
+                <li>Fais sensation avec la toute dernière mode de vêtements écolos  ! </li>
+                <li>Découvre de nouveaux sols et mobiliers, pour un igloo qui respecte l’environnement. </li>
+            </ul>
+
+
+            <h2>Crée plus</h2>
+            <h3>Igloos, costumes et tenues t'offrent de nouveaux moyens d'exprimer ta créativité.</h3>
+            <ul>
+                <li>Combine tes objets pour créer un look unique et découvre des actions spéciales !</li>
+                <li>Aménage le parfait igloo et invite tous tes amis !</li>
+                <li>Collectionne des nouveaux meubles et tenues chaque mois !</li>
+            </ul>
+
+
+            <h2>Explore plus</h2>
+            <h3>L'accès exclusif aux jeux, récompenses et secrets rend Club Penguin encore plus amusant à explorer !</h3>
+            <ul>
+                <li>Accède à plus de niveaux dans les jeux !</li>
+                <li>Attrape un costume et figure dans une pièce à La Scène !</li>
+                <li>Collectionne des nouveaux meubles et tenues chaque mois !</li>
+                <li>Sois le premier à explorer les nouvelles salles !</li>
+            </ul>
+
+
+            <h2>Joue plus</h2>
+            <h3>Que tu sois avec tes amis ou à te détendre tout seul, les puffles sont sûrs de répandre la bonne humeur ! Ils sont mignons, câlins, et même un peu fous, et ils ont tous besoin d'un foyer où être choyé !</h3>
+            <ul>
+                <li>Apprend à connaître ton puffle ! Chaque couleur a sa propre personnalité.</li>
+                <li>Adopte jusqu'à 16 puffles à la fois !</li>
+                <li>Emmène un puffle avec toi dans les jeux !</li>
+                <li>Collectionne du mobilier spécial pour tes puffles.</li>
+            </ul>
+
+
+            <h2>Accède à Plus
+</h2>
+            <h3>Reste en tête de file ! Entre en priorité dans les serveurs et salles et n'attends pas pour jouer à tes jeux préférés ou te promener dans tes salles préférées : tu es là le premier.</h3>
+            <ul>
+                <li>Évite les files d'attente pour chaque fête ou évènement !</li>
+                <li>Visite tes serveurs préférés : il y a de la place en plus réservée pour toi.</li>
+                <li>Ajoute à ta collection grâce à l'accès illimité aux catalogues et objets !</li>
+                <li>Ajoute ton igloo à la carte de Club Penguin pour que tous tes copains puissent te rendre visite facilement.</li>
+            </ul>
+
+
+            <h2>Fête plus </h2>
+            <h3>Assiste à des fêtes et évènements exclusifs créés juste pour les membres ! C'est l'endroit parfait pour découvrir les dernières nouveautés que Club Penguin a à offrir, qu'il s'agisse de la dernière pièce à La Scène ou de tout nouveaux jeux !</h3>
+            <ul>
+                <li>Rends-toi à des fêtes et évènements exclusifs.</li>
+                <li>Rencontre tes personnages préférés !</li>
+                <li>Accède aux zones réservées aux membres pendant les fêtes les plus importantes !</li>
+                <li>Organise une fête dans ton igloo et invite tous tes copains !</li>
+            </ul>
+
+
+    </div>
+</div>
+
+	<!-- InstanceEndEditable -->
+     
+    <!-- end #content --></div>
+	<div class="floatHack"></div>
+ <!-- end #contentWrap --></div>
+<!-- end #centerWrap --></div>
+
+
+<script src="http://www.clubpenguin.com/fr/scripts/footer.php" language="javascript"></script>
+<noscript>
+<div id="ftrWrap">
+	<div id="ftrBg">
+		<div id="ftrContent">
+			<img src="http://www.clubpenguin.com/fr/images/disney_games.jpg" id="disGame" alt="Jeux Disney.com" />
+			<a href="http://www.bbbonline.org/cks.asp?id=108062716439767" target="_blank"><img src="http://www.clubpenguin.com/fr/images/bbb_new.gif" id="bbb_english" alt="BBB Agréé" /></a>
+			<a href="http://www.truste.org/ivalidate.php?url=www.clubpenguin.com&sealid=105" target="_blank"><img src="http://www.clubpenguin.com/fr/images/truste_kids_seal.jpg" id="truste" alt="TRUSTe - Kids Privacy" /></a>
+
+			<!-- This is the Footer Navigation ********************** -->
+
+			<ul>
+				<li><a href="http://www.clubpenguin.com/fr/company/index.htm">Entreprise</a></li>
+				<li>|</li>
+				<li><a class="new" href="http://www.clubpenguin.com/fr/terms.htm">Conditions d'Utilisation</a><span class="asterisk">*</span></li>
+				<li>|</li>
+				<li><a class="new" href="http://www.clubpenguin.com/fr/privacy.htm">Confidentialité</a><span class="asterisk">*</span></li>
+				<li>|</li>
+				<li><a href="http://support.clubpenguin.com/fr/help/contact/">Nous contacter </a></li>
+				<li>|</li>
+				<li class="noMarg"><a href="http://www.clubpenguin.com/fr/sitemap.htm">Plan du site</a></li>
+			</ul>
+
+			<p>Club Penguin&trade; Disney Online Studios Canada Inc. &copy; 2009. Tous droits réservés.<br /></p>
+		</div>
+	</div>
+</div>
+</noscript>
+
+<!-- InstanceBeginEditable name="sifr script" -->
+
+
+
+<script type="text/javascript">
+	if(typeof sIFR == "function"){
+	sIFR.replaceElement("h2", named({sSelector:"h2", sFlashSrc:"https://secure.clubpenguin.com/fr/flash/burbank.swf", sColor:"#00529b", sLinkColor:"#000000", sBgColor:"#fefce1", sHoverColor:	"#CCCCCC", nPaddingTop:0, nPaddingBottom:0, sFlashVars:"textalign=left&offsetTop=0", sWmode:"transparent"}));
+	sIFR.replaceElement("h3", named({sSelector:"h3", sFlashSrc:"https://secure.clubpenguin.com/fr/flash/burbank.swf", sColor:"#00529b", sLinkColor:"#000000", sBgColor:"#fff4ca", sHoverColor:"#CCCCCC", nPaddingTop:0, nPaddingBottom:0, sFlashVars:"textalign=left&offsetTop=0", sWmode:"transparent"}));
+};
+</script><!-- InstanceEndEditable -->
+
+<!-- BEGIN DOL Web Analytics 1.0 DO NOT EDIT OR REMOVE THIS LINE-->
+<script language="javascript" src="https://global.go.com/stat/dolWebAnalytics.js"></script>
+<script language="javascript">
+var qs = window.location.search.substring(1);
+cto=new CTO();
+cto.account="clubpenguin";
+cto.category="dgame";
+cto.site="clp";
+cto.siteSection="membership";
+if (qs == "") {
+	cto.pageName="get_your_membership";
+} else {
+	cto.pageName=window.location.search.substring(1);
+}
+cto.contentType=window.location.search.substring(1);
+cto.property="clp";
+cto.track();//Required. Do not remove.
+</script>
+<!-- END DOL Web Analytics 1.0 -->
+
+
+</body>
+<!-- InstanceEnd --></html>

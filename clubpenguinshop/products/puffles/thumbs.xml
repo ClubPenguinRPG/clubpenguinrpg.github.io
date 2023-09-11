@@ -1,0 +1,13 @@
+﻿<thumbs productDescription="4” Pet Puffle (Ages 4+)
+Soft and cuddly, puffle's are Club Penguin’s favorite pets.
+Each 4” Pet Puffle has a plastic coin with a code on one side that can unlock items on Club Penguin. 
+They are available at North American Toys“R”Us Stores, Disney Stores, and North American Disney Theme Parks.">
+
+  <thumb src = "products/puffles/images/tn_black.jpg" caption = "Black Puffle - Strong: loves the skateboard!" href = "black" />
+  <thumb src = "products/puffles/images/tn_blue.jpg" caption = "Blue Puffle - Loyal: likes to play ball!" href = "blue" />
+  <thumb src = "products/puffles/images/tn_green.jpg" caption = "Green Puffle - Playful: loves clowning around!" href = "green" />
+  <thumb src = "products/puffles/images/tn_pink.jpg" caption = "Pink Puffle - Cheerful: likes to jump!" href = "pink" />
+  <thumb src = "products/puffles/images/tn_purple.jpg" caption = "Purple Puffle - Happy: likes the dance moves!" href = "purple" />
+  <thumb src = "products/puffles/images/tn_red.jpg" caption = "Red Puffle - Adventurous: loves its cannon!" href = "red" />
+  <thumb src = "products/puffles/images/tn_yellow.jpg" caption = "Yellow Puffle - Artistic: a dreamer!" href = "yellow" />
+</thumbs>

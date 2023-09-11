@@ -1,0 +1,460 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/Blank.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Club Penguin - Help: Puffles</title>
+<!-- InstanceEndEditable --><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="../../style.css" rel="stylesheet" type="text/css">
+<SCRIPT src="../../flash/flash.js" type=text/javascript></SCRIPT>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<link href="../../style-penguin.css" rel="stylesheet" type="text/css">
+<link href="../../css/nav_inside.css" rel="stylesheet" type="text/css">
+</head>
+<body bgcolor="#FFFFFF" class="bg_white"> 
+<a name="top"></a>
+
+
+<div id="wrap">
+  <div id="header"> <a href="../../index.html"><img src="../../images/clubpenguin-tm.gif" alt="Club Penguin" width="307" height="152" border="0" align="left"></a> 
+    <SCRIPT type=text/javascript>RunFlash('http://www.clubpenguin.com/flash/HeaderInsideRevised.swf','453','152','#EEEEEE');</SCRIPT>
+        <NOSCRIPT>
+          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="453" height="152">
+            <param name="movie" value="../../flash/HeaderInsideRevised.swf">
+            <param name=quality value=high>
+            <param name="wmode" value="transparent">
+            <embed src="../../flash/HeaderInsideRevised.swf" width="453" height="152" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" wmode="transparent"></embed>
+              </object>
+          </NOSCRIPT>
+  </div>
+   
+    <div class="yellow"><!-- empty --></div>
+	
+  <div id="memnav">
+    <div class="play"><a href="http://play.clubpenguin.com/">Play</a></div>
+	
+    <div class="parents"><a href="../../parents.htm">Parents </a></div>
+    <div class="help"><a href="../index.html">Help</a></div>
+    <div class="member"><a href="https://secure.clubpenguin.com/membership/">Membership</a></div>
+    <div class="shop"><a href="../../clubpenguinshop/index.html">Shop</a></div>
+	
+     <div class="what-new"><a href="http://blog.clubpenguin.com/">What's New </a></div>
+	 <div class="cont-us"><a href="../../contact.htm">Contact Us </a></div>
+	 <div class="home"><a href="../../index.html">Home</a></div>
+  </div>
+  
+  <table width="760" height="360" border="0" align="center" cellpadding="20" cellspacing="0">
+    <tr>
+      <td height="28" align="center" valign="top" class="content">
+        <table width="718" height="500" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td align="left" valign="top"><!-- InstanceBeginEditable name="Content" -->
+        <table width="718" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><span class="lg_title">Puffles</span></td>
+          </tr>
+          <tr>
+            <td height="10"></td>
+          </tr>
+      </table>
+        <ul>
+         <li><a href="#About_Puffles">About Puffles </a></li>
+    <li><a href="#Puffle_Breeds">Types of Puffles </a></li>
+    <li><a href="#Adopting_Puffles"">Adopting Puffles</a></li>
+    <li><a href="#Caring_for_your_Puffle">Caring for your Puffle</a>
+      <ul>
+	  <li><a href="#feeding">Feeding</a>	    </li>
+        <li><a href="#bath">Bathing</a></li>
+        <li><a href="#playing">Playing</a></li>
+        <li><a href="#resting">Resting</a></li>
+        <li><a href="#walking">Walking</a></li>
+        <li><a href="#while-you-out">While you are out </a></li>
+		</ul>
+          </li>
+          <li><a href="#Puffle_Furniture" onClick="return goAnchor('puffle-furniture')">Puffle Furniture</a></li>
+        </ul>
+        <blockquote>
+          <p></a>                <a href="../index.html">Back to Club Penguin Help</a> </p>
+        </blockquote>
+        <h2><a name="About_Puffles"></a>About Puffles </h2>
+        <table width="718" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="358" valign="top"><table width="358" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td height="10"></td>
+                </tr>
+                <tr>
+                  <td><ul>
+                      <li>Puffles are small, round, furry creatures that were first discovered in the early part of 2006. </li>
+                      <li> These friendly little creatures make great pets because of their loyalty and friendliness.</li>
+                      </ul></td>
+                </tr>
+            </table></td>
+            <td width="10" valign="top">&nbsp;</td>
+            <td width="350" valign="top"><img src="../../images/screenshots/about-puffles.gif" width="350" height="220"></td>
+          </tr>
+        </table>
+        
+		<div align="right"><a href="#top">back to top</a>        </div>
+		<h2><a name="Puffle_Breeds"></a>Types of Puffles </h2>
+		<table width="718" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="358" valign="top"><table width="358" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td height="10"></td>
+                </tr>
+                <tr>
+                  <td><ul>
+                      <li>There are 6 different types of puffles, each with a different personality. </li>
+                      <li><strong>Blue Puffles </strong>are mild tempered and content. Their favorite toy is a ball. Blue Puffles are special because anyone in Club Penguin can adopt them. </li>
+                      <li><strong>Pink Puffles</strong> are very active and cheery. They love to excercise by jumping rope or playing on their trampolines. </li>
+                      <li><strong>Black Puffles</strong> are known to be a little mischievious and off tempered. However, they love to play and make a great pet for anyone who likes a little bit more personality.</li>
+                      <li><strong>Green Puffles</strong> are very energetic and playful. They like to clown around on their unicycles or play with their propeller caps.</li>
+                      <li><strong>Purple Puffles</strong> are lots of fun to have around. They enjoy blowing bubbles and are terrific dancers, but they can be a bit fussy, especially at mealtime. </li>
+                      <li><strong>Red Puffles</strong> are adventurous and enthusiastic. They are fearless when attempting daring tricks and spend a lot of their playful energy on a surf board. Rockhopper brought these puffles to Club Penguin on his ship from Rockhopper Island.<br>
+                      </li>
+                  </ul></td>
+                </tr>
+            </table></td>
+            <td width="10" valign="top">&nbsp;</td>
+            <td width="350" valign="top"><img src="../../images/screenshots/breeds-of-puffles.gif" width="350" height="220"></td>
+          </tr>
+        </table>
+		
+		<div align="right"><a href="#top">back to top</a>	  </div>
+		<h2><a name="Adopting_Puffles"></a>Adopting  Puffles </h2>
+		<table width="718" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="347" height="244" valign="top"><ul>
+                      <li> <span class="plaintext">Puffles can be adopted in the Pet Shop (located in the Plaza).</span></li>
+                      <li>Click on the red catalog on the bottom right-hand corner of the screen. Click &lsquo;Adopt&rsquo; in the catalog for the puffle of your choice. When you adopt your puffle, you get to choose a name for him/her.                      </li>
+                      <li>Members can  buy up to twelve puffles of any color. </li>
+                      <li>Non-members can buy two puffles, with a choice of blue or red in color.<BR>
+                      </li>
+                      <li>Once you've adopted your puffle, he/she will be waiting for you in your igloo to come take care of it.</li>
+                  </ul></td>
+            <td width="371" align="right" valign="top"><img src="../../images/screenshots/adopt-puffle.gif" width="350" height="220"></td>
+            </tr>
+        </table>
+		
+		<div align="right"><a href="#">back to top</a>	  </div>
+		
+		<h2 align="left"><a name="Caring_for_your_Puffle"></a>Caring for Your Puffle </h2>
+		<div align="right">
+          <table width="100%" height="256"  border="0" cellpadding="10" cellspacing="0">
+            <tr>
+              <td height="256" valign="top"><ul>
+                  <li>
+                    <p align="left" class="plaintext"> To view your puffle player card go to your igloo and click on your puffle. This card contains puffle care options and important puffle health information. After you have chosen an activity, close the player card to watch your puffle perform its action. </p>
+                    <ul><li>
+                        <div align="left"><a href="#feeding">Feeding</a></div>
+                      </li>
+					  <li>
+                        <div align="left"><a href="#bath">Bathing</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#playing">Playing</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#resting">Resting</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#walking">Walking</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#while-you-out" >While you are out </a></div>
+                      </li>
+                    </ul>
+                  </li>
+                  </ul></td>
+              <td valign="top"><img src="../../images/screenshots/play-puffle.gif" width="350" height="220"> </td>
+            </tr>
+          </table>
+		  </div>
+		<div align="right"><a href="#top">back to top</a>        </div>
+		
+	  
+		  
+		<h2 align="left"><a name="feeding"></a>Caring for Your Puffle - Feeding</h2>
+		<div align="right">
+          <table width="100%" height="256"  border="0" cellpadding="10" cellspacing="0">
+            <tr>
+              <td height="256" valign="top"><ul>
+                  <li>
+                    <p align="left" class="plaintext"> Buy your puffle food by clicking the third button from the left at the bottom of the puffle player card. You can choose to feed it Puffle-0&rsquo;s for healthy snack, a cookie or bubble gum for a yummy treat. Depending on its level of health it may even do a trick!  </p>
+                    <ul><li>
+                        <div align="left"><a href="#feeding">Feeding</a></div>
+                      </li>
+					  <li>
+                        <div align="left"><a href="#bath">Bathing</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#playing">Playing</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#resting">Resting</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#walking">Walking</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#while-you-out" >While you are out </a></div>
+                      </li>
+                    </ul>
+                  </li>
+                  </ul>
+                    <p align="left" class="plaintext">&nbsp; </p>
+                  </li>
+              </ul></td>
+              <td valign="top"><img src="../../images/screenshots/feeding-puffle.gif" width="350" height="220"> </td>
+            </tr>
+          </table>
+		  </div>
+		<div align="right">
+		<div align="right">
+		<div align="right"><a href="#top">back to top</a>		</div>
+		<h2 align="left"><a name="bath" ></a>Caring for Your Puffle - Bathing</h2>
+		<div align="right">
+          <table width="100%" height="256"  border="0" cellpadding="10" cellspacing="0">
+            <tr>
+              <td height="256" valign="top"><ul>
+                  <li>
+                    <p align="left" class="plaintext">To bath your puffle, click on it and pull up its player card.  Click the food icon located along the bottom menu. The food icon will open a tab with different options for feeding your puffle. Choose the water bowl icon on the second row and watch how your puffle plays in water. It will cost 5 coins each time.                    </p>
+                    <ul>
+                      <li>
+                        <div align="left"><a href="#feeding">Feeding</a></div>
+                      </li>
+					  <li>
+                        <div align="left"><a href="#bath">Bathing</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#playing">Playing</a></div>
+                      </li>
+					  
+                      <li>
+                        <div align="left"><a href="#resting">Resting</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#walking">Walking</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#while-you-out" >While you are out </a></div>
+                      </li>
+                    </ul>
+                  </li>
+              </ul>
+                  <p align="left" class="plaintext">&nbsp; </p>
+                </li>
+                  </ul></td>
+              <td valign="top"><img src="../../images/screenshots/bath-puffle.gif" width="350" height="220"> </td>
+            </tr>
+          </table>
+		  </div>
+		<div align="right">
+        <div align="right">
+        <div align="right"><a href="#top">back to top</a> </div>
+        <h2 align="left"><a name="playing"></a>Caring for Your Puffle - Playing </h2>
+        <div align="right">
+          <table width="100%" height="258"  border="0" cellpadding="10" cellspacing="0">
+            <tr>
+              <td height="258" valign="top"><ul>
+                  <li>
+                    <p align="left" class="plaintext"> Puffles love to play and it keeps them healthy. To play with your puffle, click on the far left button at the bottom of the puffle player card. When it is really healthy it may surprise you and change its type of activity.                    </p>
+                    <ul><li>
+                        <div align="left"><a href="#feeding">Feeding</a></div>
+                      </li>
+					  <li>
+                        <div align="left"><a href="#bath">Bathing</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#playing">Playing</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#resting">Resting</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#walking">Walking</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#while-you-out" >While you are out </a></div>
+                      </li>
+                    </ul>
+                  </li>
+                  </ul></td>
+              <td valign="top"><img src="../../images/screenshots/puffles-play.gif" width="350" height="220"> </td>
+            </tr>
+          </table>
+		  </div>
+		<div align="right">
+		<div align="right"><a href="#top">back to top</a>		</div><h2 align="left"><a name="resting" id="resting"></a>Caring for Your Puffle - Resting </h2>
+		<div align="right">
+          <table width="100%" height="256"  border="0" cellpadding="10" cellspacing="0">
+            <tr>
+              <td height="256" valign="top"><ul>
+                  <li>
+                    <p align="left" class="plaintext"> To let your puffle sleep, click on the second button from the left. Puffles get tired after a lot of activity and need to take naps to regain energy.</p>
+                  </li> 
+                  <li>
+                    <p align="left" class="plaintext">Usually a puffle will need some rest after you have played with it a couple times. But be careful though, too much sleep is not good for their health.</p>
+                <ul><li><div align="left"><a href="#feeding">Feeding</a></div>
+                      </li>
+					  <li>
+                        <div align="left"><a href="#bath">Bathing</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#playing">Playing</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#resting">Resting</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#walking">Walking</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#while-you-out" >While you are out </a></div>
+                      </li>
+                    </ul>
+                  </li>
+                  </ul>              </td>
+              <td valign="top"><img src="../../images/screenshots/puffles-resting.gif" width="350" height="220"> </td>
+            </tr>
+          </table>
+		  </div>
+		<div align="right">
+		<div align="right">
+		<div align="right"><a href="#top">back to top</a>          </div>
+		<h2 align="left"><a name="walking" id="walking"></a>Caring for Your Puffle - Walking</h2>
+		<div align="right">
+          <table width="100%" height="256"  border="0" cellpadding="10" cellspacing="0">
+            <tr>
+              <td height="256" valign="top"><ul>
+                  <li>
+                    <p align="left" class="plaintext"> To take your puffle for a walk, click on the far right button at the bottom of the puffle player card. Your puffle will stay by your side wherever you go. When you are finished walking your puffle, click the picture of your puffle, located on your penguin&rsquo;s player card. It will be returned to your igloo. Puffles must be walked one at a time and returned home for food and rest.  </p>
+                    <ul><li>
+                        <div align="left"><a href="#feeding">Feeding</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#bath">Bathing</a></div>
+                      </li>
+					  <li>
+                        <div align="left"><a href="#playing">Playing</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#resting">Resting</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#walking">Walking</a></div>
+                      </li>
+                      <li>
+                        <div align="left"><a href="#while-you-out" >While you are out </a></div>
+                      </li>
+                    </ul>
+                  </li>
+                  </ul>
+                    <p align="left" class="plaintext">&nbsp; </p>
+                  </li>
+              </ul></td>
+              <td valign="top"><img src="../../images/screenshots/walk-puffle.gif" width="350" height="220"> </td>
+            </tr>
+          </table>
+		  </div>
+		<div align="right">
+		<div align="right">
+		<div align="right"><a href="#top">back to top</a>		  </div>
+		<h2 align="left"><a name="while-you-out" id="while-you-out"></a>Caring for Your Puffle - While you are out</h2>
+		<div align="right">
+          <table width="100%" height="258"  border="0" cellpadding="10" cellspacing="0">
+            <tr>
+              <td height="258" valign="top"><ul>
+                    <li>
+                      Your puffles will still get hungry, need rest, and want to play while you are out exploring Club Penguin. Be sure to check up on them at least once for every hour you are Online. If they are not kept in good health, they may run away.                    <br>
+                      <br>
+                    </li>
+                    <li>When you exit Club Penguin, your puffle goes into Pause Mode and will stay exactly how you left it until you return to Club Penguin. It will not get hungry or tired and it will not run away from home. To ensure your puffle goes into Pause Mode you will need to log off properly by clicking the Log Off button at the top right of your screen.<br>
+                      <br>
+                      <ul><li>
+                          <div align="left"><a href="#feeding">Feeding</a></div>
+                          </li>
+					      <li>
+					        <div align="left"><a href="#bath">Bathing</a></div>
+                          </li>
+                          <li>
+                            <div align="left"><a href="#playing">Playing</a></div>
+                          </li>
+                          <li>
+                            <div align="left"><a href="#resting">Resting</a></div>
+                          </li>
+                          <li>
+                            <div align="left"><a href="#walking">Walking</a></div>
+                          </li>
+                          <li>
+                            <div align="left"><a href="#while-you-out" >While you are out </a></div>
+                          </li>
+                        </ul>
+                    </li>
+              </ul></td>
+              <td valign="top"><img src="../../images/screenshots/leaving-puffles.gif" width="350" height="220"> </td>
+            </tr>
+          </table>
+		  </div>
+		<div align="right">
+		<div align="right">
+		<div align="right"><a href="#top">back to top</a>		  </div>
+		<h2 align="left"><a name="Puffle_Furniture"></a>Puffle Furniture</h2>
+		<table width="718" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="358" height="242" valign="top"><table width="358" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td height="10"></td>
+                </tr>
+                <tr>
+                  <td><div align="left">To buy furniture for your puffle, go to the pet shop (located in the Plaza).
+                        <ul>
+                            <li>Click on the yellow catalog</li>
+                            <li>Click the &ldquo;Buy&rdquo; button for the item you want to buy. </li>
+                        </ul>
+                      The red catalog allows you to adopt a puffle. </div></td>
+                </tr>
+            </table></td>
+            <td width="10" valign="top">&nbsp;</td>
+            <td width="350" valign="top"><img src="../../images/screenshots/puffle-furniture.gif" width="350" height="220"></td>
+          </tr>
+        </table>
+		<div align="right"><a href="#top">back to top</a>        </div>
+		
+		<div align="right">
+		  <p>&nbsp;</p>
+          <p>&nbsp;</p>
+        </div>
+      <!-- InstanceEndEditable --></td>
+          </tr>
+        </table>
+	  </td>
+    </tr>
+</table>
+<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center"><img src="../../images/waddle-around.gif" width="310" height="35"></td>
+    </tr>
+</table>
+  <table width="760" height="69" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="top" class="copyright">
+<span class="footernav"></span>
+<table width="330" height="22" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td></td>
+  </tr>
+</table>
+<span class="footernav"><a href="../../company/index.html" class="footernav">Company Info</a> | <a href="../../terms.htm" class="footernav">Terms</a> | <a href="../../privacy.htm" class="footernav">Privacy</a> | <a href="../../contact.htm" class="footernav">Contact Us</a> | <a href="../../sitemap.htm" class="footernav">Site Map</a> </span> <br>
+ Club Penguin &#8482; New Horizon Interactive. &copy; 2007. All rights reserved.</td>
+    </tr>
+</table>
+  
+  
+</div>
+
+
+  
+</body>
+<!-- InstanceEnd --></html>

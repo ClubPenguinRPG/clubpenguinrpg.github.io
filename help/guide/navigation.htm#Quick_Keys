@@ -1,0 +1,208 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/Blank.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Club Penguin Navigation</title>
+<!-- InstanceEndEditable --><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="../../style.css" rel="stylesheet" type="text/css">
+<link href="../../nav_inside.css" rel="stylesheet" type="text/css">
+<SCRIPT src="../../flash/flash.js" type=text/javascript></SCRIPT>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<link href="../../style-penguin.css" rel="stylesheet" type="text/css">
+</head>
+<body bgcolor="#FFFFFF" class="bg_white"> 
+<a name="top"></a>
+  <table width="760" border="0" align="center" cellpadding="0" cellspacing="0"> 
+    <tr> 
+      <td width="307" height="152" align="left" background="../../images/header_bkg.gif" bgcolor="#005273"><span class="header"><a href="../../index.html"><img src="../../images/clubpenguin-tm.gif" alt="Club Penguin" width="307" height="152" border="0"></a></span></td> 
+      <td align="left" background="../../images/header_bkg.gif" bgcolor="#0096C8">
+	  <SCRIPT type=text/javascript>RunFlash('http://www.clubpenguin.com/flash/HeaderInsideRevised.swf','453','152','#EEEEEE');</SCRIPT>
+      <NOSCRIPT>
+	  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="453" height="152">
+        <param name="movie" value="../../flash/HeaderInsideRevised.swf">
+        <param name=quality value=high>
+        <param name="wmode" value="transparent">
+        <embed src="../../flash/HeaderInsideRevised.swf" width="453" height="152" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" wmode="transparent"></embed>
+      </object></NOSCRIPT>
+	 </td>
+    </tr> 
+</table>
+  <table width="760" height="2" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFCE07">
+    <tr>
+      <td></td>
+    </tr>
+  </table>
+  <table width="760" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#0A5E85" class="nav-main">
+    <tr>
+      <td height="39" align="center" valign="middle">
+    	<ul>
+          <li><a href="http://play.clubpenguin.com/" >&nbsp;&nbsp;Play&nbsp;</a><a href="../../parents.htm" >&nbsp;Parents&nbsp;</a></li>
+          <li><a href="../index.html" >&nbsp;Help&nbsp;</a></li>
+		  <li><a href="https://secure.clubpenguin.com/membership/" >&nbsp;Membership&nbsp;</a></li>
+		  <li><a href="../../clubpenguinshop/index.html" >&nbsp;Shop&nbsp;</a></li>
+          <li><a href="http://blog.clubpenguin.com/" >&nbsp;What's New</a></li>
+          <li><a href="../../contact.htm" >&nbsp;Contact Us</a></li>
+          <li><a href="../../index.html" >&nbsp;Home&nbsp;</a></li>
+        </ul></td>
+    </tr>
+</table>
+  <table width="760" height="360" border="0" align="center" cellpadding="20" cellspacing="0">
+    <tr>
+      <td height="28" align="center" valign="top" class="content">
+        <table width="718" height="500" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td align="left" valign="top"><!-- InstanceBeginEditable name="Content" -->
+        <table width="718" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><span class="lg_title">Navigation</span></td>
+          </tr>
+          <tr>
+            <td height="10"></td>
+          </tr>
+      </table>
+        <ul>
+          <li><a href="#Walking_Around">Walking Around </a></li>
+          <li><a href="#Map">Map</a></li>
+          <li><a href="#Places_to_Go">Places to Go</a></li>
+          <li><a href="#Quick_Keys">Quick Keys</a>  
+		 
+		  <br>
+              <br>
+              <a href="../index.html">Back to Club Penguin Help</a>          </li>
+        </ul>
+        <h2><a name="Walking_Around"></a> Walking Around</h2>
+        
+        <table width="718" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="358" valign="top"><table width="358" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="10"></td>
+              </tr>
+              <tr>
+                <td><ul>
+                  <li>To walk around, click where you want to go, and your penguin will walk towards that spot.</li>
+                  <li> If your penguin does not move where you want it to go, there may be something in your way, like a piece of furniture or a snow bank. Try clicking in a different direction to move around the obstacle.</li>
+                  <li>To move through a door or to enter a room, click on the door.</li>
+                </ul></td>
+              </tr>
+            </table></td>
+            <td width="10" valign="top">&nbsp;</td>
+            <td width="350"><img src="../../images/screenshots/walking-around.gif" width="350" height="220"></td>
+          </tr>
+        </table>
+        
+        <div align="right"><a href="#top">back to top</a>        </div>
+        <h2><a name="Map"></a> Map </h2>
+        <table width="718" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="358" valign="top"><table width="358" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="10"></td>
+              </tr>
+              <tr>
+                <td><ul>
+                  <li> The Map is your shortcut to the rest of the penguin world. </li>
+                  <li>Click the map icon on the bottom left-hand corner of the screen to open it. Once open, you can click on the area of Club Penguin that you want to go to next, and you will automatically go there.</li>
+                </ul></td>
+              </tr>
+            </table></td>
+            <td width="10" valign="top">&nbsp;</td>
+            <td width="350"><img src="../../images/screenshots/map.gif" width="350" height="220"></td>
+          </tr>
+        </table>
+        
+        <div align="right"><a href="#top">back to top</a>        </div>
+        <h2><a name="Places_to_Go"></a> Places to Go </h2>
+        <table width="718" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="358" valign="top"><table width="358" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="10"></td>
+              </tr>
+              <tr>
+                <td valign="top"><p>There are a lot of places to visit in Club Penguin. Here is a list of them:</p>
+                    <ul>
+                      <li>Town Center</li>
+                      <li> Coffee Shop </li>
+                      <li> Book Room </li>
+                      <li> Night Club </li>
+                      <li> Lounge </li>
+                      <li> Gift Shop</li>
+                      </ul>
+                    <ul>
+                        <li> Ski Village</li>
+                        <li> Sport Shop</li>
+                        <li>Ski Lodge</li>
+                        <li>Lodge Attic </li>
+                        <li> Ski Hill</li>
+                      </ul>
+                      <ul>
+                        <li>The Plaza</li>
+                        <li>Pet Shop</li>
+                        <li>The Dojo</li>
+                        <li>Pizza Parlor</li>
+                        </ul>
+                      <ul>
+                            <li>The Beach</li>
+                            <li> The Lighthouse</li>
+                            <li>Beacon</li>
+                            <li><a href="characters.htm">Pirate Ship: The Migrator</a> <br>
+                              <br>
+                            </li>
+                            <li> The Dock</li>
+                            <li>Snow Fort</li>
+                            <li> Ice Rink</li>
+                            <li>HQ</li>
+                            <li>Iceberg</li>
+                            <li>Bolier Room</li>
+                            <li>Underground Pool</li>
+                            <li>The Mine</li>
+                            <li>Mine Shack</li>
+                      </ul>
+                      New places are always being added, so you never know what you might discover! </td>
+              </tr>
+            </table>
+              <p></p>              </td>
+            <td width="10" valign="top">&nbsp;</td>
+            <td width="350" valign="top"><img src="../../images/screenshots/places-to-go-1.gif" width="350" height="220"><br>
+              <img src="../../images/screenshots/places-to-go-2.gif" width="350" height="220"><br>
+              <img src="../../images/screenshots/places-to-go-3.gif" width="350" height="220"></td>
+          </tr>
+        </table>
+        <p align="right"><a href="#top">back to top</a></p>
+          <h2 align="left"><a name="Quick_Keys"></a>Quick Keys</h2>
+          <p align="left">There are many short cuts to communicate by emotes and actions. To use the short cuts, or quick keys, make sure to click outside of the text box at the bottom. </p>
+          <p align="left"><strong>Some quick keys are:</strong> </p>
+          <p align="center"><img src="../../images/screenshots/quick-keys.gif" width="572" height="657"></p>
+          <p align="right"><a href="#top"><br>
+              back to top</a></p>
+         
+         </p>
+        <p>&nbsp;</p>
+      <!-- InstanceEndEditable --></td>
+          </tr>
+        </table>
+	  </td>
+    </tr>
+</table>
+<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center"><img src="../../images/waddle-around.gif" width="310" height="35"></td>
+    </tr>
+</table>
+  <table width="760" height="69" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="top" class="copyright">
+<span class="footernav"></span>
+<table width="330" height="22" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td></td>
+  </tr>
+</table>
+<span class="footernav"><a href="../../company/index.html" class="footernav">Company Info</a> | <a href="../../terms.htm" class="footernav">Terms</a> | <a href="../../privacy.htm" class="footernav">Privacy</a> | <a href="../../contact.htm" class="footernav">Contact Us</a> | <a href="../../sitemap.htm" class="footernav">Site Map</a> </span> <br>
+ Club Penguin &#8482; New Horizon Interactive. &copy; 2007. All rights reserved.</td>
+    </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

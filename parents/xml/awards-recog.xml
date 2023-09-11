@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+
+<AWARDSRECOG>
+	<LANGUAGE>english</LANGUAGE>
+
+	<TITLES>
+		<AWARDS>AWARDS</AWARDS>
+		<STANDARDS>STANDARDS</STANDARDS>
+	</TITLES>
+
+	<ACCOLADE>
+		<HEADING>2009 Webby Awards</HEADING>
+		<SUBHEADING>Games Category</SUBHEADING>
+		<CONTENT>The Webby Awards is the leading international award honoring excellence on the Internet. Presented by The International Academy of Digital Arts and Sciences, the awards typically receive more than 10,000 entries from more than 60 countries around the world.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>Parents’ Choice Recommended</HEADING>
+		<SUBHEADING>Gold Award 2008</SUBHEADING>
+		<CONTENT>As America’s oldest nonprofit program created to recognize quality children’s media, the Parents’ Choice Awards is designed to help parents and caregivers make informed decisions about which products are right for their children.  The awards recognize products that entertain and teach with flair; stimulate imagination and inspire creativity.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>Children’s Technology Review</HEADING>
+		<SUBHEADING>Editor’s Choice</SUBHEADING>
+		<CONTENT>Children’s Technology Review is designed to help parents, educators and librarians stay up to date on quality interactive media and technology products for children. Founder and Editor Warren Buckleitner is a career educator and expert in children’s technology and learning.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>National Parenting Publications Awards</HEADING>
+		<SUBHEADING>Nappa Gold 2008</SUBHEADING>
+		<CONTENT>NAPPA (National Parenting Publications Awards) is a trusted source for parents and professionals looking for the best children’s products. As a recipient of the NAPPA Gold Award, Club Penguin was singled out as entertaining, appealing, safe, educational, age-appropriate and enduring.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>Kidspot</HEADING>
+		<SUBHEADING>Best of 2008 Award</SUBHEADING>
+		<CONTENT>Kidspot is Australia’s leading parenting website. After collecting votes and feedback from more than 1,500 parents across Australia, the inaugural Kidspot Best of Awards in 2008 chose Club Penguin as the best website for kids aged 8-11.</CONTENT>
+	</ACCOLADE>	
+	
+	<ACCOLADE>
+		<HEADING>Entertainment Standard of Excellence</HEADING>
+		<SUBHEADING>WebAwards 2008</SUBHEADING>
+		<CONTENT>The WebAward Competition recognizes those responsible for developing some of the best web sites on the Internet today. Club Penguin was reviewed and selected as a recipient of this Award based on its design, ease of use, copywriting, interactivity, use of technology, innovation and content.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>WiredKids</HEADING>
+		<SUBHEADING>Best of the Web Award 2009</SUBHEADING>
+		<CONTENT>Of thousands of websites nominated, Club Penguin is one of only 14 to receive the 2009 WiredKids Best of the Web Award. After being nominated by kids and reviewed by parents, winners are chosen by Internet expert and lawyer Parry Aftab who established WiredKids and the WiredSafety organization.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>TRUSTe</HEADING>
+		<SUBHEADING></SUBHEADING>
+		<CONTENT>TRUSTe helps people click with confidence by guiding them to trustworthy websites. Companies that display the TRUSTe seal on their website’s privacy policy comply with the highest standards for protecting your personal information.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>Better Business Bureau</HEADING>
+		<SUBHEADING>2008 Torch Award</SUBHEADING>
+		<CONTENT>The BBB Torch Awards recognize ethical businesses that display the highest integrity with customers, staff and stakeholders, and have invested significant amounts of money and effort to inspire social change within their industries. Club Penguin was chosen as a winner for the Advancing Marketplace Trust Award.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>ESRB Rating</HEADING>
+		<SUBHEADING>E for Everyone</SUBHEADING>
+		<CONTENT>The Entertainment Software Rating Board (ESRB) assigns computer and video game content ratings, enforces industry-adopted advertising guidelines and helps ensure responsible online privacy practices for the interactive software industry. The ESRB works to help consumers make informed decisions about the computer and video games they choose for their families.</CONTENT>
+	</ACCOLADE>
+</AWARDSRECOG>

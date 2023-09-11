@@ -1,0 +1,92 @@
+
+<html><!-- InstanceBegin template="/Templates/Blank.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Club Penguin</title>
+<!-- InstanceEndEditable -->
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<link href="../style-white.css" rel="stylesheet" type="text/css">
+<link href="../style-form.css" rel="stylesheet" type="text/css">
+</head>
+
+<body bgcolor="#EEEEEE" text="#000000" link="#FF9900" vlink="#FF9900" alink="#FF9900" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0" class="bg">
+<table width="100%"  border="0" cellpadding="0" cellspacing="0" class="header-bg">
+  <tr>
+    <td align="center" class="header"><table width="760" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td align="center"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="758" height="120">
+          <param name="movie" value="../flash/header-06.swf">
+          <param name="quality" value="high"><param name="SCALE" value="noborder">
+          <embed src="../flash/header-06.swf" width="758" height="120" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" scale="noborder"></embed>
+        </object></td>
+      </tr>
+    </table>
+    </td>
+  </tr>
+</table>
+<table width="760" height="400" border="0" align="center" cellpadding="0" cellspacing="0">
+  <tr>
+    <td align="center" valign="top"><!-- InstanceBeginEditable name="Content" -->
+    <table width="680" border="0" cellpadding="0" cellspacing="0">
+      <tr>
+        <td align="left"><object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="680" height="400">
+              <param name="movie" value="../flash/join-01.swf">
+              <param name="quality" value="high">
+              <embed src="../flash/join-01.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer" type="application/x-shockwave-flash" width="680" height="400"></embed>
+          </object>
+        </td>
+      </tr>
+    </table>
+    <table width="680" border="0" cellpadding="20" cellspacing="0">
+      <tr>
+        <td align="left"><!-- #BeginLibraryItem "/Library/Privacy.lbi" -->
+          <h2>At Club Penguin, your privacy is important to us.</h2>
+          <p>Please read our privacy policy if you have any questions or concerns. The reason we ask the age of a player is to get help us understand who uses Club Penguin so we can ensure future content is reflective of our players.</p>
+                  <!-- #EndLibraryItem --></td>
+      </tr>
+    </table>
+    <p>&nbsp;</p>
+    <!-- InstanceEndEditable --></td>
+  </tr>
+</table>
+<table width="680" border="0" align="center" cellpadding="2" cellspacing="0" class="footer">
+  <tr align="center">
+    <td><table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><a href="../parents.htm"><img src="../images/menu-parents.gif" width="80" height="50" border="0" align="absmiddle"></a></td>
+        <td><a href="../parents.htm">Parents</a></td>
+      </tr>
+    </table>      </td>
+    <td>
+      <table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><a href="../help/index.html"><img src="../images/menu-help.gif" width="80" height="50" border="0" align="absmiddle"></a></td>
+        <td><a href="../help/index.html">Help</a></td>
+      </tr>
+    </table>      </td>
+    <td><table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><a href="../news/index.php"><img src="../images/menu-news.gif" width="80" height="50" border="0" align="absmiddle"></a></td>
+        <td><a href="../news/index.php">News</a></td>
+      </tr>
+    </table>      
+    </td>
+    <td><table border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td><a href="https://www.clubpenguin.com/member/"><img src="../images/menu-member.gif" width="80" height="50" border="0"></a></td>
+        <td><a href="https://www.clubpenguin.com/member/">Membership</a></td>
+      </tr>
+    </table></td>
+  </tr>
+</table>
+<!-- #BeginLibraryItem "/Library/Copyright.lbi" -->
+<table width="680" border="0" align="center" cellpadding="10" cellspacing="0">
+  <tr>
+    <td align="center" class="copyright">Club Penguin&#8482; &copy; New Horizon Interactive. 2005. All rights reserved. <a href="../terms.htm">Terms</a> | <a href="../privacy.htm"> Privacy</a></td>
+  </tr>
+</table>
+<!-- #EndLibraryItem -->
+</body>
+<!-- InstanceEnd --></html>

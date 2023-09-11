@@ -1,0 +1,412 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/Miniclip-iframe.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title> Technical Help: Club Penguin - Help: I&rsquo;m asked to clear my web browser cache?</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<!-- InstanceBeginEditable name="head" -->
+<!-- InstanceEndEditable -->
+<link href="../../css/miniclip.css" rel="stylesheet" type="text/css">
+</head>
+
+<body id="top">
+
+<table width="970" border="0" align="center" cellpadding="0" cellspacing="0" bgcolor="#FFFFFF">
+  <tr>
+    <td height="166" bgcolor="">
+	<iframe width="970" scrolling="no" height="160" frameborder="0" src="http://www.miniclip.com/games/club-penguin/en/clubpenguin_header.php" style="background: white none repeat scroll 0%; margin-bottom: 0px; -moz-background-clip: -moz-initial; -moz-background-origin: -moz-initial; -moz-background-inline-policy: -moz-initial;"></iframe>
+	</td>
+  </tr>
+  <tr>
+    <td align="center" valign="top" class="main-bkg">
+	  <div class="body-top"><!-- empty --></div>
+      <div class="holder-top"><!-- empty --></div>
+      <div class="holder-bkg">
+        <div class="holder-menu">
+          <div class="holder-forum"><a href="http://penguinforum.miniclip.com/" class="note">Game Forum</a>&nbsp;&nbsp;</div>
+          &nbsp;&nbsp;<a href="https://secure.clubpenguin.com/membership/index.php?a=1" target="_blank" class="note">Join Club Penguin</a>|
+		<a href="http://play.clubpenguin.com/miniclip.htm" class="note">Play</a>|
+		<a href="http://www.clubpenguin.com/miniclip/help/index.html" class="note">Help</a>|
+		<a href="http://www.clubpenguin.com/miniclip/parents.htm" class="note">Parents Guide</a>| <a href="http://play.clubpenguin.com/miniclip.htm" class="note">Log Off</a> </div>
+      
+		
+		<table width="760" border="0" cellspacing="0">
+          <tr>
+            <td align="left" valign="top"><!-- InstanceBeginEditable name="Content" -->
+                <p><a href="../index.html" class="breadcrumbs">Club Penguin Help</a> &gt; <a href="../technical_help.html" class="breadcrumbs">Technical Help</a> &gt; I'm asked to clear my  cache?</p>
+                <h1>I'm asked to clear my  cache?</h1>
+              <p>If you get this message, it means your computer is logging  into an out-of-date version of Club Penguin. You need to clear your <strong><a href="glossary-technical-terms.htm#cache" class="iconlinks">cache</a></strong> so that you will connect to the  newest version. Don&rsquo;t worry, it&rsquo;s an easy thing to do!</p>
+              <p>First, figure out what <strong><a href="glossary-technical-terms.htm#web-browser" class="iconlinks">web  browser</a></strong> you are using. The name of your browser should be on the icon that  you click on when you connect to the Internet. Once you know your web browser,  follow the directions below to clear your cache.</p>
+              <p>If you use...              </p>
+              <table width="600" border="0" align="center" cellspacing="0">
+                <tr>
+                  <td height="50" align="left" valign="top"><a class="iconlinks" href="#IE6"><img src="../../../help/technical/images/cache-icon-IE6.gif" width="50" height="40" border="0" align="middle">Internet Explorer 6</a></td>
+                  <td height="50" align="left" valign="top"><a class="iconlinks" href="#IE7"><img src="../../../help/technical/images/cache-icon-IE7.gif" width="50" height="40" border="0" align="middle">Internet Explorer 7</a></td>
+                </tr>
+                <tr>
+                  <td height="50" align="left" valign="top"><a class="iconlinks" href="#Netscape-Win"><img src="../../../help/technical/images/cache-icon-netscape.gif" width="50" height="40" border="0" align="middle">Netscape on Windows</a></td>
+                  <td height="50" align="left" valign="top"><a class="iconlinks" href="#Netscape-Mac"><img src="../../../help/technical/images/cache-icon-netscape.gif" width="50" height="40" border="0" align="middle">Netscape  on Macintosh</a></td>
+                </tr>
+                <tr>
+                  <td height="50" align="left" valign="top"><a class="iconlinks" href="#AOL_9.0"><img src="../../../help/technical/images/cache-icon-AOL.gif" alt="" width="50" height="40" border="0" align="middle">AOL 9.0</a>, &nbsp;<a href="#AOL_9.1" class="iconlinks">AOL 9.1</a><a class="iconlinks" href="#AOL"></a></td>
+                  <td height="50" align="left" valign="top"><a class="iconlinks" href="#Safari2"><img src="../../../help/technical/images/cache-icon-safari.gif" width="50" height="40" border="0" align="middle">Safari 2.0</a></td>
+                </tr>
+                <tr>
+                  <td height="50" align="left" valign="top"><a class="iconlinks" href="#Firefox-Win"><img src="../../../help/technical/images/cache-icon-firefox.gif" width="50" height="40" border="0" align="middle">Firefox on Windows</a></td>
+                  <td height="50" align="left" valign="top"><a class="iconlinks" href="#Firefox-Mac"><img src="../../../help/technical/images/cache-icon-firefox.gif" width="50" height="40" border="0" align="middle">Firefox 2 on Macintosh</a></td>
+                </tr>
+              </table>
+              <p>&nbsp;</p>
+              <h2><a name="IE6"></a><img src="../../../help/technical/images/cache-icon-IE6.gif" width="50" height="40" border="0" align="absmiddle">If you use Internet Explorer 6:</h2>
+			  <table width="372" border="0" align="right" cellspacing="0">
+                <tr>
+                  <td align="right"><img src="../../../help/technical/images/cache-IE6-step1.gif" width="350" height="220"><br>
+                  <img src="../../../help/technical/images/cache-IE6-step2.gif" width="350" height="220"></td>
+                </tr>
+                <tr>
+                  <td align="right"> <p align="right"><a href="#top" class="breadcrumbs">back to top</a></p></td>
+                </tr>
+              </table>
+			  <p>&nbsp;</p>
+			  <ol>
+                <li>
+                Click  on Internet Explorer to open it up.<br>
+                <br>
+</li>
+                <li>Look  at the very top of the screen. Click on the &ldquo;Tools&rdquo; menu. <br>
+                  <br>
+                </li>
+                <li>A  list of choices will appear underneath &ldquo;Tools&rdquo;. Click on &ldquo;Internet Options.&rdquo;<br>
+                  <br>
+                </li>
+                <li>A  small box will pop up on your screen. The first page in the box should be  labeled &ldquo;General.&rdquo; Look on this page for a section marked &ldquo;Temporary Internet  Files.&rdquo;<br>
+                  <br>
+                </li>
+                <li>Click  on &ldquo;Delete Files.&rdquo;<br>
+                  <br>
+                </li>
+                <li>A  small box might pop up that asks if you want to delete all offline content.  That&rsquo;s okay to do. Click the small box to check &ldquo;Delete All Offline Content.&rdquo;  Then click &ldquo;OK.&rdquo;<br>
+                  <br>
+                </li>
+                <li>Click  &ldquo;OK&rdquo; again. <br>
+                  <br>
+                </li>
+                <li>To  make sure your cache is clear, close your web browser and open it up again.  Then log onto Club Penguin. You should not receive the message about clearing  your cache again.</li>
+              </ol>
+			   <p>&nbsp;</p><p>&nbsp;</p>
+			  <h2><a name="IE7"></a><img src="../../../help/technical/images/cache-icon-IE7.gif" width="50" height="40" border="0" align="absmiddle">If you use Internet Explorer 7:</h2>
+              <table width="372" border="0" align="right" cellspacing="0">
+                <tr>
+                  <td align="right"><img src="../../../help/technical/images/cache-IE7-step1.gif" width="350" height="220"><br>
+                  <img src="../../../help/technical/images/cache-IE7-step2.gif" width="350" height="220"></td>
+                </tr>
+                <tr>
+                  <td align="right"><p align="right"><a href="#top" class="breadcrumbs">back to top</a></p></td>
+                </tr>
+              </table>
+              <p>&nbsp;</p>
+			  <ol>
+                <li>
+                  Click  on Internet Explorer to open it up.<br>
+                  <br>
+</li>
+                <li>Click  &ldquo;Tools&rdquo; on the menu bar.<br>
+                  <br>
+</li>
+                <li>A  list of choices will appear underneath &ldquo;Tools&rdquo;. Click on &ldquo;Internet Options.&rdquo;<br>
+                  <br>
+                </li>
+                <li>A  small box will pop up on your screen. The first page in the box should be  labeled &ldquo;General.&rdquo; Look on this page for a section marked &ldquo;Browser History.&rdquo;<br>
+                  <br>
+                </li>
+                <li>Click  on the &ldquo;Delete&hellip;&rdquo; button.<br>
+                  <br>
+                </li>
+                <li>A  window will pop up with the heading &ldquo;Temporary Internet Files&rdquo;. Click &ldquo;Delete  Files.&rdquo; Then click &ldquo;Yes.&rdquo;<br>
+                  <br>
+                </li>
+                <li>Click  &ldquo;Close&rdquo; at the bottom of window.&nbsp; Then  click &ldquo;Okay&rdquo; to close the internet options window.<br>
+                  <br>
+                </li>
+                <li>To  make sure your cache is clear, close your web browser and open it up again.  Then log onto Club Penguin. You should not receive the message about clearing  your cache again.</li>
+              </ol>
+              <p>&nbsp;</p>
+			  <p>&nbsp;</p>
+			  <p>&nbsp;</p>
+			  <h2><strong><a name="Netscape-Win"></a><img src="../../../help/technical/images/cache-icon-netscape.gif" width="50" height="40" border="0" align="absmiddle">If you use Netscape version 7 on Windows: </strong></h2>
+			  <p>&nbsp;</p>
+			  <ol>
+                <li>
+                  <table width="372" border="0" align="right" cellspacing="0">
+                    <tr>
+                      <td align="right"><img src="../../../help/technical/images/cache-NetscapeWin-step1.gif" width="350" height="220"><br>
+                          <img src="../../../help/technical/images/cache-NetscapeWin-step2.gif" width="350" height="220"></td>
+                    </tr>
+                    <tr>
+                      <td align="right"><p align="right"><a href="#top" class="breadcrumbs">back to top</a></p></td>
+                    </tr>
+                  </table>
+                  Click  on Netscape to open it up.<br>
+                  <br>
+                </li>
+			    <li>Look  at the top of the screen. Click &ldquo;Edit.&rdquo;<br>
+                    <br>
+                </li>
+			    <li>A  list of choices will appear. Click &ldquo;Preferences.&rdquo;<br>
+                    <br>
+                </li>
+			    <li>Click  the &ldquo;Advanced&rdquo; category on the left, and then click &ldquo;Cache.&rdquo;<br>
+                    <br>
+                </li>
+			    <li>You  will see buttons on the right labeled &ldquo;Clear Memory Cache&rdquo; and &ldquo;Clear Disk  Cache.&rdquo; Click &ldquo;Clear Memory Cache.&rdquo;<br>
+                    <br>
+                </li>
+			    <li>Click  &ldquo;Clear Disk Cache.&rdquo;<br>
+                    <br>
+                </li>
+			    <li>Click  &ldquo;OK&rdquo; again to close the Cache box.</li>
+		      </ol>
+			  <p>&nbsp;</p>
+			  <p>&nbsp;</p>
+			  <p>&nbsp;</p>
+              <p>&nbsp;</p>
+			  <p>&nbsp;</p>
+			  <p>&nbsp;</p>
+			  <p>&nbsp;</p>
+			  <h2><strong><a name="Netscape-Mac"></a><img src="../../../help/technical/images/cache-icon-netscape.gif" width="50" height="40" border="0" align="absmiddle">If you use Netscape version 7.2 on Macintosh: </strong></h2>
+			  <p>&nbsp;</p>
+			  <ol>
+                <li>
+                  <table width="372" border="0" align="right" cellspacing="0">
+                    <tr>
+                      <td align="right"><img src="../../../help/technical/images/cache-NetscapeMac-step1.gif" width="350" height="220"><br>
+                          <img src="../../../help/technical/images/cache-NetscapeMac-step2.gif" width="350" height="220"></td>
+                    </tr>
+                    <tr>
+                      <td align="right"><p align="right"><a href="#top" class="breadcrumbs">back to top</a></p></td>
+                    </tr>
+                  </table>
+                  Click  on Netscape to open it up.<br>
+                </li>
+			    <br>
+                <li>Look  at the top of the screen. Click on &ldquo;Netscape.&rdquo;<br>
+                    <br>
+                </li>
+			    <li>A  list of choices will appear. Click &ldquo;Preferences.&rdquo;<br>
+                    <br>
+                </li>
+			    <li>A  box will appear with a list of choices. Double click on the word &ldquo;Advanced.&rdquo;  More choices will appear under Advanced.<br>
+                    <br>
+                </li>
+			    <li>Click  on the word &ldquo;Cache.&rdquo;<br>
+                    <br>
+                </li>
+			    <li>A  box will appear on the right. You will see a button labeled &ldquo;Clear Cache. &rdquo;  Click that button.<br>
+                    <br>
+                </li>
+			    <li>Click  &ldquo;OK&rdquo; to close the Cache box.<br>
+                    <br>
+                </li>
+			    <li>To  make sure your cache is clear, close your web browser and open it up again.  Log back onto Club Penguin; you should not receive the message about clearing  your cache again.</li>
+		      </ol>
+			  <p>&nbsp;</p>
+              <p>&nbsp;</p>
+			  <p>&nbsp;</p>
+			  <p>&nbsp;</p>
+              <h2><strong><a name="AOL_9.1" id="AOL_9.1"></a><a href="#AOL"><img src="../../../help/technical/images/cache-icon-AOL.gif" width="50" height="40" border="0" align="absmiddle"></a>If you use AOL 9.1: </strong></h2>
+              <table width="372" border="0" align="right" cellspacing="0">
+                <tr>
+                  <td align="right"><img src="../../../help/technical/images/cache-AOL91-step1.gif" width="350" height="220"><br>
+                      <img src="../../../help/technical/images/cache-AOL91-step2.gif" width="350" height="220"></td>
+                </tr>
+                <tr>
+                  <td align="right"><p align="right"><a href="#top" class="breadcrumbs">back to top</a></p></td>
+                </tr>
+              </table>
+              <p>&nbsp;</p>
+              <ol>
+                <li>Click  on AOL to open it up.<br>
+                    <br>
+                </li>
+                <li>Click on the safety tab, than select settings at the bottom.<br>
+                    <br>
+                </li>
+                <li>Click on Internet Properties. <br>
+                    <br>
+                </li>
+                <li>Click on "Clear my Footprints", this will clear the Browsing History, Browsing Cache, and Blocked Pop-ups.<br>
+                    <br>
+                </li>
+              </ol>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p></p>
+              <p>&nbsp;</p>
+              
+			  <h2><strong><a name="AOL_9.0" id="AOL_9.0"></a><a href="#AOL"><img src="../../../help/technical/images/cache-icon-AOL.gif" width="50" height="40" border="0" align="absmiddle"></a>If you use AOL 9.0: </strong></h2>
+              <table width="372" border="0" align="right" cellspacing="0">
+                <tr>
+                  <td align="right"><img src="../../../help/technical/images/cache-AOL-step1.gif" width="350" height="220"><br>
+                  <img src="../../../help/technical/images/cache-AOL-step2.gif" width="350" height="220"></td>
+                </tr>
+                <tr>
+                  <td align="right"><p align="right"><a href="#top" class="breadcrumbs">back to top</a></p></td>
+                </tr>
+              </table>
+              <p>&nbsp;</p>
+			  <ol>
+                <li>Click  on AOL to open it up.<br>
+                  <br>
+                </li>
+                <li>Click on the safety tab,  than select settings at the bottom.<br>
+                  <br>
+                </li>
+                <li>Than Select browser settings.<br>
+                  <br>
+                </li>
+                <li>Than select &quot;Clear My  Footprints.&quot;<br>
+                  <br>
+                </li>
+                <li>Than select &quot;Select  Footprints to Clear.&quot;<br>
+                  <br>
+                </li>
+                <li>Than click the Clear button  at the end of the Browser Cache section.</li>
+              </ol><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p><p>&nbsp;</p>
+              
+              <h2><strong><a name="Safari2"></a><a href="#Safari2"><img src="../../../help/technical/images/cache-icon-safari.gif" width="50" height="40" border="0" align="absmiddle"></a>If you use Safari 2.0</strong></h2>
+              <ol>
+                <table width="372" border="0" align="right" cellspacing="0">
+                  <tr>
+                    <td align="right"><img src="../../../help/technical/images/cache-Safari-step1.gif" width="350" height="220"><br>
+                        <img src="../../../help/technical/images/cache-Safari-step2.gif" width="350" height="220"></td>
+                  </tr>
+                  <tr>
+                    <td align="right"><p align="right"><a href="#top" class="breadcrumbs">back to top</a></p></td>
+                  </tr>
+                </table>
+                <p>&nbsp;</p>
+                <li>Click  on Safari to open it up.<br>
+                    <br>
+                </li>
+                <li>Look  at the top of the screen. Click on the word &ldquo;Safari.&rdquo;<br>
+                    <br>
+                </li>
+                <li>A  list of choices will appear. Click on &ldquo;Preferences.&rdquo;<br>
+                    <br>
+                </li>
+                <li>Click  on &ldquo;Empty Cache.&rdquo;<br>
+                    <br>
+                </li>
+                <li>A  little box will pop up asking if you are sure you want to empty your cache.  Click &ldquo;Empty.&rdquo;<br>
+                    <br>
+                </li>
+                <li>To  make sure your cache is clear, close your web browser and open it up again.  Then log onto Club Penguin. You should not receive the message about clearing  your cache again.</li>
+              </ol>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+              <p>&nbsp;</p>
+                <p>&nbsp;</p>
+              <h2><a name="Firefox-Win"></a><img src="../../../help/technical/images/cache-icon-firefox.gif" width="50" height="40" border="0" align="absmiddle">If you use Firefox on Windows:</h2>
+              <table width="372" border="0" align="right" cellspacing="0">
+                <tr>
+                  <td align="right"><img src="../../../help/technical/images/cache-FirefoxWin-step1.gif" width="350" height="220"><br>
+                  <img src="../../../help/technical/images/cache-FirefoxWin-step2.gif" width="350" height="220"></td>
+                </tr>
+                <tr>
+                  <td align="right"><p align="right"><a href="#top" class="breadcrumbs">back to top</a></p></td>
+                </tr>
+              </table>
+			  <p>&nbsp;</p>
+              <ol>
+                <li>Click  on Firefox to open it up.<br>
+                  <br>
+                </li>
+                <li>Look  at the top of the screen. Click on &ldquo;Tools.&rdquo;<br>
+                  <br>
+                </li>
+                <li>A  list of choices will appear. Click on &ldquo;Options.&rdquo;<br>
+                  <br>
+                </li>
+                <li>Click  on &ldquo;Privacy.&rdquo;<br>
+                  <br>
+                </li>
+                <li>Make  sure the box next to &ldquo;Cache&rdquo; is checked.<br>
+                  <br>
+                </li>
+                <li>Click  &ldquo;Clear.&rdquo;<br>
+                  <br>
+                </li>
+                <li>To  make sure your cache is clear, close your web browser and open it up again.  Then log onto Club Penguin. You should not receive the message about clearing  your cache again.</li>
+              </ol>
+			  <p>&nbsp;</p>
+                <p>&nbsp;</p>
+			  <p>&nbsp;</p>
+			  <p>&nbsp;</p>
+			  <p>&nbsp;</p>
+			  <p>&nbsp;</p>
+             
+              <h2><strong><a name="Firefox-Mac"></a><img src="../../../help/technical/images/cache-icon-firefox.gif" width="50" height="40" border="0" align="absmiddle">If you use Firefox 2 on Macintosh: </strong></h2>
+              
+			  <table width="372" border="0" align="right" cellspacing="0">
+                <tr>
+                  <td align="right"><img src="../../../help/technical/images/cache-FirefoxMac-step1.gif" width="350" height="220"><br>
+                  <img src="../../../help/technical/images/cache-FirefoxMac-step2.gif" width="350" height="220"></td>
+                </tr>
+                <tr>
+                  <td align="right"><p align="right"><a href="#top" class="breadcrumbs">back to top</a></p></td>
+                </tr>
+              </table>
+			  <p>&nbsp;</p>
+			  <ol>
+                <li>Click  on Firefox to open it up.<br>
+                  <br>
+                </li>
+                <li>Look  at the top of the screen. Click on &ldquo;Tools.&rdquo;<br>
+                  <br>
+                </li>
+                <li>You  will see a list of things that you can clear. Make sure the box next to &ldquo;Cache&rdquo;  is checked. You can un-check the other items if you want to.<br>
+                  <br>
+                </li>
+                <li>Click  &ldquo;Clear Private Data Now.&rdquo;<br>
+                  <br>
+                </li>
+                <li>To  make sure your cache is clear, close your web browser and open it up again.  Then log onto Club Penguin. You should not receive the message about clearing  your cache again.</li>
+              </ol>
+               <p>&nbsp;</p>
+                <p>&nbsp;</p>
+			  <p>&nbsp;</p>
+			   <p>&nbsp;</p>
+			    <p>&nbsp;</p>
+				 <p>&nbsp;</p>
+				 
+				   <p>&nbsp;</p>
+		      <!-- InstanceEndEditable --></td>
+          </tr>
+        </table> 
+	
+		<div class="holder-menur"><a href="http://www.clubpenguin.com/miniclip/help/index.html" class="note">Help</a>|
+		<a href="http://www.clubpenguin.com/miniclip/parents.htm" class="note">Parents Guide </a>|
+		<a href="http://www.clubpenguin.com/miniclip/terms.htm" class="note">Terms</a>|
+		<a href="http://www.clubpenguin.com/miniclip/privacy.htm" class="note">Privacy</a>&nbsp;&nbsp;</div>
+      </div>
+      <div class="holder-bottom"><!-- empty --></div>
+	  
+	  <div class="body-bottom"><!-- empty --></div>	  </td>
+  </tr>
+  <tr>
+    <td height="516" bgcolor="">
+	<iframe style="margin-top: 0px" height="516" width="970" src="http://www.miniclip.com/games/club-penguin/en/clubpenguin_footer.php" frameborder="0" scrolling="no"></iframe></td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

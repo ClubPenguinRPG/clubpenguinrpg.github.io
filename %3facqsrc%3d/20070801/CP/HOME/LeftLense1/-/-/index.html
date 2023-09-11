@@ -1,0 +1,238 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/2008_landing.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=charset=ISO-8859-1" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Club Penguin - Waddle around and meet new friends!</title>
+<!-- InstanceEndEditable -->
+<!-- Main stylesheets ****************-->
+<link href="css/baseline.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="css/club_penguin_main.css" rel="stylesheet" type="text/css" media="screen" />
+
+<!-- SIFR links***************  -->
+
+<link rel="stylesheet" href="css/sIFR-screen.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="css/sIFR-print.css" type="text/css" media="print" />
+
+<script src="scripts/sifr.js" type="text/javascript"></script>
+<script src="scripts/sifr-addons.js" type="text/javascript"></script>
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script src="scripts/AC_RunActiveContent.js" language="javascript"></script>
+
+<!--[if IE 6]>
+  <link rel="stylesheet" type="text/css" href="css/ie.css" />
+<![endif]-->
+<!--[if IE 7]>
+  <link rel="stylesheet" type="text/css" href="css/ie7.css" />
+<![endif]-->
+
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+</head>
+
+<body id="home">
+<div id="hdrWrap">
+  <div id="flashNav">
+  		<script language="javascript">
+			if (AC_FL_RunContent == 0) {
+				alert("This page requires AC_RunActiveContent.js.");
+			} else {
+				AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0',
+				'width','1022',
+				'height','134px',
+				'id','cp_mainNav',
+				'align','middle','src',
+				'flash/cp_mainNav',
+				'flashvars','picslice=1&xmlurl=http://www.clubpenguin.com/flash/cp_nav.xml',
+				'quality','high','scale',
+				'noscale','salign','lt',
+				'bgcolor','#ffffff',
+				'wmode','transparent',
+				'name','cp_mainNav',
+				'allowscriptaccess','always',
+				'allowfullscreen','false',
+				'pluginspage','http://www.macromedia.com/go/getflashplayer','movie','http://media2.clubpenguin.com/www/flash/cp_mainNav' ); //end AC code
+			}
+		</script>
+		<noscript>
+			<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" width="1022" height="134px" id="cp_mainNav" align="middle">
+			<param name="allowScriptAccess" value="always" />
+			<param name="allowFullScreen" value="false" />
+			<param name="wmode" value="transparent" />
+            <param name="flashvars" value="picslice=1" />
+			<param name="movie" value="http://media2.clubpenguin.com/www/flash/cp_mainNav.swf" />
+            <param name="quality" value="high" />
+            <param name="scale" value="noscale" />
+            <param name="salign" value="lt" />
+            <param name="bgcolor" value="#ffffff" />	
+            <embed src="http://media2.clubpenguin.com/www/flash/cp_mainNav.swf" 
+            flashvars="picslice=1" 
+            quality="high" 
+            scale="noscale" 
+            salign="lt" 
+            bgcolor="#ffffff" 
+            width="1022" 
+            height="134px" 
+            wmode="transparent" 
+            name="cp_mainNav" 
+            align="middle" 
+            allowScriptAccess="always" 
+            allowFullScreen="false" 
+            type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+			</object>
+		</noscript>
+  <!-- end flashNav--></div>
+  <!-- end #hdrWrap --></div>
+
+<div id="scene">
+<script language="javascript">
+	if (AC_FL_RunContent == 0) {
+		alert("This page requires AC_RunActiveContent.js.");
+	} else {
+		AC_FL_RunContent( 'codebase','http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0',
+		'name','homescene',
+		'width','100%',
+		'height','100%',
+		'align','middle',
+		'id','homescene',
+		'src','http://media2.clubpenguin.com/flash/scene_rockhopper',
+		'quality','high',
+		'scale','noscale',
+		'salign','lt',
+		'bgcolor','#ffffff',
+		'allowscriptaccess','always',
+		'allowfullscreen','false',
+		'pluginspage','http://www.macromedia.com/go/getflashplayer','movie','http://media2.clubpenguin.com/flash/scene_rockhopper' ); //end AC code
+	}
+</script>
+<noscript>
+	<object classid="clsid:d27cdb6e-ae6d-11cf-96b8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=8,0,0,0" 
+    name="homescene" 
+    width="100%" 
+    height="100%" 
+    align="middle" 
+    id="homescene">
+	<param name="allowScriptAccess" value="always" />
+	<param name="allowFullScreen" value="false" />
+	<param name="movie" value="http://media2.clubpenguin.com/flash/scene_rockhopper.swf" />
+    <param name="quality" value="high" />
+    <param name="scale" value="noscale" />
+    <param name="salign" value="lt" />
+    <param name="bgcolor" value="#ffffff" />	
+    <embed src="http://media2.clubpenguin.com/flash/scene_rockhopper.swf" quality="high" scale="noscale" salign="lt" bgcolor="#ffffff" width="100%" height="100%" wmode="transparent" name="homescene" align="middle" allowScriptAccess="always" allowFullScreen="false" type="application/x-shockwave-flash" pluginspage="http://www.macromedia.com/go/getflashplayer" />
+	</object>
+</noscript>
+<!-- end #scene --></div>
+
+<div id="centerWrap">
+	<div id="contentWrap">
+
+<div id="promoWrap">
+<div class="inner">
+
+<!-- InstanceBeginEditable name="promo" -->
+
+<!-- Promo 1 ********************** -->
+        <div class="home_promo">
+        	<a href="http://community.clubpenguin.com/"><img src="images/home_promo_fun.jpg" alt="Fun Stuff Image" /></a>
+        	<div class="header">
+            <h2>Fun Stuff</h2> </div>
+            <p>
+            Submit your artwork, get new desktop wallpapers, coloring pages and the latest comics. </p>
+     
+            <p><a href="http://community.clubpenguin.com/">Read more</a></p>
+     
+     <!-- end .home_promo --></div>
+
+<!-- Promo 2 ********************** -->
+        <div class="home_promo">
+        	<a href="http://secure2.clubpenguin.com/membership/"><img src="images/home_promo_membership.jpg" alt="Membership Image" /></a>
+        	<div class="header">
+            <h2>Membership</h2> </div>
+            <p>
+            Learn about the features and benefits of becoming a member of Club Penguin.
+            </p>
+            <p><a href="http://secure2.clubpenguin.com/membership/">Read more</a></p>                        
+
+        <!-- end .home_promo --></div>
+
+<!-- Promo 3 ********************** -->
+        <div class="home_promo">
+        	<a href="clubpenguinshop/"><img src="images/home_promo_shop.jpg" alt="Shop Image" /></a>
+        	<div class="header">
+            <h2>Online Shop</h2> </div>
+            <p>
+            Take Club Penguin with you. Check out the shop to see the latest in penguin gear.</p>
+            <p>  <a href="clubpenguinshop/">Read more</a></p>
+                        
+<!-- end .home_promo --></div>
+
+<!-- Promo 4 ********************** -->
+        <div class="home_promo">
+        	<a href="http://support.clubpenguin.com/help/"><img src="images/home_promo_help.jpg" alt="Help and Tutorials Image" /></a>
+        	<div class="header">
+            <h2>Help &amp; Support</h2> </div>
+            <p>
+            Find answers to the most frequent questions about Club Penguin. Updated weekly.</p>
+            <p><a href="http://support.clubpenguin.com/help/">Read more</a></p>   
+
+        <!-- end .home_promo --></div>
+        
+ <!-- Promo 5 ********************** -->
+        <div class="home_promo homeNoMarg">
+        	<a href="parents/"><img src="images/home_promo_parents.jpg" alt="Parents Image" /></a>
+        	<div class="header">
+            <h2>Parents</h2> </div>
+            <p>
+            Learn more about Club Penguin in this section designed for parents of penguins.
+            </p>
+            <p><a href="parents/">Read more</a>
+            </p>                           
+            
+        <!-- end .home_promo --></div>
+
+<!-- InstanceEndEditable -->
+
+<div class="floatHack"></div>
+</div> 
+   
+<!-- end .promoWrap --></div>
+
+  <!-- end #contentWrap --></div>
+<!-- end #centerWrap --></div
+><div class="floatHack"></div>
+<br />
+
+<div id="ftrWrap">
+	<div id="ftrBg">
+    <div id="ftrContent">
+    	<img src="images/disney_games.jpg" id="disGame" alt="Disney.com Games" />
+        <img src="images/bbb_online_award.jpg" id="bbb" alt="Kid's Privacy BBB Online" />
+        <img src="images/editorChoiceAward.jpg" id="ctr" alt="Children's Technology Review" />
+        
+    	<!-- This is the Footer Navigation ********************** -->
+        <ul>
+       	  <li><a href="company/index.htm">Company</a></li>
+            <li>|</li>
+          <li><a class="new" href="terms.htm">Terms of Use</a><span class="asterisk">*</span></li>
+            <li>|</li>
+          <li><a class="new" href="privacy.htm">Privacy Policy</a><span class="asterisk">*</span></li>
+            <li>|</li>
+          <li><a href="http://support.clubpenguin.com/help/contact/">Contact Us</a></li>
+            <li>|</li>
+          <li class="noMarg"><a href="sitemap.htm">Site Map</a></li>
+      </ul>
+      <p>
+      		Club Penguin&trade; Club Penguin Entertainment Inc. &copy; 2008. All rights reserved.<br /><span class="asterisk">*</span> <span class="updated">Updated on April 15, 2008</span></p>
+    <!-- end #ftrContent --></div>
+    <!-- end #ftrBg --></div>
+<!-- end #ftrWrap --></div>
+
+<script type="text/javascript">
+if(typeof sIFR == "function"){
+	//, sWmode:"transparent"
+	sIFR.replaceElement("h2", named({sSelector:"h2", sFlashSrc:"http://media2.clubpenguin.com/www/flash/burbank.swf", sColor:"#ffffff", sLinkColor:"#ffffff", sBgColor:"#03a0c3", sHoverColor:"#bbe1ef", nPaddingTop:0, nPaddingBottom:0, sFlashVars:"textalign=left&offsetTop=0"}));
+};
+</script>
+
+</body>
+<!-- InstanceEnd --></html>

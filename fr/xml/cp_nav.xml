@@ -1,0 +1,232 @@
+<!--
+
+** CP NAV WWW **
+
+******* Please Note ********
+By default the Flash navigation will look for cp_nav.xml on the same level as the web page. However, alternate xml 
+files can be targeted through flashvars in the HTML. For example: 'flashvars','xmlurl=pathToXmlhere.xml'. This method 
+is useful in situations where sub-directories are being used to organixe the site structure. 
+
+The preferred method when using sub-directories is to place a "/" (which takes you back to the site root) in 
+front of the path to each desired file. For example, faq.html lives within an faq folder within a parents 
+folder which is on the site root. The path in the XML to that file should be /parents/faq/faq.html. This 
+will keep you from having to create mutliple xml files in various directories. 
+
+The third method is to use an absolute path can also be used to determine the document location. 
+If this method is used, be sure to either place a cp_nav.xml file in each directory or define the path to the xml file 
+in each HTML page as demonstrated above.
+
+The <slot> tag relates to each top-level category and it's sub-navigational elements.
+As can be seen below, the <slot> tags are numbered�in this case 1-5 
+(The number of top-level categories has been limited to 5). Each <slot> tag also has a <targ> tag which 
+defines the path to the page requested on clicking said slot tag. 
+
+The next node of note is the <sub> tag which is parent to <lable> and another <targ> node. 
+
+**You'll notice that lable appears to be a typo for label. It is actually done intentionally as label is a reserved keyword in Flash.** 
+
+Back to the <lable> tag. This defines the text that appears in the sub-navigation. A new one as well 
+as it's <targ> should be created for each desired sub-navigational category. 
+
+**The sub-navigation is set up to handle 15 categories; however, is recommended that the max number of categories be kept below 10.
+Some experimentation may be required to determine how many characters will fit in the sub-navigation area as 
+burbank (the font used in the navigation) characters vary widely in width.**
+
+Once your XML file is populated with all the link names and their respective paths you'll also need to set up a Flash vars in the HTML so 
+that the web page can communicate with Flash. Here is an example: 
+**Within the AC_FL_RunContent 'flashvars', 'navspot=4&subspot=5' 
+**Within the object tag <param name="flashvars" value="navspot=4&subspot=5" />
+**Within the embed tag flashvars="navspot=4&subspot=5"
+
+These are all the same variable. One is used by the Javascript that embeds the swf while the others are used by different operating systems 
+when no Javascript is in place. They tell the navigation that the top-level category is #4 which corresponds to <slot4> in the XML or in this 
+case, store. The subspot number corresponds with the <sub> tag within the Store node. Or in this example FAQ as it is the fifth <sub> tag within
+the stated node.
+
+The <country> tag dictates the text that will show in the country area of the nav. 
+The <flag> tag is the path to the image that is to the right of the text.
+The <playnow> tag provides the link for the Play Now button.
+
+*****************************
+
+-->
+<xml>
+	<logolink>http://www.clubpenguin.com/fr/</logolink>
+	<selectLanguage>Choisissez la langue</selectLanguage>
+	<languageSet>English</languageSet>
+	
+	<englishLink>http://www.clubpenguin.com/fr/</englishLink>
+	<portugueseLink>http://www.clubpenguin.com/fr/pt/</portugueseLink>
+	<frenchLink>http://www.clubpenguin.com/fr/fr/ </frenchLink>
+	<spanishLink>http://www.clubpenguin.com/fr/es/</spanishLink>
+	
+	<playnowtext>VIENS JOUER !</playnowtext>
+	<playnowlink>http://play.clubpenguin.com/fr/index.php?lang=en</playnowlink>
+	<playnow>http://play.clubpenguin.com/fr/index.php?lang=en</playnow>
+
+	
+	<displayRedeem>EN</displayRedeem>
+	<redeemLink>http://play.clubpenguin.com/fr/?redemption=true</redeemLink>
+	<displaySign>fr</displaySign>
+	
+	<displayMigrator>false</displayMigrator>
+	
+	<displayCoins>false</displayCoins>
+	<coinsLink>http://www.clubpenguin.com/fr/parents/coins_for_change_08.htm</coinsLink>
+	
+	<mainSceneText1>Jette un oeil au blog dans les Trucs Amusants !</mainSceneText1>
+	<mainSceneText2>Cool ! Je peux voir ?</mainSceneText2>
+	<mainSceneText2a>Clique ici pour regarder une vidéo !</mainSceneText2a>
+	
+	<mainSceneText3>Tu veux être créatif ? Va voir les Trucs Amusants !</mainSceneText3>
+	<mainSceneText3Link>http://community.clubpenguin.com/fr/fr </mainSceneText3Link>
+	
+	<mainSceneText3a>Tu fais quoi ?</mainSceneText3a>
+	
+	<mainSceneText4>Je prends des photos pour le blog.</mainSceneText4>
+	<mainSceneText4Link>http://community.clubpenguin.com/fr/fr/blog/</mainSceneText4Link>
+	
+	
+	<mainSceneVideoPath>http://media2.clubpenguin.com/www/fr/flash/HomepageVideo.swf   </mainSceneVideoPath>
+
+	
+	<slot1>
+		<lable>Abonnement</lable>
+		<targ>http://www.clubpenguin.com/fr/membership/</targ>
+		<sub>
+			<lable>Abonnement</lable>
+			<targ>http://www.clubpenguin.com/fr/membership/</targ>
+		</sub>
+		<sub>
+			<lable>Cartes d'abonnement</lable>
+			<targ>https://secure.clubpenguin.com/fr/membership/membership_cards.htm</targ>
+		</sub>
+		<sub>
+			<lable>Gérer mes comptes</lable>
+			<targ>https://secure.clubpenguin.com/fr/manage_account/login.php</targ>
+		</sub>
+		<sub>
+			<lable>Assistance</lable>
+			<targ>https://secure.clubpenguin.com/fr/membership/member_customer_service.htm</targ>
+		</sub>
+	</slot1>
+	<slot2>
+		<lable>Communauté</lable>
+		<targ>http://community.clubpenguin.com/fr/</targ>
+			<sub>
+				<lable>Quoi de neuf</lable>
+				<targ>http://community.clubpenguin.com/fr/blog/</targ>
+			</sub>
+			<sub>
+				<lable>Galerie des Fans</lable>
+				<targ>http://community.clubpenguin.com/fr/fan_gallery/</targ>
+			</sub>
+			<sub>
+				<lable>Activités amusantes</lable>
+				<targ>http://community.clubpenguin.com/fr/funactivities/</targ>
+			</sub>
+			<sub>
+				<lable>Fonds d'écran</lable>
+				<targ>http://community.clubpenguin.com/fr/wallpaper/</targ>
+			</sub>
+			<sub>
+				<lable>Bannières</lable>
+				<targ>http://community.clubpenguin.com/fr/banners/</targ>
+			</sub>
+			<sub>
+				<lable>BD</lable>
+				<targ>http://community.clubpenguin.com/fr/comics/</targ>
+			</sub>
+	</slot2>
+		<slot3>
+		<lable>Parents</lable>
+		<targ>http://www.clubpenguin.com/fr/parents/</targ>	
+		<sub>
+			<lable>Introduction</lable>
+			<targ>http://www.clubpenguin.com/fr/parents/club_penguin_guide.htm</targ>
+		</sub>
+		<sub>
+			<lable>Sécurité</lable>
+			<targ>http://www.clubpenguin.com/fr/parents/player_safety.htm</targ>
+		</sub>
+		<sub>
+			<lable>Citoyen du Monde
+</lable>
+			<targ>http://www.clubpenguin.com/fr/parents/global_citizenship.htm</targ>
+		</sub>
+		<sub>
+			<lable>Gérer mes comptes</lable>
+			<targ>https://secure.clubpenguin.com/fr/manage_account/login.php</targ>
+		</sub>
+		<sub>
+			<lable>Récompenses</lable>
+			<targ>http://www.clubpenguin.com/fr/parents/what_people_are_saying.htm</targ>
+		</sub>
+	</slot3>
+	<slot4>
+		<lable>Jouets</lable>
+		<targ>http://www.clubpenguin.com/fr/toys/</targ>
+		<sub>
+			<lable>Pièces bonus</lable>
+			<targ>http://www.clubpenguin.com/fr/toys/unlock_tutorial.htm</targ>
+		</sub>
+		<sub>
+			<lable>Voir le Livre aux Trésors</lable>
+			<targ>http://www.clubpenguin.com/fr/toys/treasurebooks/unlock_catalog.htm</targ>
+		</sub>
+		<sub>
+			<lable>FAQ</lable>
+			<targ>http://www.clubpenguin.com/fr/toys/faq.htm</targ>
+		</sub>
+		
+	</slot4>
+	<slot5>
+		<lable>Aide</lable>
+		<targ>http://support.clubpenguin.com/fr/help/</targ>
+		<sub>
+			<lable>Aide </lable>
+			<targ>http://support.clubpenguin.com/fr/help/help/</targ>
+		</sub>
+		<sub>
+			<lable>FAQ</lable>
+			<targ>http://support.clubpenguin.com/fr/help/faq/</targ>
+		</sub>
+		<sub>
+			<lable>Questions techniques</lable>
+			<targ>http://support.clubpenguin.com/fr/help/technical/</targ>
+		</sub>
+		<sub>
+			<lable>Nous contacter </lable>
+			<targ>http://support.clubpenguin.com/fr/help/contact/</targ>
+		</sub>
+			
+	</slot5>
+	<slot6>
+		<sub>
+			<lable>Entreprise</lable>
+			<targ>http://www.clubpenguin.com/fr/company/index.htm</targ>
+		</sub>
+		<sub>
+			<lable>À propos de</lable>
+			<targ>http://www.clubpenguin.com/fr/company/about.htm</targ>
+		</sub>
+		<sub>
+			<lable>Actualités</lable>
+			<targ>http://www.clubpenguin.com/fr/company/news.htm</targ>
+		</sub>
+		<sub>
+			<lable>Recrutement</lable>
+			<targ>http://www.clubpenguin.com/fr/company/jobs/index.htm</targ>
+		</sub>
+		<sub>
+			<lable>Contacts</lable>
+			<targ>http://www.clubpenguin.com/fr/company/company_contacts.htm</targ>
+		</sub>
+	</slot6>
+	<slot7>
+		<sub>
+			<lable>&nbsp;</lable>
+			<targ>#</targ>
+		</sub>
+	</slot7>	
+</xml>

@@ -1,0 +1,8 @@
+
+#
+# robots.txt for www.clubpenguin.com	
+#
+# Club Penguin is a safe virtual world for kids to play, 
+# interact with friends and have fun letting their imaginations soar.
+#
+

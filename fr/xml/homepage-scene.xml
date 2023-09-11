@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<HOMEPAGE-SCENE>
+
+	<LANGUAGE current="fr" />
+
+
+	<MIGRATOR visible="f" />
+
+	
+	<VIDEO>
+		<LINK>http://media2.clubpenguin.com/www/fr/flv/homepage-video.flv</LINK>
+	</VIDEO>
+	
+	
+	
+	<ORANGE_PENGUIN>
+		<TEXT>Tu veux &#234;tre cr&#233;atif ? Va voir les Trucs Amusants !</TEXT>
+		<LINK>http://community.clubpenguin.com/fr/</LINK>
+	</ORANGE_PENGUIN>
+	
+	
+	
+	<GREEN_YELLOW_PENGUINS>
+		<GREEN_PENGUIN>
+			<TEXT_01>Tu fais quoi ?</TEXT_01>
+			<TEXT_02>Cool ! Je peux voir ?</TEXT_02>
+		</GREEN_PENGUIN>
+		
+		<YELLOW_PENGUIN>
+			<TEXT_01>Je prends des photos pour le blog.</TEXT_01>
+			<TEXT_02>Jette un oeil au blog dans les Trucs Amusants !</TEXT_02>
+		</YELLOW_PENGUIN>
+		
+		<LINK>http://community.clubpenguin.com/fr/blog/</LINK>
+	</GREEN_YELLOW_PENGUINS>
+	
+	
+	
+	<BLUE_PENGUIN>
+		<TEXT>Clique ici pour regarder une vid&#233;o !</TEXT>
+		<LINK>http://play.clubpenguin.com/index.php?lang=fr</LINK>
+	</BLUE_PENGUIN>
+	
+	
+	
+	<REDEEM_ICON>
+		<LINK>http://play.clubpenguin.com/?redemption=true&#38;lang=fr</LINK>
+	</REDEEM_ICON>
+	
+</HOMEPAGE-SCENE>

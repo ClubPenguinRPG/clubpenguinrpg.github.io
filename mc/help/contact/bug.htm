@@ -1,0 +1,106 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/Miniclip-Page.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Club Penguin</title>
+<!-- InstanceEndEditable -->
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="../../../style-miniclip.css" rel="stylesheet" type="text/css">
+<!-- InstanceBeginEditable name="head" -->
+<link href="../../../style-form.css" rel="stylesheet" type="text/css">
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_findObj(n, d) { //v4.01
+  var p,i,x;  if(!d) d=document; if((p=n.indexOf("?"))>0&&parent.frames.length) {
+    d=parent.frames[n.substring(p+1)].document; n=n.substring(0,p);}
+  if(!(x=d[n])&&d.all) x=d.all[n]; for (i=0;!x&&i<d.forms.length;i++) x=d.forms[i][n];
+  for(i=0;!x&&d.layers&&i<d.layers.length;i++) x=MM_findObj(n,d.layers[i].document);
+  if(!x && d.getElementById) x=d.getElementById(n); return x;
+}
+
+function MM_validateForm() { //v4.0
+  var i,p,q,nm,test,num,min,max,errors='',args=MM_validateForm.arguments;
+  for (i=0; i<(args.length-2); i+=3) { test=args[i+2]; val=MM_findObj(args[i]);
+    if (val) { nm=val.name; if ((val=val.value)!="") {
+      if (test.indexOf('isEmail')!=-1) { p=val.indexOf('@');
+        if (p<1 || p==(val.length-1)) errors+='- '+nm+' must contain an e-mail address.\n';
+      } else if (test!='R') { num = parseFloat(val);
+        if (isNaN(val)) errors+='- '+nm+' must contain a number.\n';
+        if (test.indexOf('inRange') != -1) { p=test.indexOf(':');
+          min=test.substring(8,p); max=test.substring(p+1);
+          if (num<min || max<num) errors+='- '+nm+' must contain a number between '+min+' and '+max+'.\n';
+    } } } else if (test.charAt(0) == 'R') errors += '- '+nm+' is required.\n'; }
+  } if (errors) alert('The following error(s) occurred:\n'+errors);
+  document.MM_returnValue = (errors == '');
+}
+//-->
+</script>
+<!-- InstanceEndEditable -->
+</head>
+<body bgcolor="#FFFFFF" leftmargin="0" topmargin="0" marginwidth="0" marginheight="0"> 
+<table width="720" border="0" cellpadding="20" cellspacing="0">
+  <tr>
+	<td align="left">
+<!-- InstanceBeginEditable name="Content" -->
+              <table width="680" border="0" cellpadding="20" cellspacing="0">
+                <tr>
+                  <td align="left"><a href="../index.html">Club Penguin Help</a> &gt; Contact
+                    <h1>Report a Bug</h1>
+                      <p><font color="#FF0000">NOTE: We will only reply to a Bug report if we require more information.</font></p>
+                      <p>                      Please <a href="general.htm">contact support</a> if you have a question.</p>
+                      <p>Please complete the following form:</p>
+                      <table width="100%"  border="0" cellpadding="0" cellspacing="0" class="form">
+                          <form name="form" method="post" action="support2.php">
+						  <input name="Subject" type="hidden" id="Subject" value="Bug">
+                            <tr bgcolor="#EEEEEE">
+                              <td width="25%">First Name:</td>
+                              <td width="50%" bgcolor="#EEEEEE"><b>
+                                <input name="FirstName" type="text" id="FirstName" size="32">
+                              </b></td>
+                              <td width="25%" class="note">&nbsp;</td>
+                            </tr>
+                            <tr bgcolor="#EEEEEE">
+                              <td>Last Name: </td>
+                              <td bgcolor="#EEEEEE"><b>
+                                <input name="LastName" type="text" id="LastName" size="32">
+                              </b></td>
+                              <td class="note">&nbsp;</td>
+                            </tr>
+                            <tr bgcolor="#EEEEEE">
+                              <td>Penguin Name: </td>
+                              <td bgcolor="#EEEEEE"><b>
+                                <input name="Nickname" type="text" id="Nickname" size="32">
+                              </b></td>
+                              <td class="note">&nbsp;</td>
+                            </tr>
+                            <tr bgcolor="#EEEEEE">
+                              <td>Email Address: </td>
+                              <td bgcolor="#EEEEEE"><b>
+                                <input name="Email" type="text" id="Email" size="32">
+                              </b></td>
+                              <td class="note">&nbsp;</td>
+                            </tr>
+                            <tr>
+                              <td colspan="3" class="message">Please provide a detailed report of the bug or error, including the server name, room, and time </td>
+                            </tr>
+                            <tr bgcolor="#EEEEEE">
+                              <td valign="top">Message:</td>
+                              <td colspan="2" bgcolor="#EEEEEE"><b>
+                                <textarea name="Comments" cols="38" rows="8" wrap="VIRTUAL" id="Comments"></textarea>
+                              </b></td>
+                            </tr>
+                            <tr>
+                              <td width="25%">&nbsp;</td>
+                              <td width="50%"><input name="Submit" type="submit" class="button" id="Submit" onClick="MM_validateForm('FirstName','','R','LastName','','R','Nickname','','R','Email','','RisEmail','Comments','','R');return document.MM_returnValue" value="Send"></td>
+                              <td width="25%">&nbsp;</td>
+                            </tr>
+                          </form>
+                    </table></td></tr>
+              </table>
+              <!-- InstanceEndEditable -->
+	</td>
+  </tr>
+</table>
+</body>
+<!-- InstanceEnd --></html>

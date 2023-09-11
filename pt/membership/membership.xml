@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<gallery>
+
+<album id="membership" title="Membership Slider" description="" lgPath="http://media2.clubpenguin.com/www/flash/" >
+	
+	<img src="membership.swf" buttonTitle="ASSINATURA" title="Tem mais diversão a caminho!" caption="Olha só o que vem por aí especialmente para os assinantes este mês:&lt;br&gt;&lt;br&gt;• Jogue o novo Desafio Ninja - Fogo!&lt;br&gt;&lt;br&gt;• Entre no novo Dojo do Fogo no Vulcão e continue sua jornada ninja!&lt;br&gt;&lt;br&gt;• Descubra novas aventuras e uma sala secreta no Palco. Precisamos&lt;br&gt;  de assinantes com fantasias de bichos de jardim!&lt;br&gt;&lt;br&gt;• Explore o Grande Labirinto de Neve (e encontre o prêmio escondido!)" />
+	
+	<img src="create.swf" buttonTitle="CRIE MAIS " title="Crie Mais" caption="Use a criatividade com seu iglu, roupas, fantasias e muito mais. &lt;br&gt;&lt;br&gt;• Crie o iglu perfeito e convide todos os seus amigos!&lt;br&gt;&lt;br&gt;• Colecione roupas e móveis novos todo mês!&lt;br&gt;&lt;br&gt;• Crie combinações únicas de roupas e descubra &lt;br&gt;  ações especiais!" />
+	
+<img src="explore.swf" buttonTitle="EXPLORE MAIS" title="Explore Mais" caption="Acesso exclusivo a jogos, upgrades e recompensas que fazem do Club Penguin um lugar ainda mais legal para explorar!&lt;br&gt;&lt;br&gt;• Faça upgrades do jogo para ganhar mais pontos! &lt;br&gt;&lt;br&gt;• Acesse mais níveis nos jogos!&lt;br&gt;&lt;br&gt;• Coloque seu figurino e monte &lt;br&gt;  uma peça no Palco!&lt;br&gt;&lt;br&gt;• Explore áreas novas primeiro!" />
+	
+	<img src="play.swf" buttonTitle="BRINQUE MAIS" title="Brinque Mais" caption="Se você está com seus amigos ou sozinho em seu iglu, os Puffles &lt;br&gt;sempre serão seus companheiros no Club Penguin! Eles são &lt;br&gt;fofos e até meio doidinhos – e todos precisam de um lar!&lt;br&gt;&lt;br&gt;• Conheça seu Puffle! Cada cor tem sua própria personalidade. &lt;br&gt;&lt;br&gt;• Adote e brinque com até 16 Puffles ao mesmo tempo!&lt;br&gt;&lt;br&gt;• Leve seu Puffle com você para os jogos! &lt;br&gt;&lt;br&gt;• Colecione acessórios especiais para Puffles!" />
+	
+	<img src="access-pt.swf" buttonTitle="APROVEITE MAIS" title="Aproveite Mais" caption="Seja o primeiro da fila! Com acesso mais rápido a servidores &lt;br&gt; e salas, você não precisa ficar esperando para se divertir em &lt;br&gt; suas salas e jogos favoritos – chegue antes!&lt;br&gt;&lt;br&gt;• Entre primeiro em todos os eventos e festas! &lt;br&gt;&lt;br&gt;• Visite seus servidores preferidos – tem um espaço especial &lt;br&gt;   reservado para você!&lt;br&gt;&lt;br&gt;• Aumente sua coleção com acesso ilimitado a catálogos e itens!&lt;br&gt;&lt;br&gt;• Coloque seu iglu no mapa do Club Penguin e receba visitas!" />
+	
+	<img src="celebrate.swf" buttonTitle="COMEMORE MAIS" title="Comemore Mais" caption="Participe de festas e eventos exclusivos, criados &lt;br&gt;especialmente para assinantes! As festas são perfeitas para descobrir as últimas novidades do Club Penguin, da estréia de uma peça no Palco a jogos novinhos em folha! &lt;br&gt;&lt;br&gt;• Participe de festas exclusivas e eventos especiais!&lt;br&gt;&lt;br&gt;• Conheça seus personagens favoritos!&lt;br&gt;&lt;br&gt;• Tenha acesso a áreas exclusivas para assinantes nas festas!&lt;br&gt;&lt;br&gt;• Dê uma festa em seu iglu e comemore com seus amigos!" />
+
+
+</album>
+
+
+<language>pt</language>
+
+</gallery>

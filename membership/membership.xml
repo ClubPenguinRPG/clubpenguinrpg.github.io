@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+
+<gallery>
+
+<album id="membership" title="Membership Slider" description="" lgPath="http://media2.clubpenguin.com/www/flash/" >
+	
+	<img src="membership.swf" buttonTitle="MEMBERSHIP" title="New fun is on the way!"  caption="Here’s what’s coming exclusively for members this month:&lt;br&gt;&lt;br&gt;• Play the new Card-Jitsu Fire game!&lt;br&gt;&lt;br&gt;• Access the new Fire Dojo room at the Volcano and continue your&lt;br&gt;  ninja journey! &lt;br&gt;&lt;br&gt;• Discover adventures and a secret room at the Stage. Members in&lt;br&gt;  bug costumes needed! &lt;br&gt;&lt;br&gt;• Explore The Great Snow Maze (and find a hidden prize!)" />	
+	
+	<img src="create.swf" buttonTitle="CREATE MORE" title="Create More" caption="Get creative with igloos, costumes, outfits and more.&lt;br&gt;&lt;br&gt;• Design the perfect igloo and invite all your friends!&lt;br&gt;&lt;br&gt;• Collect new furniture and outfits every month!&lt;br&gt;&lt;br&gt;• Create unique combinations and discover&lt;br&gt;  special actions!" />
+	
+<img src="explore.swf" buttonTitle="EXPLORE MORE" title="Explore More" caption="Exclusive access to games, upgrades and rewards makes Club Penguin even more exciting to explore!&lt;br&gt;&lt;br&gt;• Upgrade games with equipment and gear&lt;br&gt;  to earn more points!&lt;br&gt;&lt;br&gt;• Access more levels in games!&lt;br&gt;&lt;br&gt;• Grab a costume and act in a play&lt;br&gt;  at the Stage!&lt;br&gt;&lt;br&gt;• Explore new areas first!" />
+	
+	<img src="play.swf" buttonTitle="PLAY MORE" title="Play More" caption="Whether you’re with friends or chilling on your own, puffles are&lt;br&gt;always a fun addition to playing Club Penguin! They’re cute,&lt;br&gt;cuddly and every one of them needs a home!&lt;br&gt;&lt;br&gt;• Get to know your puffle! Every color has a unique personality.&lt;br&gt;&lt;br&gt;• Play with and care for up to 16 puffles all at one time!&lt;br&gt;&lt;br&gt;• Take a puffle with you in games!&lt;br&gt;&lt;br&gt;• Collect special puffle furniture." />
+	
+	<img src="access.swf" buttonTitle="ACCESS MORE" title="Access More" caption="Stay at the front of the line!  Priority entrance into servers and&lt;br&gt;rooms means you don't have to wait to play your favorite games&lt;br&gt;or hang out in your favorite rooms--you get there first.&lt;br&gt;&lt;br&gt;• Jump to the front of the line for every event and party!&lt;br&gt;&lt;br&gt;• Visit your favorite servers and rooms - there's extra space reserved for you!&lt;br&gt;&lt;br&gt;• Add to your collection with unlimited access to catalogs and items!&lt;br&gt;&lt;br&gt;• Add your igloo to the Club Penguin map, so all your buddies&lt;br&gt; can visit easily." />
+	
+	<img src="celebrate.swf" buttonTitle="CELEBRATE MORE" title="Celebrate More" caption="Join exclusive parties and events that are created just&lt;br&gt;for members! They're the perfect place to discover the latest&lt;br&gt;and greatest Club Penguin has to offer from what's new at the&lt;br&gt;Stage to brand new games!&lt;br&gt;&lt;br&gt;• Attend exclusive parties and special events!&lt;br&gt;&lt;br&gt;• Hang out with your favorite characters!&lt;br&gt;&lt;br&gt;• Access member-only areas at major parties!&lt;br&gt;&lt;br&gt;• Throw a party in your igloo and celebrate with friends!" />
+
+
+</album>
+
+
+<language>en</language>
+
+</gallery>

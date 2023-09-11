@@ -1,0 +1,327 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en"><!-- InstanceBegin template="/Templates/2008_parents.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Language" content="en" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Coins For Change 2010 | Global Citizenship | Parents | Club Penguin</title>
+<!-- InstanceEndEditable -->
+<!-- Main stylesheets ***-->
+<link href="/css/baseline.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="/css/club_penguin_main.css" rel="stylesheet" type="text/css" media="screen" />
+
+<!--[if IE 6]>
+  <link rel="stylesheet" type="text/css" href="/css/ie.css" />
+<![endif]-->
+<!--[if IE 7]>
+  <link rel="stylesheet" type="text/css" href="/css/ie7.css" />
+<![endif]-->
+
+<!-- SIFR links***************  -->
+
+<link rel="stylesheet" href="/css/sIFR3-screen.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/css/sIFR3-print.css" type="text/css" media="print" />
+<script src="/scripts/cookies.js" type="text/javascript"></script>
+<script src="/scripts/sifr3.js" type="text/javascript"></script>
+<script src="/scripts/sifr3-config.js" type="text/javascript"></script>
+
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script src="../scripts/AC_RunActiveContent.js" language="javascript"></script>
+
+<script type="text/javascript" src="/scripts/swfobject.js"></script>
+
+<script type="text/javascript">
+	var navString = "navspot=3&subspot=3";
+	var flashvars = {};
+	flashvars.ticker = "false";
+	flashvars.mainXML = "http://media2.clubpenguin.com/www/xml/main-navigation.xml";
+	flashvars.navspot = navString.charAt(8);
+	flashvars.subspot = navString.charAt(18);
+	var params = {};
+	params.menu = "false";
+	params.quality = "high";
+	params.scale = "noscale";
+	params.wmode = "transparent";
+	params.bgcolor = "#01549A";
+	params.allowfullscreen = "false";
+	params.allowscriptaccess = "always";
+	var attributes = {};
+	attributes.id = "flashNavigation";
+	attributes.name = "flashNavigation";
+	attributes.align = "middle";
+	swfobject.embedSWF("http://media2.clubpenguin.com/www/swf/main-navigation.swf", "flashNavigation", "1022", "134", "9.0.28.0", false, flashvars, params, attributes);
+</script>
+
+<!-- InstanceBeginEditable name="head" -->
+
+        <script type="text/javascript">
+            var swfUrl                  = "http://media2.clubpenguin.com/www/parents/cfc2010/swf/CoinsForChangeVideoPlayer.swf";
+            var swfID                   = "cfc2010VideoPlayer";
+            var swfWidth                = "435";
+            var swfHeight               = "285";
+            var swfVersion              = "9.0.28.0";
+            var allowExpressInstall     = false;
+            
+            var flashVars = {
+                data:"http://media2.clubpenguin.com/www/parents/cfc2010/xml/config.xml"
+            };
+            
+            var params = {
+                menu                    : "false",
+                quality                 : "high",
+                allowfullscreen         : "true",
+                allowscriptaccess       : "always"
+            };
+            
+            var attributes = {
+                id                      :"cfc2010VideoPlayer",
+                name                    :"cfc2010VideoPlayer"
+            };
+            
+            swfobject.embedSWF(swfUrl, swfID, swfWidth, swfHeight, swfVersion, allowExpressInstall, flashVars, params, attributes);
+        </script>
+
+        <script type="text/javascript">
+            var swfUrl                  = "http://media2.clubpenguin.com/www/parents/cfc2010/swf/CoinsForChangeImageViewer.swf";
+            var swfID                   = "flash-medical";
+            var swfWidth                = "265";
+            var swfHeight               = "185";
+            var swfVersion              = "9.0.28.0";
+            var allowExpressInstall     = false;
+            
+            var flashVars = {
+                data:"http://media2.clubpenguin.com/www/parents/cfc2010/xml/config_health.xml"
+            };
+            
+            var params = {
+                menu                    : "false",
+                quality                 : "high",
+                allowscriptaccess       : "always"
+            };
+            
+            var attributes = {
+                id                      :"flash-medical",
+                name                    :"flash-medical"
+            };
+            
+            swfobject.embedSWF(swfUrl, swfID, swfWidth, swfHeight, swfVersion, allowExpressInstall, flashVars, params, attributes);
+        </script>
+        
+        <script type="text/javascript">
+            var swfUrl                  = "http://media2.clubpenguin.com/www/parents/cfc2010/swf/CoinsForChangeImageViewer.swf";
+            var swfID                   = "flash-earth";
+            var swfWidth                = "265";
+            var swfHeight               = "185";
+            var swfVersion              = "9.0.28.0";
+            var allowExpressInstall     = false;
+            
+            var flashVars = {
+                data:"http://media2.clubpenguin.com/www/parents/cfc2010/xml/config_environment.xml"
+            };
+            
+            var params = {
+                menu                    : "false",
+                quality                 : "high",
+                allowscriptaccess       : "always"
+            };
+            
+            var attributes = {
+                id                      :"flash-earth",
+                name                    :"flash-earth"
+            };
+            
+            swfobject.embedSWF(swfUrl, swfID, swfWidth, swfHeight, swfVersion, allowExpressInstall, flashVars, params, attributes);
+        </script>
+        
+        <script type="text/javascript">
+            var swfUrl                  = "http://media2.clubpenguin.com/www/parents/cfc2010/swf/CoinsForChangeImageViewer.swf";
+            var swfID                   = "flash-safe";
+            var swfWidth                = "265";
+            var swfHeight               = "185";
+            var swfVersion              = "9.0.28.0";
+            var allowExpressInstall     = false;
+            
+            var flashVars = {
+                data:"http://media2.clubpenguin.com/www/parents/cfc2010/xml/config_safe.xml"
+            };
+            
+            var params = {
+                menu                    : "false",
+                quality                 : "high",
+                allowscriptaccess       : "always"
+            };
+            
+            var attributes = {
+                id                      :"flash-safe",
+                name                    :"flash-safe"
+            };
+            
+            swfobject.embedSWF(swfUrl, swfID, swfWidth, swfHeight, swfVersion, allowExpressInstall, flashVars, params, attributes);
+        </script>
+
+<!-- InstanceEndEditable --><!-- InstanceParam name="body id" type="text" value="parents" --><!-- InstanceParam name="class" type="text" value="subpage" --><!-- InstanceParam name="navspot" type="text" value="navspot=3&amp;subspot=3" --><!-- InstanceParam name="IE path" type="text" value="../css/" --><!-- InstanceParam name="siteSection" type="text" value="parents" --><!-- InstanceParam name="pageName" type="text" value="coins_for_change_2010" --><!-- InstanceParam name="contentType" type="text" value="regular" -->
+</head>
+
+<body id="parents" class="subpage">
+<div id="hdrWrap">
+<a name="top" id="top"></a>
+<div id="flashNavContainer">
+		<div id="flashNavigation">
+        	<ul>
+            	<li><a href="http://www.clubpenguin.com" title="Link to Club Penguin Home Page">Home</a></li>
+            	<li><a href="http://www.clubpenguin.com/membership/" title="Link to Membership Page">Membership</a></li>
+                <li><a href="http://community.clubpenguin.com/" title="Link to Community Page">Community</a></li>
+                <li><a href="http://www.clubpenguin.com/parents/" title="Link to Parents Page">Parents</a></li>
+                	<ul>
+                    	<li><a href="http://www.clubpenguin.com/parents/club_penguin_guide.htm" title="Link to Parents Overview Page">Overview</a></li>
+                        <li><a href="http://www.clubpenguin.com/parents/player_safety.htm" title="Link to the Player Safety Page">Safety</a></li>
+                        <li><a href="http://www.clubpenguin.com/parents/global_citizenship.htm" title="Link to the Global Citizen Page">Global Citizenship</a></li>
+                        <li><a href="https://secure.clubpenguin.com/manage_account/login.php" title="Link to the Manage Account Page">Manage Accounts</a></li>
+                        <li><a href="http://www.clubpenguin.com/parents/what_people_are_saying.htm" title="Link to the Recognition Page">Recognition</a></li>
+                    </ul>
+                <li><a href="http://www.clubpenguin.com/toys/" title="Link to Toys Page">Toys</a></li>
+                <li><a href="http://support.clubpenguin.com/help/" title="Link to Help Page">Help</a></li>
+                <li><a href="http://play.clubpenguin.com/index.php/" title="Link to Play Club Penguin">Play Now</a></li>
+            </ul>
+			<a href="http://www.adobe.com/go/getflashplayer">
+				<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Get Adobe Flash player" />
+			</a>
+<!-- end #flashContainer --> </div>
+<!-- end #flashNav --></div>
+<!-- end #hdrWrap --></div>
+
+
+
+<div id="centerWrap">
+<div id="contentWrap">
+    <div id="content">
+    
+    <!-- InstanceBeginEditable name="content" -->        
+              
+    <div class="padd">
+        
+        <div class="pageName">
+        <h2>Coins For Change 2010</h2>
+        </div>
+        <div id="cfc2010Header">
+        
+		<h3 class="cfc2010hdr">The Coins You Give Are Going Places.</h3>
+        
+        <p>Once again during Coins For Change, our players gave their Club Penguin coins! These coin donations counted as votes that helped decide how a $1 M cash donation was split amongst 3 real world causes.<br/><br/>Together, through the years, we’ve helped 200,000 kids go to school, provided medical care for 2 million people, and helped protect 13 endangered species and their habitats across the world.</p>
+
+        </div>
+        
+        <div id="cfc2010VideoPlayer"></div>
+        <div id="cfc2010ResultsContent">
+        	<h3>The results are in!</h3>
+            <p>Check out what the Club Penguin community is doing.</p>
+            <br/>
+            <br/>
+            <h4>Coins For Change 2010 Results Wallpaper</h4>
+            <img src="http://media2.clubpenguin.com/www/parents/cfc2010/images/cfc-wallpaper-thumb.jpg"/>
+            <div id="cfcLinkContainer">
+                <p><a href="http://media2.clubpenguin.com/www/parents/cfc2010/images/coins-for-change-2010-wallpaper-1280-1024.jpg">1280 x 1024</a></p>
+                <p><a href="http://media2.clubpenguin.com/www/parents/cfc2010/images/coins-for-change-2010-wallpaper-1280-768.jpg">1280 x 768</a></p>
+                <p><a href="http://community.clubpenguin.com/wallpaper/wallpaper-instructions.html">Wallpaper Instructions</a></p>
+            </div>
+        </div>
+
+
+    <div id="firstCFCopt">
+<h4>Provide medical help</h4><div id="flash-medical"></div><ul style="position: relative; clear: both;"><li>Support medical clinics for African kids and families in Malawi and Lesotho</li><li>Fund operations for sick and disabled children in Cambodia</li></ul>
+    </div>
+
+    <div id="secondCFCopt">
+<h4>Protect the Earth</h4><div id="flash-earth"></div><ul style="position: relative; clear: both;"><li>Teach kids and families to care for the Rainforests</li><li>Protect endangered animals in the Andes Mountains</li></ul>
+    </div>
+    
+    <div id="thirdCFCopt">
+<h4>Build safe places</h4><div id="flash-safe"></div><ul style="position: relative; clear: both;"><li>Provide school programs for kids displaced by war in the Darfur region of Sudan, Africa
+</li><li>Protect girls from violence in the Democratic Republic of Congo</li><li>Fund projects to provide water to communities in India</li></ul>
+    </div>
+
+
+        <div id="cfc2010Footer">
+        
+		<h4>Previous Years</h4>
+        
+        <ul>
+        <li><a href="http://www.clubpenguin.com/parents/coins-for-change-2009.htm">Coins For Change 2009</a></li>
+        <li><a href="http://www.clubpenguin.com/parents/coins_for_change_08.htm">Coins For Change 2008</a></li>
+        </ul>       
+        
+        </div>
+            
+        <div class="floatHack"></div>    
+        
+        
+    <!--end padd--></div>
+              
+              
+              
+        <!-- InstanceEndEditable -->
+     
+    <!-- end #content --></div>
+	<div class="floatHack"></div>
+ <!-- end #contentWrap --></div>
+<!-- end #centerWrap --></div>
+
+
+<script src="http://www.clubpenguin.com/scripts/footer.php" language="javascript"></script>
+<noscript>
+<div id="ftrWrap">
+	<div id="ftrBg">
+		<div id="ftrContent">
+			<img src="http://www.clubpenguin.com/images/disney_games.jpg" id="disGame" alt="Disney.com Games" />
+			<a href="http://www.bbbonline.org/cks.asp?id=108062716439767" target="_blank"><img src="http://www.clubpenguin.com/images/bbb_new.gif" id="bbb_english" alt="BBB Accredited Business" /></a>
+			<a href="http://www.truste.org/ivalidate.php?url=www.clubpenguin.com&sealid=105" target="_blank"><img src="http://www.clubpenguin.com/images/truste_kids_seal.jpg" id="truste" alt="TRUSTe - Kids Privacy" /></a>
+
+			<!-- This is the Footer Navigation ********************** -->
+
+			<ul>
+				<li><a href="http://www.clubpenguin.com/company/index.htm">Company</a></li>
+				<li>|</li>
+				<li><a class="new" href="http://www.clubpenguin.com/terms.htm">Terms of Use</a><span class="asterisk">*</span></li>
+				<li>|</li>
+				<li><a class="new" href="http://www.clubpenguin.com/privacy.htm">Privacy Policy</a><span class="asterisk">*</span></li>
+				<li>|</li>
+				<li><a href="http://support.clubpenguin.com/help/contact/">Contact Us</a></li>
+				<li>|</li>
+				<li class="noMarg"><a href="http://www.clubpenguin.com/sitemap.htm">Site Map</a></li>
+			</ul>
+
+			<p>Club Penguin&trade; Disney Online Studios Canada Inc. &copy; 2009. All rights reserved.<br /></p>
+		</div>
+	</div>
+</div>
+</noscript>
+
+<!-- InstanceBeginEditable name="sifr script" -->
+
+
+
+
+<!--
+
+//-->
+
+<!-- InstanceEndEditable -->
+
+<!-- BEGIN DOL Web Analytics 1.0 DO NOT EDIT OR REMOVE THIS LINE-->
+<script language="javascript" src="http://aglobal.go.com/stat/dolWebAnalytics.js"></script>
+<script language="javascript">
+cto=new CTO();
+cto.account="clubpenguin";
+cto.category="dgame";
+cto.site="clp";
+cto.siteSection="parents";
+cto.pageName="coins_for_change_2010";
+cto.contentType="regular";
+cto.property="clp";
+cto.track();//Required. Do not remove.
+</script> 
+<!-- END DOL Web Analytics 1.0 -->
+
+
+</body>
+<!-- InstanceEnd --></html>

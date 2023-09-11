@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<AWARDSRECOG>
+	<LANGUAGE>portuguese</LANGUAGE>
+	
+	<TITLES>
+		<AWARDS>PRÊMIOS</AWARDS>
+		<STANDARDS>SELOS</STANDARDS>
+	</TITLES>
+	
+	<ACCOLADE>
+		<HEADING>Prêmio Webby 2009</HEADING>
+		<SUBHEADING>Categoria Jogos</SUBHEADING>
+		<CONTENT>O prêmio Webby 2009 é o principal prêmio internacional para excelência na Internet. Apresentado pela Academia Internacional de Artes e Ciências Digitais, o prêmio geralmente recebe mais de 10 mil concorrentes, de mais de 60 países do mundo inteiro.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>Parents’ Choice Recommended</HEADING>
+		<SUBHEADING>Prêmio Gold 2008</SUBHEADING>
+		<CONTENT>Como programa sem fins lucrativos mais antigo para reconhecimento de mídia de qualidade para crianças nos Estados Unidos, o Prêmio Parent’s Choice ajuda pais e responsáveis a tomar decisões conscientes sobre os produtos mais adequados para seus filhos. O prêmio reconhece produtos que sejam divertidos, educativos, que estimulem a imaginação e inspirem a criatividade.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>Publicação - Children’s Technology Review</HEADING>
+		<SUBHEADING>Prêmio Editor’s Choice </SUBHEADING>
+		<CONTENT>O objetivo da Children’s Technology Review é ajudar pais, responsáveis, educadores e bibliotecários a se manterem atualizados quando o assunto é mídia interativa de qualidade e produtos de tecnologia para crianças. O fundador e editor Warren Buckleitner é educador e especialista em aprendizado e tecnologia para crianças.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>Prêmio National Parenting Publications</HEADING>
+		<SUBHEADING>Nappa Gold 2008</SUBHEADING>
+		<CONTENT>O NAPPA (Prêmio Nacional para Publicações voltadas para a Criação de Filhos, na sigla em inglês) é uma fonte confiável para pais e profissionais em busca dos melhores produtos para crianças. Ao receber o Prêmio NAPPA Gold, o Club Penguin foi considerado divertido, atrativo, seguro, educativo, apropriado para a idade do público-alvo e duradouro.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>Kidspot</HEADING>
+		<SUBHEADING>Prêmio Best of 2008</SUBHEADING>
+		<CONTENT>O Kidspot é o maior site voltado para a criação de filhos na Austrália. Após receber votos e a opinião de mais de 1.500 pais por todo o país, a primeira edição do prêmio Best of, em 2008, elegeu o Club Penguin como o melhor site para crianças entre 8 e 11 anos.</CONTENT>
+	</ACCOLADE>	
+	
+	<ACCOLADE>
+		<HEADING>Padrão de Excelência em Entretenimento</HEADING>
+		<SUBHEADING>Prêmio WebAwards 2008</SUBHEADING>
+		<CONTENT>A Competição WebAward reconhece as instituições que produzem os melhores sites na Internet hoje. O Club Penguin foi selecionado para esse prêmio devido a seu design, fácil navegação, qualidade do texto, interatividade, uso da tecnologia, inovação e conteúdo.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>WiredKids</HEADING>
+		<SUBHEADING>Prêmio Best of the Web 2009</SUBHEADING>
+		<CONTENT>Entre milhares de sites indicados, o Club Penguin é um dos 14 a receber o Prêmio Best of the Web WiredKids 2009. Após ser indicado pelas crianças e analisado pelos pais, os vencedores foram escolhidos pelo advogado e especialista em internet Parry Aftab, que fundou a WiredKids e a organização WiredSafety.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>TRUSTe</HEADING>
+		<SUBHEADING></SUBHEADING>
+		<CONTENT>O TRUSTe ajuda a garantir um “clique” mais tranquilo ao guiar internautas para sites confiáveis. As empresas que exibem o selo do TRUSTe na política de privacidade de seu site cumprem os mais altos padrões para proteger as informações pessoais dos usuários.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>Better Business Bureau</HEADING>
+		<SUBHEADING>Prêmio Torch 2008</SUBHEADING>
+		<CONTENT>O Prêmio BBB Torch reconhece empresas éticas que demonstram a maior integridade junto a clientes, equipe e investidores, e que investiram quantias significativas e muito trabalho para inspirar mudanças sociais dentro de suas indústrias. O Club Penguin foi escolhido como vencedor do Prêmio de Confiança de Mercado em Desenvolvimento.</CONTENT>
+	</ACCOLADE>
+	
+	<ACCOLADE>
+		<HEADING>Classificação ESRB</HEADING>
+		<SUBHEADING>L para Livre</SUBHEADING>
+		<CONTENT>O Conselho de Classificação de Software de Entretenimento (ESRB, na sigla em inglês) é responsável pela classificação de conteúdo para jogos para computador e videogames. O ESRB reforça os regulamentos para publicidade adotados pela indústria, e ajuda a garantir práticas responsáveis relacionadas à privacidade online para a indústria do software interativo. O ESRB ajuda os consumidores a tomarem decisões conscientes sobre os jogos para computador e videogames que escolhem para suas famílias.</CONTENT>
+	</ACCOLADE>
+</AWARDSRECOG>

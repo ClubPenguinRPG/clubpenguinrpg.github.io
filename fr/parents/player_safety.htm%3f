@@ -1,0 +1,227 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="fr-ALL" lang="fr-ALL"><!-- InstanceBegin template="/Templates/2008_parents.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta http-equiv="Content-Language" content="fr-ALL" />
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Club Penguin - Parents : Sécurité du joueur</title>
+<!-- InstanceEndEditable -->
+<!-- Main stylesheets ***-->
+<link href="/fr/css/baseline.css" rel="stylesheet" type="text/css" media="screen" />
+<link href="/fr/css/club_penguin_main.css" rel="stylesheet" type="text/css" media="screen" />
+
+<!--[if IE 6]>
+  <link rel="stylesheet" type="text/css" href="/css/ie.css" />
+<![endif]-->
+<!--[if IE 7]>
+  <link rel="stylesheet" type="text/css" href="/css/ie7.css" />
+<![endif]-->
+
+<!-- SIFR links***************  -->
+
+<link rel="stylesheet" href="/fr/css/sIFR3-screen.css" type="text/css" media="screen" />
+<link rel="stylesheet" href="/fr/css/sIFR3-print.css" type="text/css" media="print" />
+
+<script src="/fr/scripts/sifr3.js" type="text/javascript"></script>
+<script src="/fr/scripts/sifr3-config.js" type="text/javascript"></script>
+
+<script language="javascript">AC_FL_RunContent = 0;</script>
+<script src="../scripts/AC_RunActiveContent.js" language="javascript"></script>
+
+<script type="text/javascript" src="/fr/scripts/swfobject.js"></script>
+
+<script type="text/javascript">
+	var navString = "navspot=3&subspot=2";
+	var flashvars = {};
+	flashvars.ticker = "false";
+	flashvars.mainXML = "http://media2.clubpenguin.com/www/fr/xml/main-navigation.xml";
+	flashvars.navspot = navString.charAt(8);
+	flashvars.subspot = navString.charAt(18);
+	var params = {};
+	params.menu = "false";
+	params.quality = "high";
+	params.scale = "noscale";
+	params.wmode = "transparent";
+	params.bgcolor = "#01549A";
+	params.allowfullscreen = "false";
+	params.allowscriptaccess = "always";
+	var attributes = {};
+	attributes.id = "flashNavigation";
+	attributes.name = "flashNavigation";
+	attributes.align = "middle";
+	swfobject.embedSWF("http://media2.clubpenguin.com/www/fr/swf/main-navigation.swf", "flashNavigation", "1022", "134", "9.0.28.0", false, flashvars, params, attributes);
+</script>
+
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable --><!-- InstanceParam name="body id" type="text" value="parents" --><!-- InstanceParam name="class" type="text" value="subpage" --><!-- InstanceParam name="navspot" type="text" value="navspot=3&amp;subspot=2" --><!-- InstanceParam name="IE path" type="text" value="../css/" --><!-- InstanceParam name="siteSection" type="text" value="parents" --><!-- InstanceParam name="pageName" type="text" value="player_safety" --><!-- InstanceParam name="contentType" type="text" value="regular" -->
+</head>
+
+<body id="parents" class="subpage">
+<div id="hdrWrap">
+<a name="top" id="top"></a>
+<div id="flashNavContainer">
+		<div id="flashNavigation">
+        	<ul>
+            	<li><a href="http://www.clubpenguin.com/fr" title="Lien vers la page d'accueil de Club Penguin">Accueil</a></li>
+            	<li><a href="http://www.clubpenguin.com/fr/membership/" title="Lien vers la section Abonnement">Abonnement</a></li>
+                <li><a href="http://community.clubpenguin.com/fr/" title="Lien vers la section Communauté">Communauté</a></li>
+                <li><a href="http://www.clubpenguin.com/fr/parents/" title="Lien vers la section Parents">Parents</a></li>
+                	<ul>
+                    	<li><a href="http://www.clubpenguin.com/fr/parents/club_penguin_guide.htm" title="Lien vers la section Parents">Introduction</a></li>
+                        <li><a href="http://www.clubpenguin.com/fr/parents/player_safety.htm" title="Lien vers la section Sécurité">Sécurité</a></li>
+                        <li><a href="http://www.clubpenguin.com/fr/parents/global_citizenship.htm" title="Lien vers la section Citoyen du Monde">Citoyen du Monde</a></li>
+                        <li><a href="https://secure.clubpenguin.com/fr/manage_account/login.php" title="Lien vers la section Gérer mon compte">Gérer mon compte</a></li>
+                        <li><a href="http://www.clubpenguin.com/fr/parents/what_people_are_saying.htm" title="Lien vers la section Récompenses">Récompenses</a></li>
+                    </ul>
+                <li><a href="http://www.clubpenguin.com/fr/toys/" title="Lien vers la section Jouets">Jouets</a></li>
+                <li><a href="http://support.clubpenguin.com/fr/help/" title="Lien vers la section Aide">Aide</a></li>
+                <li><a href="http://play.clubpenguin.com/fr/index.php/" title="Lien vers la page Jouer à Club Penguin">Jouer</a></li>
+            </ul>
+			<a href="http://www.adobe.com/go/getflashplayer">
+				<img src="http://www.adobe.com/images/shared/download_buttons/get_flash_player.gif" alt="Télécharger Adobe Flash Player" />
+			</a>
+<!-- end #flashContainer --> </div>
+<!-- end #flashNav --></div>
+<!-- end #hdrWrap --></div>
+
+
+
+<div id="centerWrap">
+<div id="contentWrap">
+    <div id="content">
+    
+    <!-- InstanceBeginEditable name="content" -->
+    
+	  <div class="padd">
+              	
+                
+      <div class="pageName">
+         <h2>Sécurité</h2>
+      </div>
+
+            	<br />
+
+              	<h5 class="translate">Les mesures de sécurité de Club Penguin</h5>
+                <p>&nbsp;</p>
+                <img src="images/player-safety.gif" width="161" height="217" align="right" />
+                                
+                      <p>Dans le cadre de son engagement à créer un environnement en ligne sécurisé pour les enfants et leurs familles, Club Penguin propose deux options de chat : </p>
+                <p><br />
+                <strong>Chat Haute Sécurité</strong> limite ce que les utilisateurs peuvent dire grâce à un menu prédéfini de phrases et de questions, ainsi qu'à des émoticônes, des actions et des cartes postales. Pour ce qui est du chat, ces utilisateurs voient uniquement les messages en mode Chat Haute Sécurité.</p>
+                <p><br />
+                <strong>Chat Sécurité Standard </strong>permet aux joueurs d'envoyer leurs propres messages aux autres utilisateurs. Chaque message est filtré pour n'autoriser que les mots et expressions pré-approuvés, et pour empêcher les utilisateurs de communiquer un numéro de téléphone ou d'autres informations d'identification personnelle. </p>
+                <p><br />
+                Bien que le filtre soit mis à jour continuellement, des commentaires qui peuvent être insultants pour les autres joueurs peuvent occasionnellement passer au travers. Afin de limiter cela et de protéger davantage les utilisateurs, Club Penguin emploie et forme sur place du personnel hautement qualifié pour surveiller les activités et le chat, recevoir les signalements de mauvais comportements, et offrir un soutien personnalisé pour tous les joueurs. Une icône &quot;M&rdquo; en haut à droite de l'écran rappelle aux participants qu'un modérateur est à disposition pour les aider. Les joueurs qui se comportent mal peuvent avoir leurs messages bloqués ou être bannis. </p>
+                <p>&nbsp;</p>
+                <div>
+                <h5>Sécurité personnelle en ligne</h5>
+                <p>&nbsp;</p>
+                </div>
+                <p>Nous encourageons les parents à passer en revue les mesures de sécurité suivantes avec leurs enfants: </p>
+                <p>&nbsp;</p>
+                <ol>
+                
+                <li>Ne donne jamais d'informations personnelles telles que ton véritable nom, ton âge, ton adresse, ton numéro de téléphone ou le nom de ton école.</li>
+                <li>Ne partage jamais ton mot de passe avec des personnes autres que tes parents. Quelqu'un d'autre pourrait utiliser ton mot de passe et se faire passer pour toi, donner tes informations personnelles ou t'attirer des ennuis.</li>
+                <li>Préviens tes parents si quelqu'un dit ou fait quelque chose sur Internet qui te met mal à l'aise, ou si quelqu'un te demande tes informations personnelles.</li>
+                <li>Choisis un nom d'utilisateur qui ne reflète pas ta véritable identité. Évite les noms qui, de quelque manière que ce soit, sont suggestifs, même s'ils te paraissent innocents.</li>
+                <li>Évite les salles de chat qui ne sont pas surveillées par un modérateur.</li>
+                
+                
+                </ol>
+                <p>&nbsp;</p>
+                <table border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td width="225" height="177" align="center" valign="top"><a href="http://www.bbbonline.org/cks.asp?id=108062716439767" target="_blank"><img src="images/awards-bbbonline-new.gif" alt="de BBB Online" width="225" height="75" border="0" /></a><br />
+                    <p>Club Penguin a été accrédité comme satisfaisant les standards de BBBOnLine. 
+                      <br />
+                      <br />
+                    </p>
+                    <p><em>Auparavant nommé BBB Kid's Privacy Seal of Approval.</em></p></td>
+                  <td width="10"></td>
+                  <td width="1" bgcolor="#cccccc"></td>
+                  <td width="10"></td>
+                  <td width="108" align="left" valign="top"><a href="images/childrens-technology-review.jpg" target="_blank"><img src="images/awards-childrens-technology.gif" alt="Magazine Technology Review" width="108" height="143" hspace="10" border="0" align="left" /></a></td>
+                  <td width="117" align="left" valign="top"><span class="note"><br />
+Club Penguin est fier d'avoir été décerné le Prix du Choix de l'Editeur dans le Children's Technology Review Magazine</span></td>
+                  <td width="10">&nbsp;</td>
+                  <td width="1" bgcolor="#cccccc"></td>
+                  <td width="10"></td>
+                  <td width="225" align="center" valign="top"><a href="http://www.netsmartz.org/" target="_blank"><img src="images/awards-netsmartz.gif" alt="Net Smartz" width="225" height="60" border="0" /></a><br />
+                      <span class="note">Un partenariat entre le National Center for Missing  & Exploited Children (centre national des enfants disparus et exploités) et Boys & Girls Clubs of America.</span></td>
+                </tr>
+                </table>
+        <p>&nbsp;</p>  
+        <p>&nbsp;</p>          
+              <div class="awards"></div>
+               <p> 
+                
+                <span>
+<script src="http://www.google-analytics.com/urchin.js" type="text/javascript">
+              </script>
+      <script type="text/javascript">
+				_uacct = "UA-2059639-2";
+				urchinTracker();
+              </script>
+              
+              <!--end padd--></p>
+	  </div>
+              <!-- InstanceEndEditable -->
+     
+    <!-- end #content --></div>
+	<div class="floatHack"></div>
+ <!-- end #contentWrap --></div>
+<!-- end #centerWrap --></div>
+
+
+<script src="http://www.clubpenguin.com/fr/scripts/footer.php" language="javascript"></script>
+<noscript>
+<div id="ftrWrap">
+	<div id="ftrBg">
+		<div id="ftrContent">
+			<img src="http://www.clubpenguin.com/fr/images/disney_games.jpg" id="disGame" alt="Jeux Disney.com" />
+			<a href="http://www.bbbonline.org/cks.asp?id=108062716439767" target="_blank"><img src="http://www.clubpenguin.com/fr/images/bbb_new.gif" id="bbb_english" alt="BBB Agréé" /></a>
+			<a href="http://www.truste.org/ivalidate.php?url=www.clubpenguin.com&sealid=105" target="_blank"><img src="http://www.clubpenguin.com/fr/images/truste_kids_seal.jpg" id="truste" alt="TRUSTe - Kids Privacy" /></a>
+
+			<!-- This is the Footer Navigation ********************** -->
+
+			<ul>
+				<li><a href="http://www.clubpenguin.com/fr/company/index.htm">Entreprise</a></li>
+				<li>|</li>
+				<li><a class="new" href="http://www.clubpenguin.com/fr/terms.htm">Conditions d'utilisation</a><span class="asterisk">*</span></li>
+				<li>|</li>
+				<li><a class="new" href="http://www.clubpenguin.com/fr/privacy.htm">Confidentialité</a><span class="asterisk">*</span></li>
+				<li>|</li>
+				<li><a href="http://support.clubpenguin.com/fr/help/contact/">Nous contacter </a></li>
+				<li>|</li>
+				<li class="noMarg"><a href="http://www.clubpenguin.com/fr/sitemap.htm">Plan du site</a></li>
+			</ul>
+
+			<p>Club Penguin&trade; Disney Online Studios Canada Inc. &copy; 2009. Tous droits réservés.<br /></p>
+		</div>
+	</div>
+</div>
+</noscript>
+
+<!-- InstanceBeginEditable name="sifr script" -->
+
+
+<!-- InstanceEndEditable -->
+
+<!-- BEGIN DOL Web Analytics 1.0 DO NOT EDIT OR REMOVE THIS LINE-->
+<script language="javascript" src="http://aglobal.go.com/stat/dolWebAnalytics.js"></script>
+<script language="javascript">
+cto=new CTO();
+cto.account="clubpenguin";
+cto.category="dgame";
+cto.site="clp";
+cto.siteSection="parents";
+cto.pageName="player_safety";
+cto.contentType="regular";
+cto.property="clp";
+cto.track();//Required. Do not remove.
+</script> 
+<!-- END DOL Web Analytics 1.0 -->
+
+
+</body>
+<!-- InstanceEnd --></html>

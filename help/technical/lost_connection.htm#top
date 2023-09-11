@@ -1,0 +1,159 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+
+	<html xmlns="http://www.w3.org/1999/xhtml"><!-- InstanceBegin template="/Templates/Help.dwt" codeOutsideHTMLIsLocked="false" -->
+
+<head>
+        
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Club Penguin - Help: Technical Help: I lost my connection?</title>
+<!-- InstanceEndEditable -->
+	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+
+	<link href="../../css/global.css" rel="stylesheet" type="text/css" />
+    <link href="../../css/nav_inside.css" rel="stylesheet" type="text/css" />
+    <SCRIPT src="../../flash/flash.js" type=text/javascript></SCRIPT>
+    <script type="text/javascript">
+<!--
+function MM_swapImgRestore() { //v3.0
+  var i,x,a=document.MM_sr; for(i=0;a&&i<a.length&&(x=a[i])&&x.oSrc;i++) x.src=x.oSrc;
+}
+//-->
+    </script>
+    <link href="../css/help.css" rel="stylesheet" type="text/css" />
+</head>
+		
+<body>
+<a name="top"></a>
+<table cellpadding="0" cellspacing="0" id="flexBox">
+		<tr>
+<td valign="top"><div id="wrap-top">
+                <div id="header"> <a href="../../index.html"><img src="../images/clubpenguin.gif" alt="Club Penguin" width="307" height="152" border="0" align="left"></a><img src="../../images/help-header.jpg"></div>                             
+<div class="yellow">
+               						  <!-- empty -->
+	    </div>
+                
+                <div id="memnav"> <!-- InstanceBeginEditable name="main-nav" --> 
+                <div class="play"><a href="http://play.clubpenguin.com/">Play</a></div>
+	
+    <div class="parents"><a href="../../parents.htm">Parents </a></div>
+    <div class="help-section"><a href="../index.html">Help</a></div>
+    <div class="member"><a href="https://secure.clubpenguin.com/membership/">Membership</a></div>
+    <div class="shop"><a href="../../clubpenguinshop/index.html">Shop</a></div>
+	
+     <div class="what-new"><a href="http://blog.clubpenguin.com/">What's New </a></div>
+	 <div class="cont-us"><a href="../../contact.htm">Contact Us </a></div>
+	 <div class="home"><a href="../../index.html">Home</a></div>
+        <!-- InstanceEndEditable --> </div>
+                
+                        					
+                
+                                            <div id="body-area"><!-- InstanceBeginEditable name="Content" -->
+<div id="content">                                            
+                                            <p><a href="../index.html" class="breadcrumb">Club Penguin Help</a> &gt; <a href="../technical_help.html" class="breadcrumb">Technical Help</a> &gt; I lost my connection?</p>
+                <h1>I lost my connection?</h1>
+              <p>There are many reasons why you might lose your Internet  connection. You might reconnect once and then not have a problem again. But if  it keeps happening, there are a few things you can try to help the problem:</p>
+              
+              
+              <div class="content-sm-left">
+              		<p><a name="problem" id="problem"></a>1.
+                    This  might be a problem on Club Penguin&rsquo;s end, not yours.&nbsp; The server might be offline so that Club  Penguin can update or work on the website. If you can get to the Club Penguin  home page, click on &ldquo;What&rsquo;s New.&rdquo; You can find important news there about  what&rsquo;s happening on the site.</p>
+              </div>
+              <div class="content-sm-right">
+              		<img src="images/lost-connection-1.gif" width="110" height="90" border="0" />
+              </div>
+              
+              
+              <div class="content-sm-left">
+              		<p><a name="problem" id="problem"></a>2.
+                    Club  Penguin might be very busy. Any time a new pin is hidden or a party is going  on, lots of people log on at the same time. Friday afternoons are very busy,  too. Try playing at a different time of day when things are not as busy.</p>
+              </div>
+              <div class="content-sm-right">
+              		<img src="images/lost-connection-2.gif" width="110" height="90" border="0" />
+              </div>
+             
+             
+             <div class="content-sm-left">
+             		<p><a name="problem" id="problem"></a>3.
+                    Try  logging on to a Club Penguin <strong><a href="glossary-technical-terms.htm#server" >server</a></strong> in a different country. To do this, click on that country&rsquo;s flag when you are  asked to choose a server<strong>.</strong> You might  find a server that is not as busy as the one you were on before.</p>
+             </div>
+             <div class="content-sm-right">
+             		<img src="images/lost-connection-3.gif" width="110" height="90" border="0" />
+             </div>
+             
+             
+             <div class="content-sm-left">
+             		<p><a name="problem" id="problem"></a>4.
+                    You  might be playing from a slow computer. Try playing from a faster computer, if  you can. Or read <a href="connection_slow.htm" >My connection is slow?</a> to learn some ways you might be  able to make your computer run faster. </p>
+             </div>
+             <div class="content-sm-right">
+             		<img src="images/lost-connection-4.gif" width="110" height="90" border="0" />
+             </div>
+             
+              
+             <div class="content-sm-left">
+             		<p><a name="problem" id="problem"></a>5.
+                    If  you have a wireless connection to the Internet, check to see that you have a  &ldquo;Very Good&rdquo; or &ldquo;Excellent&rdquo; connection. A poor wireless connection will cause  you to lose connection.</p>
+             </div>
+             
+              
+              
+      		<div class="content-sm-left">
+            		<p><a name="problem" id="problem"></a>6.
+                    If  you are playing Club Penguin on a laptop, don&rsquo;t close the screen without  logging out. This will cause you to lose your connection.<br />
+                  </p>
+            </div>
+            <div class="content-sm-right">
+            		<img src="images/lost-connection-6.gif" width="110" height="90" border="0" />
+            </div>
+            
+            
+            <div class="content-sm-left">
+            		<p><a name="problem" id="problem"></a>7.
+                    If  you are using America Online, make sure you have the latest version of AOL. Your  computer might have a <strong><a href="glossary-technical-terms.htm#firewall" >firewall</a></strong> built  into it. Operating systems such as Windows XP, Vista,  and Mac OS X have a firewall that might prevent you from logging on to Club  Penguin. Talk to a parent about how to change the settings on your firewall.<br />
+                  </p>
+            </div>
+            <div class="content-sm-right">
+            		<img src="images/lost-connection-7.gif" width="110" height="90" border="0" />
+            </div>
+            
+            
+            
+            <div class="content-sm-left">
+            		<p><a name="problem" id="problem"></a>8.
+                    If  none of these things work, you should call <strong ><a href="glossary-technical-terms.htm#ISP">your  Internet Service Provider</a></strong> (ISP). That is the company that you pay to  connect to the Internet. They might be using a <strong><a href="glossary-technical-terms.htm#firewall" >firewall</a></strong> that is blocking the ports that lead to Club Penguin. When  you call them, tell them to open up these ports for TCP traffic, inbound and  outbound: 3724, 6112, 6113, and 9875. (Don&rsquo;t worry if this sounds strange to  you&mdash;your ISP will know what you mean!) <br />
+                  </p>
+            </div>
+            <div class="content-sm-right">
+            		<img src="images/connect-isp.gif" width="110" height="90" border="0" />
+            </div>
+              
+              
+                     
+            <!-- InstanceEndEditable --></div>
+                </div>
+                
+    </td>
+  </tr>
+              <tr>
+                <td valign="bottom">
+                
+	<div id="wrap-bottom">
+    	<div id="waddle-area">        	</div>
+            
+        <div id="footer">
+			<img src="../../images/disney-logo.gif" alt="Disney.com Games" />
+            <p><span class="footernav">
+            	<a href="../../company/index.html" class="footernav">Company Info</a> | 
+                <a href="../../terms.htm" class="footernav">Terms</a> | 
+                <a href="../../privacy.htm" class="footernav">Privacy</a> | 
+                <a href="../../contact.htm" class="footernav">Contact Us</a> | 
+                <a href="../../sitemap.htm" class="footernav">Site Map</a> 
+                </span><br />
+            	<span class="copyright">Club Penguin &#8482; Club Penguin Entertainment Inc. &copy; 2007. All rights reserved.                </span></p>
+                </div>
+                </div></td>
+              </tr>
+            </table>
+</body>
+<!-- InstanceEnd --></html>

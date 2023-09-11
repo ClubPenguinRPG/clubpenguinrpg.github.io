@@ -1,0 +1,20 @@
+﻿<thumbs productDescription="6.5” Limited Edition Penguins (Ages 4+)
+Soft penguin friends.
+6.5” Limited Edition Penguins are available at The Club Penguin Online Shop, North American Toys“R”Us Stores, Disney Stores, and North American Disney Theme Parks. 
+Each plush comes dressed in a unique outfit and has a plastic coin with a code on one side that can unlock items on Club Penguin.">
+
+  <thumb src = "products/plush/images/tn_alien.jpg" caption = "Space Alien - Discover new worlds!" href = "alien" />
+  <thumb src = "products/plush/images/tn_bee.jpg" caption = "Bumble Bee - Buzz around! " href = "bee" />
+  <thumb src = "products/plush/images/tn_cheerleader.jpg" caption = "Cheerleader - Get excited!" href = "cheerleader" />
+  <thumb src = "products/plush/images/tn_construction.jpg" caption = "Construction Worker - Build and imagine!" href = "construction" />
+  <thumb src = "products/plush/images/tn_firefighter.jpg" caption = "Firefighter - Be heroic!" href = "firefighter" />
+  <thumb src = "products/plush/images/tn_frankenstein.jpg" caption = "Frankenpenguin - Show your monster side!" href = "frankenstein" />
+  <thumb src = "products/plush/images/tn_mohawk.jpg" caption = "Rocker - Express yourself!" href = "mohawk" />
+  <thumb src = "products/plush/images/tn_pizza.jpg" caption = "Pizza Chef - Create good stuff!" href = "pizza" />
+  <thumb src = "products/plush/images/tn_princess.jpg" caption = "Fairy - Rule your kingdom!" href = "princess" />
+  <thumb src = "products/plush/images/tn_rockhopper.jpg" caption = "Rockhopper - Explore!" href = "rockhopper" />
+  <thumb src = "products/plush/images/tn_sandalGuy.jpg" caption = "Barista - Chill out!" href = "sandalGuy" />
+  <thumb src = "products/plush/images/tn_soccer.jpg" caption = "Soccer Player - Score!" href = "soccer" />
+ <thumb src = "products/plush/images/tn_shadow.jpg" caption = "Shadow Guy - Save the world!" href = "shadow" />
+
+</thumbs>

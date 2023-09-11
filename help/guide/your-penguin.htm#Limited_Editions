@@ -1,0 +1,194 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/Blank.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Club Penguin - Help: Your Penguin</title>
+<!-- InstanceEndEditable --><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="../../style.css" rel="stylesheet" type="text/css">
+<SCRIPT src="../../flash/flash.js" type=text/javascript></SCRIPT>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<link href="../../style-penguin.css" rel="stylesheet" type="text/css">
+<link href="../../css/nav_inside.css" rel="stylesheet" type="text/css">
+</head>
+<body bgcolor="#FFFFFF" class="bg_white"> 
+<a name="top"></a>
+
+
+<div id="wrap">
+  <div id="header"> <a href="../../index.html"><img src="../../images/clubpenguin-tm.gif" alt="Club Penguin" width="307" height="152" border="0" align="left"></a> 
+    <SCRIPT type=text/javascript>RunFlash('http://www.clubpenguin.com/flash/HeaderInsideRevised.swf','453','152','#EEEEEE');</SCRIPT>
+        <NOSCRIPT>
+          <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="453" height="152">
+            <param name="movie" value="../../flash/HeaderInsideRevised.swf">
+            <param name=quality value=high>
+            <param name="wmode" value="transparent">
+            <embed src="../../flash/HeaderInsideRevised.swf" width="453" height="152" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" wmode="transparent"></embed>
+              </object>
+          </NOSCRIPT>
+  </div>
+   
+    <div class="yellow"><!-- empty --></div>
+	
+  <div id="memnav">
+    <div class="play"><a href="http://play.clubpenguin.com/">Play</a></div>
+	
+    <div class="parents"><a href="../../parents.htm">Parents </a></div>
+    <div class="help"><a href="../index.html">Help</a></div>
+    <div class="member"><a href="https://secure.clubpenguin.com/membership/">Membership</a></div>
+    <div class="shop"><a href="../../clubpenguinshop/index.html">Shop</a></div>
+	
+     <div class="what-new"><a href="http://blog.clubpenguin.com/">What's New </a></div>
+	 <div class="cont-us"><a href="../../contact.htm">Contact Us </a></div>
+	 <div class="home"><a href="../../index.html">Home</a></div>
+  </div>
+  
+  <table width="760" height="360" border="0" align="center" cellpadding="20" cellspacing="0">
+    <tr>
+      <td height="28" align="center" valign="top" class="content">
+        <table width="718" height="500" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td align="left" valign="top"><!-- InstanceBeginEditable name="Content" -->
+        <table width="718" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td><span class="lg_title">Your Penguin </span></td>
+          </tr>
+          <tr>
+            <td height="10"></td>
+          </tr>
+      </table>
+        <ul>
+          <li><a href="#Player_Card">Your Player Card </a></li>
+          <li><a href="#Buying_Clothes">Buying Clothes (Members Only) </a></li>
+          <li><a href="#Limited_Editions">Penguin Clothes: Limited Editions </a></li>
+          <li><a href="#Customize_Penguin">Customizing Your Penguin (Members Only)</a><br>
+            <br>
+            <a href="../index.html">Back to Club Penguin Help</a> </li>
+          </ul>
+        <h2><a name="Player_Card"></a>Your Player Card</h2>
+        <table width="718" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="358" valign="top"><table width="358" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="10"></td>
+              </tr>
+              <tr>
+                <td><ul>
+                  <li>Click on your penguin to bring up your player card. Your card will tell you how many coins you have. </li>
+                  <li>The top tab on the right is for clothing and accessories. The bottom tab is for <FONT face=Arial><SPAN style="FONT-FAMILY: Arial">options like colors, flags and backgrounds</SPAN></FONT>.</li>
+                  <li> If you don&rsquo;t own any items, you won&rsquo;t see any listed. If you are a member, you can buy items with the coins you earn. </li>
+                </ul></td>
+              </tr>
+            </table></td>
+            <td width="10" valign="top">&nbsp;</td>
+            <td width="350" valign="top"><img src="../../images/screenshots/player-card.gif" width="350" height="220"></td>
+          </tr>
+        </table>
+        
+		<div align="right"><a href="#top">back to top</a>
+	  </div>
+		<h2><a name="Buying_Clothes"></a>Buying Clothes (Members Only)</h2>
+		<table width="718" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="358" valign="top"><table width="358" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="10"></td>
+              </tr>
+              <tr>
+                <td><ul>
+                  <li>If you are a member, you can spend your coins to buy items or furniture for your penguin.</li>
+                  <li> <span class="plaintext">To buy clothing and accessories, go into the Gift Shop or Sport Shop and click on the catalog. Click &lsquo;Buy Now&rsquo; in the catalog for the item you wish to purchase. When you buy an item, it gets added to your inventory shown on the player card. </span></li>
+                  <li>Rare Items: these can be purchased on the Pirate Ship (The Migrator). It arrives in Club Penguin every two months and stays for up to two weeks. To purchase an item, click the catalog on the right of the screen. Rare items include clothing and furniture. </li>
+                  <li> Your penguin will not automatically wear the item you purchased. You must edit (or customize) your penguin to wear your new clothing. </li>
+                </ul></td>
+              </tr>
+            </table></td>
+            <td width="10" valign="top">&nbsp;</td>
+            <td width="350" valign="top"><img src="../../images/screenshots/buying-clothes.gif" width="350" height="220"></td>
+          </tr>
+        </table>
+		
+		<div align="right"><a href="#top">back to top</a>
+	  </div>
+		<h2><a name="Limited_Editions" id="Limited_Editions"></a>Penguin Clothes: Limited Editions</h2>
+		<table width="718" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="358" valign="top"><table width="358" border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td height="10"></td>
+                </tr>
+                <tr>
+                  <td><ul>
+                      <li>The clothing catalog for your penguin changes every month. With each new catalog, some items will no longer be available, and new items will be introduced. </li>
+                      <li>If you see another penguin with an item that is not in the catalog, it is an older item. </li>
+                      <li>
+                        Some clothing items remain in the catalog even though you can&rsquo;t see them. They are hidden. To find these items use your mouse and watch for an icon to appear. Click on it to see the clothing item.
+                      </li>
+                      <li>Sometimes, a limited-edition item will come back, so if you wait long enough you may have a chance to own it, too. </li>
+                  </ul></td>
+                </tr>
+            </table></td>
+            <td width="10" valign="top">&nbsp;</td>
+            <td width="350" valign="top"><img src="../../images/screenshots/limited-edition-clothing.gif" width="350" height="220"></td>
+          </tr>
+        </table>
+		<div align="right"><a href="#top">back to top</a></div>
+		<p></p>
+		<h2><a name="Customize_Penguin"></a>Customizing Your Penguin (Members Only)</h2>
+		<table width="718" border="0" cellspacing="0" cellpadding="0">
+          <tr>
+            <td width="358" valign="top"><table width="358" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="10"></td>
+              </tr>
+              <tr>
+                <td><ul>
+                  <li> To dress your penguin or change colors, <strong>click</strong> on your penguin <strong>or</strong> on the Edit button on the toolbar. This will bring up your player card. </li>
+                  <li>Click on one of the tabs on the right of the card. This will show you all of the items you currently own (if any).</li>
+                  <li>Click an item in the menu to put it on. To take an item off, click the item on your penguin, <strong>or</strong> click a new item to replace it.</li>
+                  <li> The top tab is for clothing and accessory items; the bottom tab is for colors, flags and collectible pins. </li>
+                  <li>To change your penguin&rsquo;s color, select the lower tab of your player card. Click the color you want, and your penguin will change color. Flags and collectible pins are selected in the same way. Flags and pins, when selected will appear on the upper left side of your player card. You can wear one flag and one pin at a time.</li>
+                  <li> If you don&rsquo;t own any items, you won&rsquo;t see any listed. Members can buy items at the Gift Shop with the coins they earn. </li>
+                </ul></td>
+              </tr>
+            </table></td>
+            <td width="10" valign="top">&nbsp;</td>
+            <td width="350" valign="top"><img src="../../images/screenshots/customize-penguin.gif" width="350" height="220"></td>
+          </tr>
+        </table>
+        <div align="right">
+          <p><a href="#top">back to top</a></p>
+          <p>&nbsp;</p>
+        </div>
+      <!-- InstanceEndEditable --></td>
+          </tr>
+        </table>
+	  </td>
+    </tr>
+</table>
+<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center"><img src="../../images/waddle-around.gif" width="310" height="35"></td>
+    </tr>
+</table>
+  <table width="760" height="69" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="top" class="copyright">
+<span class="footernav"></span>
+<table width="330" height="22" border="0" cellpadding="0" cellspacing="0">
+  <tr>
+    <td></td>
+  </tr>
+</table>
+<span class="footernav"><a href="../../company/index.html" class="footernav">Company Info</a> | <a href="../../terms.htm" class="footernav">Terms</a> | <a href="../../privacy.htm" class="footernav">Privacy</a> | <a href="../../contact.htm" class="footernav">Contact Us</a> | <a href="../../sitemap.htm" class="footernav">Site Map</a> </span> <br>
+ Club Penguin &#8482; New Horizon Interactive. &copy; 2007. All rights reserved.</td>
+    </tr>
+</table>
+  
+  
+</div>
+
+
+  
+</body>
+<!-- InstanceEnd --></html>

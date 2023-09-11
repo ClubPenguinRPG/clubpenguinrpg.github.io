@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<newsTicker>
+	<main>
+		<maxCharCount>150</maxCharCount>
+		<newsTimer>10</newsTimer>
+		<textColor>0xFFFFFF</textColor>
+		<overColor>0xFFBE06</overColor>
+	</main>
+	
+	<items>
+	
+		<item>
+			<text>¡ROCKHOPPER ESTÁ POR LLEGAR!</text>
+			<link>http://community.clubpenguin.com/es/blog/2009/09/rockhoppers-coming-2.php</link>
+			<window>_self</window>
+		</item>		
+	
+		<item>
+			<text>¡NUEVO CATÁLOGO DE DEPORTES!</text>
+			<link>http://community.clubpenguin.com/es/blog/2009/08/new-sports-catalog-today.php</link>
+			<window>_self</window>
+		</item>		
+			
+		<item>
+			<text>OPINIÓN</text>
+			<link>http://community.clubpenguin.com/es/blog/2009/08/reviewed-by-you-10.php</link>
+			<window>_self</window>
+		</item>		
+	
+	</items>
+</newsTicker>

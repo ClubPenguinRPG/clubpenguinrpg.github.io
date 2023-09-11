@@ -1,0 +1,264 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN"
+"http://www.w3.org/TR/html4/loose.dtd">
+<html><!-- InstanceBegin template="/Templates/Help.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Club Penguin - Help &amp; Tutorials: Mini Games</title>
+<!-- InstanceEndEditable --><meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<link href="../../style.css" rel="stylesheet" type="text/css">
+<SCRIPT src="../../flash/flash.js" type=text/javascript></SCRIPT>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<link href="../../style-penguin.css" rel="stylesheet" type="text/css">
+<link href="../../css/nav_inside.css" rel="stylesheet" type="text/css">
+</head>
+<body bgcolor="#FFFFFF" class="bg_white"> 
+<a name="top"></a>
+
+
+<div id="wrap">
+  <div id="header"> <a href="../../index.html"><img src="../images/clubpenguin.gif" alt="Club Penguin" width="307" height="152" border="0" align="left"></a><img src="../../images/help-header.jpg"></div>
+   
+  <div class="yellow"><!-- empty --></div>
+	
+  <div id="memnav">
+    <div class="play"><a href="http://play.clubpenguin.com/">Play</a></div>
+	
+    <div class="parents"><a href="../../parents.htm">Parents </a></div>
+    <div class="help-section"><a href="../index.html">Help</a></div>
+    <div class="member"><a href="https://secure.clubpenguin.com/membership/">Membership</a></div>
+    <div class="shop"><a href="../../clubpenguinshop/index.html">Shop</a></div>
+	
+     <div class="what-new"><a href="http://blog.clubpenguin.com/">What's New </a></div>
+	 <div class="cont-us"><a href="../../contact.htm">Contact Us </a></div>
+	 <div class="home"><a href="../../index.html">Home</a></div>
+  </div>
+  
+  <table width="760" height="360" border="0" align="center" cellpadding="20" cellspacing="0">
+    <tr>
+      <td height="28" align="center" valign="top" class="content">
+        <table width="718" height="500" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td align="left" valign="top"><!-- InstanceBeginEditable name="Content" --><p><a href="../index.html">Club Penguin Help</a> &gt; <a href="../help_tutorials.html">Help &amp; Tutorials</a> &gt; Mini Games</p>
+                <p class="lg_title">Mini Games<br>
+                </p>
+                <h2 class="blue_title">Multi-Player </h2>
+        <table width="710" border="0" cellspacing="0" cellpadding="0">
+                  <tr>
+                    <td width="131" height="120" align="center" valign="top"><a href="#Find_Four" class="button"><img src="images/find-four-icon.gif" width="110" height="90" border="0"><br>
+                    Find Four</a></td>
+                    <td width="10"></td>
+                    <td width="146" height="120" align="center" valign="top"><a href="#Ice_Hockey" class="button"><img src="images/hockey-icon.gif" width="110" height="90" border="0"><br>
+                    Hockey</a></td>
+                    <td width="10"></td>
+                    <td width="130" height="120" align="center" valign="top"><a href="#Mancala" class="button"><img src="images/mancala-icons.gif" width="110" height="90" border="0"><br>
+                    Mancala</a></td>
+                    <td width="10"></td>
+                    <td width="130" height="120" align="center" valign="top"><a href="#Sledding" class="button"><img src="images/sleding-icon.gif" width="110" height="90" border="0"><br>
+                    Sled Racing</a></td>
+                    <td width="10"></td>
+                    <td width="133" height="120" align="center" valign="top"><a href="#catchin-waves" class="button"></a><a href="#Cart_Surfer" class="button"></a></td>
+                  </tr>
+                </table>
+				<h2 class="blue_title">Single-Player </h2>
+			  <table width="710" border="0" cellspacing="0" cellpadding="0">
+              <tr>
+                <td height="120" align="center" valign="top"><a href="#Astro_Barrier" class="button"><img src="images/icons/astro-barrier-icon.gif" width="110" height="90" border="0"><br>
+                Astro Barrier</a></td>
+                <td width="10"></td>
+                <td height="120" align="center" valign="top"><a href="#Ballistic_Biscuit" class="button"><img src="images/icons/ballistic-biscuit-icon.gif" width="110" height="90" border="0"><br>
+                Hydro-Hopper</a></td>
+                <td width="10"></td>
+                <td height="120" align="center" valign="top"><a href="#Bean_Counters" class="button"><img src="images/icons/bean-counters-icon.gif" width="110" height="90" border="0"><br>
+                Bean Counters</a></td>
+                <td width="10"></td>
+                <td height="120" align="center" valign="top"><a href="#Cart_Surfer" class="button"><img src="images/cart-surfer-icon.gif" width="110" height="90" border="0"><br>
+                Cart Surfer</a></td>
+                <td width="10"></td>
+                <td height="120" align="center" valign="top"><a href="#catchin-waves" class="button"><img src="images/catchin-waves-icon-new.gif" width="110" height="89" border="0"><br>
+                Catchin Waves</a></td>
+                </tr>
+              <tr>
+                <td height="130" align="center" valign="top"><a href="#Ice_Fishing" class="button"><img src="images/ice-fishing-icon.gif" width="110" height="90" border="0"><br>
+Ice Fishing</a></td>
+                <td width="10">&nbsp;</td>
+                <td height="130" align="center" valign="top"><a href="#jetpack" class="button"><img src="images/jet-pack-adventure-icon.gif" width="110" height="90" border="0"><br>
+Jet Pack Adventure</a></td>
+                <td width="10">&nbsp;</td>
+                <td height="130" align="center" valign="top"><a href="#Pizzatron" class="button"><img src="images/pizzatron-3000-icon.gif" width="110" height="90" border="0"><br>
+Pizzatron 3000</a></td>
+                <td width="10">&nbsp;</td>
+                <td height="130" align="center" valign="top"><a href="#Puffle_Roundup" class="button"><img src="images/puffle-roundup-icon.gif" width="110" height="90" border="0"><br>
+Puffle Roundup</a></td>
+                <td width="10">&nbsp;</td>
+                <td height="130" align="center" valign="top"><a href="#Astro_Barrier" class="button"></a><a href="#thin-ice" class="button"><img src="images/thin-ice-icon.gif" width="109" height="90" border="0"><br>
+Thin Ice</a></td>
+                </tr>
+            </table>
+                
+                  <p><br>
+                  </p>
+            
+        <h2 align="left"><a name="Find_Four" id="Find_Four"></a>Find Four</h2>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td align="left" valign="top"><p>In the Ski Lodge and the Lodge Attic you can play this game with a friend. To win, stack four pieces in a row diagonally, vertically, or straight across. Alternate turns with your opponent.</p></td>
+                  <td valign="top"><p><img src="images/find-four.gif" width="350" height="220"></p></td>
+              </tr>
+            </table>
+        <div align="right"><a href="#top">back to top</a></div>
+        <h2 align="left"><a name="Ice_Hockey"></a>Hockey </h2>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td align="left" valign="top"><p>This team sport is located at the Super Rink by the Snow Forts. The puck is moved around the ice when the first player to reach the puck moves in the direction they want the puck to go. Ice Hockey is a great way to have fun with friends&mdash;no coins are awarded in this game.</p></td>
+                  <td valign="top"><p><img src="images/hockey.gif" width="350" height="220"></p></td>
+              </tr>
+            </table>
+        <div align="right"><a href="#top">back to top</a></div>
+          <h2><a name="Mancala"></a>Mancala</h2>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td valign="top">Play this game with a friend when you go to the Book Room located above the Coffee Shop. Alternate turns with your opponent; the game ends when a player has no more stones in his/her side of the board. The player with the greatest number of stones in his/her Mancala is the winner. Click on the Mancala poster at the back of the Book Room to read more instructions on how to play. </td>
+                  <td valign="top"><img src="images/mancala.gif" width="350" height="220"><br>                  </td>
+              </tr>
+            </table>
+        <div align="right"><a href="#top">back to top</a></div>
+            <h2><a name="Sledding"></a>Sled Racing </h2>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td valign="top"><p>This multi-player game is one of Club Penguin&rsquo;s most popular pastimes. Join a race when you go to the Ski Hill. Choose a run; the race begins when each sled seat is filled. Use your arrow keys to move your sled and avoid obstacles. </p>                  </td>
+                  <td valign="top"><p><img src="images/sledding.gif" width="350" height="220"></p></td>
+              </tr>
+            </table>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+            </table><div align="right"><a href="#top">back to top</a></div>
+            <h2><a name="Astro_Barrier"></a>Astro Barrier</h2>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td valign="top"><p>This arcade game is located in the Lounge above the Night Club. Use arrow and spacebar keys to shoot moving targets. There are over 30 levels. Coins are awarded for points earned.</p>                  </td>
+                  <td valign="top"><p><img src="images/astro-barrier.gif" width="350" height="220"></p></td>
+              </tr>
+            </table>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+            </table><div align="right"><a href="#top">back to top</a></div>
+            <h2><a name="Ballistic_Biscuit"></a>Hydro-Hopper (Formerly Ballistic Biscuit)</h2>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td valign="top"><p>Go to the speedboat at the Dock to go for a ride. Tubing behind a boat is always fun but watch out for debris in the water. Use your mouse to navigate. </p>                  </td>
+                  <td valign="top"><p><img src="images/ballistic-biscuit.gif" width="350" height="220"></p></td>
+              </tr>
+            </table>
+        
+                
+              <div align="right"><a href="#top">back to top</a></div>
+        
+        <h2><a name="Bean_Counters"></a>Bean Counters</h2>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td valign="top"><p>Go to the Coffee Shop and click the bag of coffee with the word Java written on it to play. Earn coins for catching and stacking bags of coffee as they fly out of the delivery truck. There are five delivery trucks&mdash;unload them all and earn bonus coins. Read the instructions before playing for more information.</p>                  </td>
+                  <td valign="top"><p><img src="images/bean-counters.gif" width="350" height="220"></p></td>
+              </tr>
+            </table>
+        <div align="right"><a href="#top">back to top</a></div>
+          <h2 align="left"><a name="Cart_Surfer" id="Cart_Surfer"></a>Cart Surfer</h2>
+          <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+            <tr>
+              <td align="left" valign="top"><p>Located in the Mine at the Underground, in Cart Surfer you will speed along a mine track in a cart. Earn points for tricks; use keyboard arrows and spacebar to discover trick combinations. Cart Surfer is a single-player game. It&rsquo;s great to play when you want to earn a lot of coins in a short amount of time.</p></td>
+              <td valign="top"><p><img src="images/cart-surfer.gif" width="350" height="220"></p></td>
+            </tr>
+          </table>
+          <div align="right">
+            <a href="#top">back to top</a>            </div>
+            <h2><a name="catchin-waves"></a>Catchin' Waves </h2>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+          <tr>
+            <td valign="top"><p>Want to go surfing? Head to the Cove and click on the Surf Hut. Choose a surf mode: Surf Lesson, Freestyle, Competition, or Survival mode. Earn points for tricks and jumps. </p>
+                           
+              <p>For a different surfing experience, surfboard upgrades are available for members in the Sport Shop catalog. Upgraded surfboards are added to your inventory after purchase. </p>
+              <p>              </p></td>
+            <td valign="top"><p><img src="images/catchin-waves-1.gif" width="350" height="220"><br>
+            </p></td>
+          </tr>
+        </table>
+        <div align="right"><a href="#top">back to top</a></div>
+          <h2><a name="Ice_Fishing"></a>Ice Fishing </h2>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td valign="top"><p>Go out the back door of the Ski Lodge located in the Ski Village. Drop your line in the water and when you catch a fish pull it above the hole and click. Every fish caught equals one coin. If you catch the BIG fish, you earn bonus coins. Use your mouse to move your line above and below the water.</p>                  </td>
+                  <td valign="top"><p><img src="images/fishing.gif" width="350" height="220"><br>
+                  </p></td>
+              </tr>
+            </table>
+       <div align="right"><a href="#top">back to top</a></div>
+        <h2><a name="jetpack"></a>Jet Pack Adventure</h2>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+          <tr>
+            <td valign="top"><p>Strap on a jet pack and fly when you go to the Beacon located at the Lighthouse. Collect coins as you fly and watch out for obstacles. Use your mouse to navigate through each level. Look for extra fuel cans and jet packs&mdash;you need them to complete the game.</p>                </td>
+            <td valign="top"><p><img src="images/jetpack.gif" width="350" height="220"><br>
+            </p></td>
+          </tr>
+        </table>
+        <div align="right"><a href="#top">back to top</a></div>
+        
+        
+        
+        
+		  
+		<h2><a name="Pizzatron"></a>Pizzatron 3000 </h2>
+		<table width="100%"  border="0" cellspacing="0" cellpadding="10">
+          <tr>
+            <td valign="top"><p>Go to the Pizza Parlor and click on the beaded doorway to become a pizza chef. Use your mouse to drag and drop the toppings that show up on the order screen. Get paid coins for every correct pizza you make. <br>
+            </p></td>
+            <td valign="top"><p><img src="images/pizzatron-1.gif" width="350" height="220"><br>
+            </p></td>
+          </tr>
+        </table>
+        <div align="right"><a href="#top">back to top</a></div>
+        <h2><a name="Puffle_Roundup"></a>Puffle Roundup</h2>
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+              <tr>
+                <td valign="top"><p>Help round up puffles, Club Penguin&rsquo;s favorite pets when you play this game. Click on the Employees Only door in the Pet Shop and use your mouse to herd puffles into the fenced area. </p>
+                  <p>A round ends when all the puffles are herded into the pen or have run away. Coins are awarded based on the number of puffles you catch in the shortest amount of time.</p></td>
+                    <td valign="top"><p><img src="images/puffle-roundup.gif" width="350" height="220"></p></td>
+              </tr>
+            </table>
+        <div align="right"><a href="#top">back to top</a></div>
+        <h2><a name="thin-ice"></a>Thin Ice</h2>
+
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+          <tr>
+            <td valign="top"><p>Play this arcade game in the Lounge, located on the second floor of the Night Club. Use your arrow keys to guide the puffle through each maze and melt tiles. Earn coins for every tile melted. Read instructions available at the game for more information and tips. </p>                </td>
+            <td valign="top"><p><img src="images/thin-ice.gif" width="350" height="220"><br>
+            </p></td>
+          </tr>
+        </table>
+        <div align="right"><a href="#top">back to top</a></div>
+            <!-- InstanceEndEditable --></td>
+          </tr>
+        </table>
+	  </td>
+    </tr>
+</table>
+<table width="760" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center"><img src="../../images/waddle-around.gif" width="310" height="35"></td>
+    </tr>
+</table>
+  <!-- #BeginLibraryItem "/Library/disney-footer.lbi" -->
+  <table width="760" height="114" border="0" align="center" cellpadding="0" cellspacing="0">
+    <tr>
+      <td align="center" valign="top" class="copyright"><table width="330" height="4" border="0" cellpadding="0" cellspacing="0">
+          <tr>
+            <td></td>
+          </tr>
+        </table>
+          <img src="../../images/disney-logo.gif">
+          <p><span class="footernav"><a href="../../company/index.html" class="footernav">Company Info</a> | <a href="../../terms.htm" class="footernav">Terms</a> | <a href="../../privacy.htm" class="footernav">Privacy</a> | <a href="../../contact.htm" class="footernav">Contact Us</a> | <a href="../../sitemap.htm" class="footernav">Site Map</a> </span> <br>
+            Club Penguin &#8482; Club Penguin Entertainment Inc. &copy; 2007. All rights reserved.</p></td>
+    </tr>
+  </table>
+  <!-- #EndLibraryItem --></div>
+
+
+  
+</body>
+<!-- InstanceEnd --></html>

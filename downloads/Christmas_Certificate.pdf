@@ -1,0 +1,122 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1">
+<title>Club Penguin - Waddle around and meet new friends!</title>
+<SCRIPT src="flash/flash.js" type=text/javascript></SCRIPT>
+<link href="css/home.css" rel="stylesheet" type="text/css">
+</head>
+<body>
+<div id="wrap">
+  <div id="header">
+   
+   <script type="text/javascript">RunFlash('flash/HeaderHomepageTM.swf','760','189','#0094C6');</script>
+    
+	<NOSCRIPT>
+	  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
+	  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="760" height="189">
+        <param name="movie" value="flash/HeaderHomepageTM.swf">
+        <param name=quality value=high>
+        <param name="wmode" value="transparent">
+        <embed src="flash/HeaderHomepageTM.swf" width="760" height="189" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" wmode="transparent"></embed>
+    </object>
+    </NOSCRIPT>
+  </div>
+  <div id="right">
+    
+        <div id="play">
+		<div class="play-now">
+<a href="http://play.clubpenguin.com/" title="Play now!"><img src="images/play-now1.gif" alt="PLAY NOW!" width="247" height="80"></a></div>
+	</div>
+      <div id="video">
+	 
+	   <script type="text/javascript">RunFlash('flash/video5.swf','246','162','#0098CB');</script> 
+	   
+	   <NOSCRIPT>
+	  <object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" 
+	  codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" width="246" height="162">
+        <param name="movie" value="flash/video5.swf">
+        <param name=quality value=high>
+        <param name="wmode" value="transparent">
+        <embed src="flash/video5.swf" width="246" height="162" quality=high pluginspage="http://www.macromedia.com/shockwave/download/index.cgi?P1_Prod_Version=ShockwaveFlash" type="application/x-shockwave-flash" wmode="transparent"></embed>
+      </object>
+	  </NOSCRIPT>
+	   
+	   
+	   
+	   
+    </div>
+      <a href="https://secure.clubpenguin.com/membership/payment_giftcard.php"><img src="images/gift-cards-banner.gif" alt="Gift Card" width="249" height="64" border="0" class="banner"></a><a href="fun/index.html"><img src="images/fun-stuff-04.gif" alt="Fun Stuff" width="249" height="64" border="0" class="banner"></a><a href="fun/index.html"></a>
+      <div class="roundcont">
+      <div class="roundtop"></div>
+      <img src="images/awards.gif" alt="BBBOnLine&reg; Privacy and Children's Privacy Program" width="90" height="206" border="0" align="left" usemap="#Map" class="award">
+        <map name="Map">
+          <area shape="rect" coords="2,0,76,110" href="http://www.bbbonline.org/cks.asp?id=30601091152963567" target="_blank">
+        </map>
+        <div class="award-txt"><strong>Club Penguin Awards</strong><br>
+        <br>
+        The Better Business Bureau - Kid&rsquo;s Privacy Seal of Approval</div>
+        <div class="award-txt-bottom">&quot;Editors Choice&quot; award from Children's Technology Review Magazine</div> 
+      
+      <div class="roundbottom"></div>
+    </div>
+  </div>
+  <div class="yellow"><!-- empty --></div>
+  
+  <div id="introbox"><div id="intro">
+    <p>Club Penguin is a kid-friendly virtual world where children can play games, have fun and interact with each other.</p>
+    <ul>
+      <li>Kid-friendly chat</li>
+      <li>Lots of fun games</li>
+    </ul>
+    <ul>
+      <li>Nothing to download</li>
+      <li>Lots more!</li>
+    </ul>
+  </div></div>
+  <div class="yellow"><!-- empty --></div>
+  <div id="home-nav">
+    <div class="membership"><a href="https://secure.clubpenguin.com/membership/" class="membership">Membership</a></div>
+    <div class="shop"><a href="clubpenguinshop/index.html">Shop</a></div>
+    <div class="news"><a href="http://blog.clubpenguin.com/">What's New</a></div>
+    <div class="contact"><a href="contact.htm">Contact Us</a></div>
+  </div>
+  <div id="main">
+    <div id="black"><img src="images/black-drop.gif" alt="drop shadow" width="21" height="30"></div>
+    <div class="tbox">
+      <div class="tbutton"><a href="parents.htm"></a><a href="parents.htm"><img src="images/parents-guide-button2.gif" alt="Parents Guide" width="146" height="127" border="0"></a></div>
+      <div class="ttitle"><a href="parents.htm"></a><a href="parents.htm"><img src="images/parents-guide-title.gif" alt="Parents Guide" width="340" height="20" border="0"></a></div>
+      <p>Chatting and gaming are the two most popular online activities for  kids, yet most virtual worlds are focused on an older audience. We  wanted to create a fun, online world that we'd be comfortable letting  our own kids visit. <br>
+<a href="parents.htm"> Learn More</a></p>
+    </div>
+    <div class="spacer"></div>
+    <div class="tbox">
+      <div class="tbutton"><a href="help/index.html"></a><a href="help/index.html"><img src="images/help-support-button2.gif" alt="Help and Support" width="146" height="127" border="0"></a></div>
+      <div class="ttitle"><a href="help/index.html"></a><a href="help/index.html"><img src="images/help-and-support-title.gif" alt="Help and Support" width="340" height="20" border="0"></a></div>
+      <p>Need some navigation tips? Our help section contains all the answers to your questions along with some fun tutorials. <br><a href="help/index.html"> Learn More</a> </p><br>
+    </div>
+    <div class="spacer"></div>
+    <div class="tbox">
+      <div class="tbutton"><a href="https://secure.clubpenguin.com/membership/"></a><a href="https://secure.clubpenguin.com/membership/"><img src="images/membership-button2.gif" alt="Club Penguin Membership" width="146" height="127" border="0"></a></div>
+      <div class="ttitle"><a href="https://secure.clubpenguin.com/membership/"></a><a href="https://secure.clubpenguin.com/membership/"><img src="images/membership-title.gif" alt="Club Penguin Membership" width="340" height="20" border="0"></a></div>
+      <p>Want to become a member of Club Penguin? Learn what membership is all  about and find out why so many have already become members. <br> <a href="https://secure.clubpenguin.com/membership/">Learn More</a></p><br>
+    </div>
+    <div class="spacer"></div>
+    <div class="tbox">
+      <div class="tbutton"><a href="clubpenguinshop/index.html"></a><a href="clubpenguinshop/index.html"><img src="images/shop-button2.gif" alt="Club Penguin Shop" width="146" height="127" border="0"></a></div>
+      <div class="ttitle"><a href="clubpenguinshop/index.html"></a><a href="clubpenguinshop/index.html"><img src="images/shop-title.gif" alt="Club Penguin Shop" width="340" height="20" border="0"></a></div>
+      <p>Now you can take ClubPenguin with you! Check out our shop to see the latest in <a href="clubpenguinshop/index.html"></a>penguin gear. <a href="clubpenguinshop/index.html">Learn More</a></p><br><br><br><br>
+    </div>
+    <div class="spacer"></div>
+  </div>
+  <div id="footer">
+    <div class="yellow"> <!-- empty --></div>
+    <div id="footer-nav">
+      <div id="spacer"></div>
+    <a href="company/index.html"><br>
+    Company Info</a> | <a href="terms.htm">Terms</a> | <a href="privacy.htm">Privacy</a> | <a href="company/index.html">Contact Us</a> | <a href="sitemap.htm">Site Map</a>  <br>
+ Club Penguin <span class="copyright">&#8482;</span> New Horizon Interactive. &copy; 2007. All rights reserved.</div>
+  </div>
+</div>
+</body>
+</html>

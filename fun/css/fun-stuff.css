@@ -1,0 +1,59 @@
+form {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	}
+
+input {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+textarea {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 9px;
+}
+
+select {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+}
+
+ol {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 12px;
+	list-style-type: decimal;
+	list-style-position: outside;
+}
+
+.box1 {
+	padding: 3px;
+	border-width: thin;
+	border-style: solid;
+	border-color: #CCCCCC #666666 #666666 #CCCCCC;
+}
+.button {
+	font-family: Arial, Helvetica, sans-serif;
+	font-size: 13px;
+	font-weight: bold;
+	color: #007AA3;
+	text-decoration: none;
+}
+
+.button A:link {
+	color: #007AA3;
+	text-decoration: none;
+}
+
+.button A:visited {
+	color: #007AA3;
+	text-decoration: none;
+}
+.button A:active {
+	color: #007AA3;
+	text-decoration: none;
+}
+.button A:hover {
+	color: #FF9900;
+	text-decoration: none;
+}
+

@@ -1,0 +1,167 @@
+<html><!-- InstanceBegin template="/Templates/Miniclip-Help.dwt" codeOutsideHTMLIsLocked="false" -->
+<head>
+<!-- InstanceBeginEditable name="doctitle" -->
+<title>Club Penguin</title>
+<!-- InstanceEndEditable -->
+
+<script type="text/javascript">
+function goAnchor( id )
+{
+	anchorPos = document.getElementById( id ).offsetTop;
+	document.body.scrollTop = anchorPos;
+	return false;
+}
+
+function getQueryVariable(variable) 
+{
+	var query = window.location.search.substring(1);
+
+	if (query.length > 0)
+	{
+		var vars = query.split("&");
+		
+		for (var i=0; i<vars.length; i++) 
+		{
+			var pair = vars[i].split("=");
+			
+			if (pair[0] == variable) 
+			{
+				return pair[1];
+			}
+		}
+	}
+	else
+	{
+		return '';
+	}
+}
+</script>
+<!-- InstanceBeginEditable name="head" --><!-- InstanceEndEditable -->
+<link href="../../../style-miniclip.css" rel="stylesheet" type="text/css">
+</head>
+
+
+<body id="top">
+<div id="wrap"><!-- InstanceBeginEditable name="Content" -->
+  <a href="../index.html">Club Penguin Help</a> &gt; Guide
+  <h1>Your Igloo </h1>
+  
+  <ul>
+    <li><a href="#" onClick="return goAnchor('open-igloo')">Open Your Igloo </a></li>
+    <li><a href="#" onClick="return goAnchor('edit-igloo')">Edit Your Igloo  (Members Only) </a></li>
+    <li><a href="#" onClick="return goAnchor('play-music')">How to Play Music</a></li>
+  </ul>
+ 
+  <table width="100%"  border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="6%"><span class="lg_title"></span></td>
+      <td width="94%"><strong><a href="../tutorials/howtoigloo.htm"><img src="../../../images/play-tutorial-blue.gif" alt="How to edit your igloo" width="102" height="32" border="0" align="left"></a></strong></td>
+    </tr>
+  </table>
+  <strong><a href="../tutorials/howtoigloo.htm"></a></strong>
+  <div id="open-igloo">
+    <h2>Open Your Igloo </h2>
+	
+	<div align="right">
+      <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+        <tr>
+          <td valign="top"><ul>
+              <li class="plaintext"> If you are a member, you can open your igloo to other players. This means they can come and visit you, even if they are not on your buddy list. </li>
+              <li class="plaintext"> When you are in your igloo, if you would like other players to visit you, click on the lock icon on the right side. This will &ldquo;open&rdquo; your igloo to other players by adding it to the map. </li>
+              <li class="plaintext"> If you want to visit another player&rsquo;s igloo, open the map, click on the igloo, and select the name of a penguin who you would like to visit. </li>
+              <li class="plaintext"><FONT face=Arial><SPAN 
+style="FONT-FAMILY: Arial">To close your igloo, click the lock again. If you log out, your igloo is automatically locked again.<o:p></o:p></SPAN></FONT><FONT face=Arial><SPAN 
+style="FONT-SIZE: 10pt; FONT-FAMILY: Arial"><o:p></o:p></SPAN></FONT></li>
+              <li class="plaintext"> You can always visit a buddy&rsquo;s igloo, even when they are not online. Simply open your buddy list, select their name to bring up the player card, and then click on the house icon.</li>
+          </ul></td>
+          <td valign="top"><p><img src="../../../images/screenshots/open-igloo.gif" width="350" height="220"></p></td>
+        </tr>
+      </table>
+      <p><a href="#" onClick="return goAnchor('top')">        Back to top</a> </p>
+	</div>
+    <div id="edit-igloo">
+      <h2>Edit Your Igloo  (Members Only) </h2>
+      <div align="right">
+        <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+          <tr>
+            <td valign="top"><ul>
+                <li class="plaintext">Every player gets an igloo to call home. To go to your igloo, click the house icon on the right of your toolbar.</li>
+                <li class="plaintext"> Once in your igloo, you can buy and move furniture. To buy new igloo furnishings or move items you already own, you must be in <strong>edit</strong> mode. (Note: You must be a member to purchase items).</li>
+                <li class="plaintext">For <strong>edit </strong>mode: click the tape measure on the bottom right.</li>
+                <li class="plaintext">In edit mode: you can purchase furniture and decorate your igloo. </li>
+                <li class="plaintext">To view furniture: click storage box on right of screen. </li>
+                <li class="plaintext">To buy furniture: click the blue catalog on the right of your screen. Select the item you want to buy and click ‘yes’. Purchased items are automatically added to storage. The coins will be removed from your account.</li>
+                <li class="plaintext">To place items: open storage, choose item and click the area you want it placed. To remove an item from your igloo, select the item and click outside the igloo frame. Items will automatically be placed back in storage.</li>
+                <li class="plaintext">To move items: select item and click where you want to place it.</li>
+                <li class="plaintext">To rotate items: click item and use left and right arrow keys on your keyboard. The up and down keys alter items in different ways. For instance, the up arrow will fill the garbage can, while the down arrow will empty it. Use up and down arrows with different items to see what they do.</li>
+                <li class="plaintext"><strong>Important</strong>: You must get out of edit mode in order to exit your igloo or move around, and to save your changes. To get out of edit mode, click the tape measure again.
+                  <br>
+                  Use the map to exit your igloo. If you walk to the door, the map will open automatically.</li>
+            </ul></td>
+            <td valign="top">
+              <table width="100%"  border="0" cellspacing="0" cellpadding="0">
+                <tr>
+                  <td><img src="../../../images/screenshots/edit-igloo-2.gif" width="350" height="220"></td>
+                </tr>
+                <tr>
+                  <td><img src="../../../images/screenshots/edit-igloo-3.gif" width="350" height="220"></td>
+                </tr>
+              </table>              <p>&nbsp;</p></td>
+          </tr>
+        </table>
+        <p><a href="#" onClick="return goAnchor('top')">        Back to top</a> </p>
+      </div>
+      <div id="play-music">
+        <h2>How to Play Music </h2>
+        <div align="right">
+          <table width="100%"  border="0" cellspacing="0" cellpadding="10">
+            <tr>
+              <td valign="top" class="plaintext"><ul>
+                  <li>To play music in your igloo, you first need something to play music with, like the Jukebox or Home Stereo.</li>
+                  <li>If you own either of these items, click on the tape measure at the bottom right when you&rsquo;re in your igloo. This allows you to edit your igloo. </li>
+                  <li> Once you&rsquo;re in Edit mode, if your Jukebox or Home Stereo is already in your igloo, a cassette tape icon will appear on the right. </li>
+                  <li>If your Jukebox or Home Stereo is in storage, you still cannot play the music. To place the items in your igloo and out of storage, click on the box icon, and then click on the Jukebox or Home Stereo. Then click in your igloo where you want to place it. </li>
+                  <li>You should now see the cassette tape icon. Once that icon is visible, click it. </li>
+                  <li> This will open the Music List. Click on the song you want to play! </li>
+                  <li>To turn the music off, open the Music List again, and click &ldquo;No Music&rdquo;. </li>
+                  <li>Remember to click the tape measure again to get out of edit mode. </li>
+                </ul>
+                  <p>If you would like to play music but you do not own the Juke Box or Home Stereo:</p>
+                  <ul>
+                    <li>First click the tape measure; </li>
+                    <li>Then the blue catalog to buy either item. </li>
+              </ul></td>
+              <td valign="top"><table width="100%"  border="0" cellspacing="0" cellpadding="0">
+                    <tr>
+                      <td><img src="../../../images/screenshots/music1.gif" width="350" height="220"></td>
+                    </tr>
+                    <tr>
+                      <td><img src="../../../images/screenshots/music2.gif" width="350" height="220"></td>
+                    </tr>
+                  </table>                  <p>&nbsp;</p></td>
+            </tr>
+          </table>
+          <p><a href="#" onClick="return goAnchor('top')">        Back to top</a>          </p>
+        </div>
+      </div>
+    </div>      
+  </div>
+  <!-- InstanceEndEditable --></div>
+<script>
+	var anchorTag = getQueryVariable('anchor');
+	
+	if (anchorTag.length > 0)
+	{
+		goAnchor(anchorTag);
+	}
+</script>
+<table width="700" border="0" cellpadding="10" cellspacing="0">
+  <tr>
+    <td><div align="right"><a href="../index.html" class="note">Help</a> | <a href="../../privacy.htm" class="note"></a><a href="../../parents.htm" class="note">Parents Guide</a> | <a href="../../privacy.htm" class="note"></a><a href="../../terms.htm" class="note">Terms</a> | <a href="../../privacy.htm" class="note">Privacy</a></div></td>
+  </tr>
+</table> 
+
+</body>
+<!-- InstanceEnd --></html>
+
+

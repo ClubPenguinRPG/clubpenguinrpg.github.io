@@ -1,0 +1,14 @@
+@charset "UTF-8";
+/* CSS Document */
+
+#where-to-buy {
+	outline:none;
+	border:none;
+	margin:0 auto 0 auto;
+	width:900px;
+	height: 1px;
+}
+
+.subpage #content .padd {
+	padding:40px 30px 0px;
+}

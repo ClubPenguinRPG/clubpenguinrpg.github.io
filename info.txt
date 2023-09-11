@@ -1,0 +1,15 @@
+
+# Contact info submission
+
+url: clubpenguin.com/
+site_owner: New Horizon Interactive
+address1: 410-Dickson Ave
+address2: 
+city:  Kelowna
+state: BC
+country: Canada
+postal_code: V1Y 9Y2
+phone_number: 1 250 868 8622
+display_email: business@clubpenguin.com
+site_name: Club Penguin
+site_description: Club Penguin is a kid-friendly virtual world where children can play games, have fun and interact with each other.
