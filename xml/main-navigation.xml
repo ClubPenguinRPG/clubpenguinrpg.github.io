@@ -1,1 +1,30 @@
-en 0xFFFFFF 0xFFBE06 http://www.clubpenguin.com/ Membership http://www.clubpenguin.com/membership/ Membership http://www.clubpenguin.com/membership/ Membership Cards https://secure.clubpenguin.com/membership/membership_cards.htm Manage Accounts https://secure.clubpenguin.com/manage_account/login.php Customer Service http://support.clubpenguin.com/help/faq/faq.htm Community http://community.clubpenguin.com/ What's New http://community.clubpenguin.com/blog/ Global Citizenship http://www.clubpenguin.com/global-citizenship/ Parents http://www.clubpenguin.com/parents/ Overview http://www.clubpenguin.com/parents/club_penguin_guide.htm Safety http://www.clubpenguin.com/parents/player_safety.htm Global Citizenship http://www.clubpenguin.com/global-citizenship/ Manage Accounts https://secure.clubpenguin.com/manage_account/login.php Recognition http://www.clubpenguin.com/parents/what_people_are_saying.htm Toys http://www.clubpenguin.com/toys/ All Toys http://www.clubpenguin.com/toys/all-toys Unlock Items http://play.clubpenguin.com/#/redeem/ Treasure Book http://www.clubpenguin.com/toys/treasurebooks/unlock_catalog.htm Online Store javascript:confirmationNorthAmericaWorldwide() Where To Buy http://www.clubpenguin.com/toys/where-to-buy/ Mobile http://community.clubpenguin.com/club-penguin-mobile-apps/ Company http://www.clubpenguin.com/company/index.htm About http://www.clubpenguin.com/company/about.htm News http://www.clubpenguin.com/company/news.htm Jobs http://www.clubpenguin.com/company/jobs/index.htm Contacts http://www.clubpenguin.com/company/company_contacts.htm Help and Tutorials http://support.clubpenguin.com/help/help/ FAQ http://support.clubpenguin.com/help/faq/ Technical Questions http://support.clubpenguin.com/help/technical/ Contact Us http://support.clubpenguin.com/help/contact/ http://www.clubpenguin.com/ PLAY NOW! http://play.clubpenguin.com/ ENGLISH en PORTUGUÊS pt FRANÇAIS fr ESPAÑOL es
+<MAIN-NAVIGATION>
+  <MENU-ITEM text="Membership" link="http://www.clubpenguin.com/membership/">
+    <SUBMENU-ITEM text="Membership Cards" link="https://secure.clubpenguin.com/membership/membership_cards.php"/>
+    <SUBMENU-ITEM text="Manage Accounts" link="https://secure.clubpenguin.com/manage_account/login.php"/>
+  </MENU-ITEM>
+  <MENU-ITEM text="Customer Service" link="http://support.clubpenguin.com/help/faq/"/>
+  <MENU-ITEM text="Fun Stuff" link="http://community.clubpenguin.com/">
+    <SUBMENU-ITEM text="What's New" link="http://community.clubpenguin.com/blog/"/>
+  </MENU-ITEM>
+  <MENU-ITEM text="Global Citizenship" link="http://www.clubpenguin.com/global-citizenship/"/>
+  <MENU-ITEM text="Parents" link="http://www.clubpenguin.com/parents/">
+    <SUBMENU-ITEM text="Overview" link="http://www.clubpenguin.com/parents/club_penguin_guide.htm"/>
+    <SUBMENU-ITEM text="Safety" link="http://www.clubpenguin.com/parents/player_safety.htm"/>
+  </MENU-ITEM>
+  <MENU-ITEM text="Products" link="http://www.clubpenguin.com/products/">
+    <SUBMENU-ITEM text="All Toys" link="http://www.clubpenguin.com/products"/>
+    <SUBMENU-ITEM text="Unlock Items" link="http://play.clubpenguin.com/#/redeem/"/>
+    <SUBMENU-ITEM text="Treasure Book" link="http://www.clubpenguin.com/products/treasurebooks/"/>
+    <SUBMENU-ITEM text="Online Store" link="javascript:confirmationNorthAmericaWorldwide()"/>
+    <SUBMENU-ITEM text="Where To Buy" link="http://www.clubpenguin.com/products/where-to-buy/"/>
+  </MENU-ITEM>
+  <MENU-ITEM text="Help" link="http://support.clubpenguin.com/help/">
+    <SUBMENU-ITEM text="Help and Tutorials" link="http://support.clubpenguin.com/help/help/"/>
+    <SUBMENU-ITEM text="FAQ" link="http://support.clubpenguin.com/help/faq/"/>
+    <SUBMENU-ITEM text="Technical Questions" link="http://support.clubpenguin.com/help/technical/"/>
+    <SUBMENU-ITEM text="Contact Us" link="http://support.clubpenguin.com/help/contact/"/>
+  </MENU-ITEM>
+  <MENU-ITEM text="PLAY NOW!" link="http://play.clubpenguin.com/"/>
+  <LANGUAGE-SELECT text="Language Select" link="ENGLISH en PORTUGUÊS pt FRANÇAIS fr ESPAÑOL es DEUTSCH de"/>
+</MAIN-NAVIGATION>
